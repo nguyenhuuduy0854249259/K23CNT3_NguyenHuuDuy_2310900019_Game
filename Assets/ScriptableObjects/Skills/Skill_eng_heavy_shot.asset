@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_eng_heavy_shot
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: eng_heavy_shot
+  skillName: "Ph\xE1t B\u1EAFn N\xE9n Nhi\u1EC7t"
+  description: "B\u1EAFn ph\xE1t \u0111\u1EA1n nhi\u1EC7t c\u1EF1c m\u1EA1nh t\u0103ng
+    Heat."
+  icon: {fileID: 0}
+  targetType: 1
+  element: 1
+  damageType: 0
+  manaCost: 14
+  cooldownSeconds: 1.5
+  damageMultiplier: 1.9
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 3274860500779130891, guid: bcfec2cc994ffdd4fa7231c9613efd19, type: 3}
+  hitVfxPrefab: {fileID: 0}

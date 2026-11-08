@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: e6f756b7497099a46ba2838056f7e113
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4256770387264126694
+    second: player_holy_dark_priest_0
+  - first:
+      213: -5522696830461148177
+    second: player_holy_dark_priest_1
+  - first:
+      213: 6265277039725175527
+    second: player_holy_dark_priest_2
+  - first:
+      213: 3855758399560335959
+    second: player_holy_dark_priest_3
+  - first:
+      213: 3584732196609405185
+    second: player_holy_dark_priest_4
+  - first:
+      213: -5576843611657644537
+    second: player_holy_dark_priest_5
+  - first:
+      213: 3609625638947084305
+    second: player_holy_dark_priest_6
+  - first:
+      213: 6718291674226373515
+    second: player_holy_dark_priest_7
+  - first:
+      213: -7852545670733754762
+    second: player_holy_dark_priest_8
+  - first:
+      213: 4043987841790247255
+    second: player_holy_dark_priest_9
+  - first:
+      213: -4348768747071137898
+    second: player_holy_dark_priest_10
+  - first:
+      213: -1242574901396863893
+    second: player_holy_dark_priest_11
+  - first:
+      213: -3331601039340891983
+    second: player_holy_dark_priest_12
+  - first:
+      213: -4282111970675483602
+    second: player_holy_dark_priest_13
+  - first:
+      213: -2209672267506099340
+    second: player_holy_dark_priest_14
+  - first:
+      213: -3724640412588961158
+    second: player_holy_dark_priest_15
+  - first:
+      213: 6538198996399675412
+    second: player_holy_dark_priest_16
+  - first:
+      213: 6742143291250569806
+    second: player_holy_dark_priest_17
+  - first:
+      213: 3317930284576563320
+    second: player_holy_dark_priest_18
+  - first:
+      213: -4503669870624720152
+    second: player_holy_dark_priest_19
+  - first:
+      213: -6887852824700288163
+    second: player_holy_dark_priest_20
+  - first:
+      213: 7345159017193097846
+    second: player_holy_dark_priest_21
+  - first:
+      213: -8484500665442020954
+    second: player_holy_dark_priest_22
+  - first:
+      213: -4349688706227007585
+    second: player_holy_dark_priest_23
+  - first:
+      213: 8785268089513789907
+    second: player_holy_dark_priest_24
+  - first:
+      213: 6007701320367594793
+    second: player_holy_dark_priest_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_holy_dark_priest_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeb7472d16131b30800000000000000
+      internalID: 4256770387264126694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe300324e707b53b0800000000000000
+      internalID: -5522696830461148177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2ea34d54cb2f650800000000000000
+      internalID: 6265277039725175527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752c581f5d7628530800000000000000
+      internalID: 3855758399560335959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1013fc9a0f68fb130800000000000000
+      internalID: 3584732196609405185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7065d3758421b92b0800000000000000
+      internalID: -5576843611657644537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118559dd467f71230800000000000000
+      internalID: 3609625638947084305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b833ab3ceaa2c3d50800000000000000
+      internalID: 6718291674226373515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e02692157260390800000000000000
+      internalID: -7852545670733754762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75108e124812f1830800000000000000
+      internalID: 4043987841790247255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69711848dd116a3c0800000000000000
+      internalID: -4348768747071137898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b648c6be5bc71cee0800000000000000
+      internalID: -1242574901396863893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b093cc9186c3c1d0800000000000000
+      internalID: -3331601039340891983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c907ba9d1e294c0800000000000000
+      internalID: -4282111970675483602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5441b7caa551e0800000000000000
+      internalID: -2209672267506099340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72129b574b6f4cc0800000000000000
+      internalID: -3724640412588961158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d73ba8595cba50800000000000000
+      internalID: 6538198996399675412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f5cb1a97e09d50800000000000000
+      internalID: 6742143291250569806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87062b1c308ab0e20800000000000000
+      internalID: 3317930284576563320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eab8c73d10cf71c0800000000000000
+      internalID: -4503669870624720152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53819e695e6960a0800000000000000
+      internalID: -6887852824700288163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a4d86b53f3fe560800000000000000
+      internalID: 7345159017193097846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a153cbf89ff04a80800000000000000
+      internalID: -8484500665442020954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f8fc5da2dc2a3c0800000000000000
+      internalID: -4349688706227007585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d94b04f7ca8be970800000000000000
+      internalID: 8785268089513789907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_holy_dark_priest_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dd72d4584af5350800000000000000
+      internalID: 6007701320367594793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      player_holy_dark_priest_0: 4256770387264126694
+      player_holy_dark_priest_1: -5522696830461148177
+      player_holy_dark_priest_10: -4348768747071137898
+      player_holy_dark_priest_11: -1242574901396863893
+      player_holy_dark_priest_12: -3331601039340891983
+      player_holy_dark_priest_13: -4282111970675483602
+      player_holy_dark_priest_14: -2209672267506099340
+      player_holy_dark_priest_15: -3724640412588961158
+      player_holy_dark_priest_16: 6538198996399675412
+      player_holy_dark_priest_17: 6742143291250569806
+      player_holy_dark_priest_18: 3317930284576563320
+      player_holy_dark_priest_19: -4503669870624720152
+      player_holy_dark_priest_2: 6265277039725175527
+      player_holy_dark_priest_20: -6887852824700288163
+      player_holy_dark_priest_21: 7345159017193097846
+      player_holy_dark_priest_22: -8484500665442020954
+      player_holy_dark_priest_23: -4349688706227007585
+      player_holy_dark_priest_24: 8785268089513789907
+      player_holy_dark_priest_25: 6007701320367594793
+      player_holy_dark_priest_3: 3855758399560335959
+      player_holy_dark_priest_4: 3584732196609405185
+      player_holy_dark_priest_5: -5576843611657644537
+      player_holy_dark_priest_6: 3609625638947084305
+      player_holy_dark_priest_7: 6718291674226373515
+      player_holy_dark_priest_8: -7852545670733754762
+      player_holy_dark_priest_9: 4043987841790247255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

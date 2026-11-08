@@ -1,0 +1,32 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "shield_icon",
+  "canvas": [12, 14],
+  "anchor_px": [6, 7],
+  "palette": {
+    "k": "#1a1c2c",
+    "d": "#566c86",
+    "s": "#94b0c2",
+    "g": "#ffcd75",
+    "o": "#ef7d57",
+    "w": "#ffffff"
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "shield",
+      "z": 0,
+      "origin": [2, 2],
+      "rows": [
+        ".gggggg.",
+        "ggwsssdg",
+        "gwsgssdg",
+        "gssgggdg",
+        "gsssgddg",
+        ".gsggdg.",
+        "..gssg..",
+        "...oo..."
+      ]
+    }
+  ]
+}

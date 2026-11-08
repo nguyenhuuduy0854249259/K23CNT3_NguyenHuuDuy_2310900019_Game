@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_mage_fire_orb
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: mage_fire_orb
+  skillName: "H\u1ECFa C\u1EA7u (Fire Orb)"
+  description: "Ph\xF3ng m\u1ED9t qu\u1EA3 c\u1EA7u l\u1EEDa theo \u0111\u01B0\u1EDDng
+    th\u1EB3ng; ph\xE1t n\u1ED5 khi ch\u1EA1m m\u1EE5c ti\xEAu \u0111\u1EA7u ti\xEAn,
+    g\xE2y s\xE1t th\u01B0\u01A1ng ph\xE9p di\u1EC7n r\u1ED9ng xung quanh."
+  icon: {fileID: 21300000, guid: 25d9884f9b2029b40ac90b615ae95ac0, type: 3}
+  targetType: 1
+  element: 1
+  damageType: 0
+  manaCost: 15
+  cooldownSeconds: 2.5
+  damageMultiplier: 2
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 6034461175269572205, guid: 9cc144129f0d52c0367abcbeb932993f, type: 3}
+  hitVfxPrefab: {fileID: 4214379324146668556, guid: 045f55d1da19c8e0b4ef3f262409e911, type: 3}

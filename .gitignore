@@ -1,0 +1,47 @@
+# ==========================================
+# Environment & Secrets (Bảo mật thông tin)
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Python & Virtual Environments
+# ==========================================
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# ==========================================
+# Unity generated files & directories
+# ==========================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Visual Studio / VS Code / Rider cache
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS generated files
+.DS_Store
+Thumbs.db

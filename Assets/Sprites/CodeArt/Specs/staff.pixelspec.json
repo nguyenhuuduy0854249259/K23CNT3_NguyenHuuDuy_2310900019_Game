@@ -1,0 +1,46 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "staff",
+  "canvas": [16, 24],
+  "anchor_px": [8, 16],
+  "palette": {
+    "k": "#1a1c2c",
+    "m": "#5d275d",
+    "w": "#8f563b",
+    "l": "#d9a066",
+    "g": "#ffcd75",
+    "d": "#ef7d57",
+    "b": "#3b5dc9",
+    "c": "#41a6f6",
+    "i": "#73eff7",
+    "h": "#ffffff"
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "weapon",
+      "z": 0,
+      "origin": [5, 2],
+      "rows": [
+        "..ih..",
+        ".ihhc.",
+        "gihicg",
+        "g.cc.g",
+        ".gggg.",
+        "..gd..",
+        "..lw..",
+        "..lw..",
+        "..lw..",
+        "..gd..",
+        "..lw..",
+        "..lw..",
+        "..lw..",
+        "..gd..",
+        "..lw..",
+        "..lw..",
+        "..lw..",
+        "..gd.."
+      ]
+    }
+  ]
+}

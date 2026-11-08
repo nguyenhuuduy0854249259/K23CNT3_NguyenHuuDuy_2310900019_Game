@@ -1,0 +1,35 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "snare_trap",
+  "canvas": [16, 14],
+  "anchor_px": [8, 7],
+  "palette": {
+    "k": "#1a1c2c",
+    "d": "#333c57",
+    "s": "#566c86",
+    "l": "#94b0c2",
+    "w": "#f4f4f4",
+    "r": "#b13e53",
+    "g": "#ffcd75"
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "trap",
+      "z": 0,
+      "origin": [2, 2],
+      "rows": [
+        "..w.w..w.w..",
+        ".sslsddslss.",
+        "sldd....ddls",
+        "sd...gg...ds",
+        "ld..grrg..dl",
+        "ld..grrg..dl",
+        "sd...gg...ds",
+        "sldd....ddls",
+        ".sslsddslss.",
+        "..w.w..w.w.."
+      ]
+    }
+  ]
+}

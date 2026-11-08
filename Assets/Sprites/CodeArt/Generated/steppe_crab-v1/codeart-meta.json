@@ -1,0 +1,137 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "eeb1befdbdbd5562ae7f4189d597c192b2f307ba80d728220936627a6d26a1b1",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#161824",
+      "d": "#3d4659",
+      "s": "#65738c",
+      "l": "#97a6bf",
+      "r": "#b83b48",
+      "o": "#e6654e",
+      "w": "#ffffff"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/steppe_crab.png",
+      "sha256": "5b034b44c38c54ee33e7b455ac103bd4b3a014d84c4c359bf9a4cce72effb6c9",
+      "bytes": 330
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "69f1041c0f367889e27a5bbe284ba292668d53a63d6bab13617cbeb953ec2c1d",
+      "bytes": 527
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 6,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/steppe_crab.pixelspec.json",
+        "sha256": "eeb1befdbdbd5562ae7f4189d597c192b2f307ba80d728220936627a6d26a1b1",
+        "bytes": 787
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/steppe_crab.png",
+        "sha256": "5b034b44c38c54ee33e7b455ac103bd4b3a014d84c4c359bf9a4cce72effb6c9",
+        "bytes": 330
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/steppe_crab.png",
+        "variant": "base",
+        "frame": "steppe_crab",
+        "visible": 144,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 7,
+        "orphans": 42,
+        "l_corners": 6,
+        "outline_gaps": 0,
+        "bbox": [
+          0,
+          0,
+          18,
+          11
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "steppe_crab",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      18,
+      14
+    ],
+    "anchor_px": [
+      9,
+      12
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/steppe_crab.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

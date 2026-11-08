@@ -1,0 +1,141 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "29e45264b0413e37c36f9e95438e03be100f7bb8ef577d1b84ffcdc0eaf8481b",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#161822",
+      "r": "#9e333f",
+      "t": "#cc4b52",
+      "d": "#3d4356",
+      "s": "#68728c",
+      "l": "#9ba6bf",
+      "h": "#cfd8eb",
+      "w": "#5e3622",
+      "b": "#8f5638",
+      "f": "#ff9d3b",
+      "y": "#fff275"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/village_gate_pillar.png",
+      "sha256": "1aa1b040e0fc66dedda550e00d326dbaa458328c36e6cd081ca970b058e7006c",
+      "bytes": 361
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "c31654eefa200840506ff8cca151569f1fb41733f86ca85660de36f76c7b5b50",
+      "bytes": 645
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/village_gate_pillar.pixelspec.json",
+        "sha256": "29e45264b0413e37c36f9e95438e03be100f7bb8ef577d1b84ffcdc0eaf8481b",
+        "bytes": 1120
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/village_gate_pillar.png",
+        "sha256": "1aa1b040e0fc66dedda550e00d326dbaa458328c36e6cd081ca970b058e7006c",
+        "bytes": 361
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/village_gate_pillar.png",
+        "variant": "base",
+        "frame": "village_gate_pillar",
+        "visible": 225,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 11,
+        "orphans": 16,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          2,
+          0,
+          14,
+          22
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "village_gate_pillar",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      24
+    ],
+    "anchor_px": [
+      8,
+      22
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/village_gate_pillar.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "562232f772b83e6696e72972de8d3fa3c7a32acb509e65444fa742b534686f21",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#181a24",
+      "d": "#3d4356",
+      "s": "#646d85",
+      "l": "#97a1b8",
+      "h": "#c7d0e0",
+      "w": "#6e4228",
+      "b": "#9c633b",
+      "g": "#3a7d44"
+    },
+    "variants": {
+      "horizontal": {},
+      "pillar": {
+        "b": "#ba7b48",
+        "h": "#dce4f2"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "horizontal/frames/village_wall.png",
+      "sha256": "05e13e4e6ce03ebfa54e4c29d6a61f11537bb9d1e52c73e073713bbfb06febc9",
+      "bytes": 337
+    },
+    {
+      "path": "pillar/frames/village_wall.png",
+      "sha256": "e77810558cdbe5c4af11967110ca519eebe299b800048097c59c2f09fae4d2fd",
+      "bytes": 345
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "d44b5215fb1075aeea16680d8aff7ce0cbe6b07baf1d02e68183b89d602a5901",
+      "bytes": 908
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec.",
+      "Outline continuity and L-corners: the spec has no outline, so they were not measured."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "skipped",
+        "value": null,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "skipped",
+        "value": null,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/village_wall.pixelspec.json",
+        "sha256": "562232f772b83e6696e72972de8d3fa3c7a32acb509e65444fa742b534686f21",
+        "bytes": 962
+      }
+    ],
+    "outputs": [
+      {
+        "path": "horizontal/frames/village_wall.png",
+        "sha256": "05e13e4e6ce03ebfa54e4c29d6a61f11537bb9d1e52c73e073713bbfb06febc9",
+        "bytes": 337
+      },
+      {
+        "path": "pillar/frames/village_wall.png",
+        "sha256": "e77810558cdbe5c4af11967110ca519eebe299b800048097c59c2f09fae4d2fd",
+        "bytes": 345
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "horizontal/frames/village_wall.png",
+        "variant": "horizontal",
+        "frame": "village_wall",
+        "visible": 214,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 8,
+        "l_corners": null,
+        "outline_gaps": null,
+        "bbox": [
+          0,
+          1,
+          16,
+          15
+        ]
+      },
+      {
+        "file": "pillar/frames/village_wall.png",
+        "variant": "pillar",
+        "frame": "village_wall",
+        "visible": 214,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 8,
+        "l_corners": null,
+        "outline_gaps": null,
+        "bbox": [
+          0,
+          1,
+          16,
+          15
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "village_wall",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      16
+    ],
+    "anchor_px": [
+      8,
+      14
+    ],
+    "outline": "none",
+    "variants": {
+      "horizontal": "horizontal",
+      "pillar": "pillar"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/village_wall.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

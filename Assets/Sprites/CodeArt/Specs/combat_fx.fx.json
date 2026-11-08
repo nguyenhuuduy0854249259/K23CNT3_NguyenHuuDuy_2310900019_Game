@@ -1,0 +1,94 @@
+{
+  "schema": "codeart2d.fx.v1",
+  "canvas": [40, 40],
+  "origin": [16, 20],
+  "palette": {
+    "white": "#ffffff",
+    "ice": "#73eff7",
+    "cyan": "#41a6f6",
+    "blue": "#3b5dc9",
+    "gold": "#ffcd75",
+    "ember": "#ef7d57",
+    "red": "#b13e53",
+    "lime": "#a7f070",
+    "green": "#38b764",
+    "ink": "#1a1c2c"
+  },
+  "routes": ["pixel"],
+  "effects": [
+    {
+      "id": "slash_arc",
+      "durationMs": 200,
+      "impactMs": 100,
+      "seed": 7,
+      "outline": "ink",
+      "ramps": {
+        "blade": ["white", "ice", "cyan", "blue"]
+      },
+      "primitives": [
+        {
+          "type": "slash",
+          "ramp": "blade",
+          "center": [14, 20],
+          "radius": 13,
+          "from": -65,
+          "to": 65,
+          "width": 5,
+          "trail": 0.92
+        }
+      ]
+    },
+    {
+      "id": "hit_spark",
+      "durationMs": 200,
+      "impactMs": 0,
+      "seed": 11,
+      "outline": "ink",
+      "ramps": {
+        "hit": ["white", "gold", "ember", "red"]
+      },
+      "primitives": [
+        {
+          "type": "flash",
+          "ramp": "hit",
+          "origin": [20, 20],
+          "radius": 3,
+          "rays": 4,
+          "rayLength": 7,
+          "rotation": 45,
+          "lifeMs": 120
+        },
+        {
+          "type": "sparks",
+          "ramp": "hit",
+          "origin": [20, 20],
+          "count": 8,
+          "spread": 360,
+          "speed": 45,
+          "lifeMs": 180,
+          "length": 3
+        }
+      ]
+    },
+    {
+      "id": "shock_ring",
+      "durationMs": 250,
+      "impactMs": 0,
+      "seed": 19,
+      "outline": "ink",
+      "ramps": {
+        "wave": ["white", "gold", "ember"]
+      },
+      "primitives": [
+        {
+          "type": "ring",
+          "ramp": "wave",
+          "origin": [20, 20],
+          "radius": [4, 15],
+          "width": [3, 2],
+          "lifeMs": 240
+        }
+      ]
+    }
+  ]
+}

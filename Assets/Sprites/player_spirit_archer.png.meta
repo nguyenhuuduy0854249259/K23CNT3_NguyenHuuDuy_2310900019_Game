@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 1a4dc4b82c959b24483a504845514857
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9023780094956755378
+    second: player_spirit_archer_0
+  - first:
+      213: 5439025266072833714
+    second: player_spirit_archer_1
+  - first:
+      213: 4086509281988304885
+    second: player_spirit_archer_2
+  - first:
+      213: -1574818473299473890
+    second: player_spirit_archer_3
+  - first:
+      213: 5723853865145420776
+    second: player_spirit_archer_4
+  - first:
+      213: -2996613757203362081
+    second: player_spirit_archer_5
+  - first:
+      213: -6118526769372532625
+    second: player_spirit_archer_6
+  - first:
+      213: 5657413976411666821
+    second: player_spirit_archer_7
+  - first:
+      213: -7325830926288558349
+    second: player_spirit_archer_8
+  - first:
+      213: -8251501015086468154
+    second: player_spirit_archer_9
+  - first:
+      213: -6348695680213918751
+    second: player_spirit_archer_10
+  - first:
+      213: 3838298492110287542
+    second: player_spirit_archer_11
+  - first:
+      213: 7778303948633111258
+    second: player_spirit_archer_12
+  - first:
+      213: -5938214131143334745
+    second: player_spirit_archer_13
+  - first:
+      213: -4194297884317417604
+    second: player_spirit_archer_14
+  - first:
+      213: -6826393570222093642
+    second: player_spirit_archer_15
+  - first:
+      213: 3521890015434511181
+    second: player_spirit_archer_16
+  - first:
+      213: 1335292997709573149
+    second: player_spirit_archer_17
+  - first:
+      213: -831131264351408710
+    second: player_spirit_archer_18
+  - first:
+      213: 3052344790961425261
+    second: player_spirit_archer_19
+  - first:
+      213: -6881771794752259207
+    second: player_spirit_archer_20
+  - first:
+      213: 5771427506684589484
+    second: player_spirit_archer_21
+  - first:
+      213: -15887187660356894
+    second: player_spirit_archer_22
+  - first:
+      213: 538181107216598346
+    second: player_spirit_archer_23
+  - first:
+      213: 544386055716426886
+    second: player_spirit_archer_24
+  - first:
+      213: 8485493882836224901
+    second: player_spirit_archer_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_spirit_archer_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46acdc40d715c280800000000000000
+      internalID: -9023780094956755378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be45ac89ac4b7b40800000000000000
+      internalID: 5439025266072833714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffdf3c6a8236b830800000000000000
+      internalID: 4086509281988304885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a034931fe152ae0800000000000000
+      internalID: -1574818473299473890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4d3a93c63f6f40800000000000000
+      internalID: 5723853865145420776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde48d02aa3e966d0800000000000000
+      internalID: -2996613757203362081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f4d21250a61ba0800000000000000
+      internalID: -6118526769372532625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589f85b890c238e40800000000000000
+      internalID: 5657413976411666821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6eff1269b655a90800000000000000
+      internalID: -7325830926288558349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3fefb8b87cc7d80800000000000000
+      internalID: -8251501015086468154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebdac96ae6e4e7a0800000000000000
+      internalID: -6348695680213918751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2b6247420644530800000000000000
+      internalID: 3838298492110287542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 22
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada7b45ea3612fb60800000000000000
+      internalID: 7778303948633111258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a42ff0b5b9379da0800000000000000
+      internalID: -5938214131143334745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f761beb4cdac5c0800000000000000
+      internalID: -4194297884317417604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bac6e53737c341a0800000000000000
+      internalID: -6826393570222093642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4318fb2f4440e030800000000000000
+      internalID: 3521890015434511181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cab8f18e9e78210800000000000000
+      internalID: 1335292997709573149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdec92c48a3774f0800000000000000
+      internalID: -831131264351408710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b05455a6b1c5a20800000000000000
+      internalID: 3052344790961425261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b3d7c83090f70a0800000000000000
+      internalID: -6881771794752259207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca57ade2dba381050800000000000000
+      internalID: 5771427506684589484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_22
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2460fdfae87cff0800000000000000
+      internalID: -15887187660356894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45c8789dd0087700800000000000000
+      internalID: 538181107216598346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68457afbb3c0e8700800000000000000
+      internalID: 544386055716426886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_spirit_archer_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b04367ab782c570800000000000000
+      internalID: 8485493882836224901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      player_spirit_archer_0: -9023780094956755378
+      player_spirit_archer_1: 5439025266072833714
+      player_spirit_archer_10: -6348695680213918751
+      player_spirit_archer_11: 3838298492110287542
+      player_spirit_archer_12: 7778303948633111258
+      player_spirit_archer_13: -5938214131143334745
+      player_spirit_archer_14: -4194297884317417604
+      player_spirit_archer_15: -6826393570222093642
+      player_spirit_archer_16: 3521890015434511181
+      player_spirit_archer_17: 1335292997709573149
+      player_spirit_archer_18: -831131264351408710
+      player_spirit_archer_19: 3052344790961425261
+      player_spirit_archer_2: 4086509281988304885
+      player_spirit_archer_20: -6881771794752259207
+      player_spirit_archer_21: 5771427506684589484
+      player_spirit_archer_22: -15887187660356894
+      player_spirit_archer_23: 538181107216598346
+      player_spirit_archer_24: 544386055716426886
+      player_spirit_archer_25: 8485493882836224901
+      player_spirit_archer_3: -1574818473299473890
+      player_spirit_archer_4: 5723853865145420776
+      player_spirit_archer_5: -2996613757203362081
+      player_spirit_archer_6: -6118526769372532625
+      player_spirit_archer_7: 5657413976411666821
+      player_spirit_archer_8: -7325830926288558349
+      player_spirit_archer_9: -8251501015086468154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

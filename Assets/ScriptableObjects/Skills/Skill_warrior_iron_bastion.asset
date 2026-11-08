@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_warrior_iron_bastion
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: warrior_iron_bastion
+  skillName: "Thi\u1EBFt Gi\xE1p (Iron Bastion)"
+  description: "\u0110\u01B0a v\u0169 kh\xED/khi\xEAn l\xEAn \u0111\u1EE1, t\u1EA1o
+    m\u1ED9t l\u1EDBp gi\xE1p \u1EA3o h\u1EA5p th\u1EE5 s\xE1t th\u01B0\u01A1ng trong
+    3 gi\xE2y v\xE0 gi\u1EA3m 20% s\xE1t th\u01B0\u01A1ng nh\u1EADn v\xE0o trong
+    th\u1EDDi gian n\xE0y."
+  icon: {fileID: 21300000, guid: 729ea73dec737d54b8a9e6f2da8ed6fb, type: 3}
+  targetType: 3
+  element: 4
+  damageType: 0
+  manaCost: 18
+  cooldownSeconds: 7
+  damageMultiplier: 1
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 4214379324146668556, guid: 96fbf175abed29b777b5c979cf17ea0c, type: 3}

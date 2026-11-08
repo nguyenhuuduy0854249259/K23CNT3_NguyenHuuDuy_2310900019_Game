@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_mage_arcane_blast
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: mage_arcane_blast
+  skillName: "B\xED Thu\u1EADt Ph\xE1o"
+  description: "B\u1EAFn qu\u1EA3 c\u1EA7u ma ph\xE1p g\xE2y s\xE1t th\u01B0\u01A1ng
+    ph\xE9p."
+  icon: {fileID: 0}
+  targetType: 1
+  element: 2
+  damageType: 0
+  manaCost: 14
+  cooldownSeconds: 2
+  damageMultiplier: 1.9
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 3274860500779130891, guid: bcfec2cc994ffdd4fa7231c9613efd19, type: 3}
+  hitVfxPrefab: {fileID: 0}

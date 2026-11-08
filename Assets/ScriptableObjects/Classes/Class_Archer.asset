@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_Archer
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "X\u1EA1 Th\u1EE7 (Archer / Marksman)"
+  branch: 1
+  role: 0
+  tier: 1
+  requiredLevelForPromotion: 30
+  description: "Thi\u1EC7n x\u1EA1 t\u1EA7m xa duy tr\xEC kho\u1EA3ng c\xE1ch (kiting),
+    s\xE1t th\u01B0\u01A1ng v\u1EADt l\xFD li\xEAn t\u1EE5c v\xE0 d\u1EE9t \u0111i\u1EC3m
+    uy l\u1EF1c."
+  mechanicDescription: "T\u1EA7m xa c\u01A1 \u0111\u1ED9ng, r\u1EA3i m\u01B0a t\xEAn
+    gi\u1EEF c\u1EF1 ly, b\u1EABy tr\xF3i ch\xE2n v\xE0 ng\u1EAFm b\u1EAFn t\u1EED
+    th\u1EA7n."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 7139826583504743960, guid: 3f01f067099ec614d89523ce9f00f298, type: 3}
+  baseAtk: 22
+  baseDef: 4
+  baseHp: 95
+  baseMp: 60
+  baseSpeed: 5
+  baseCritRate: 0.1
+  defaultElement: 0
+  specialMechanic: 0
+  passiveSeal1Name: "\u01AFng Nh\xE3n Chu\u1EA9n X\xE1c"
+  passiveSeal1Desc: "T\u1EA7m b\u1EAFn t\u0103ng th\xEAm 25%, nh\u1EADn +10% b\u1EA1o
+    k\xEDch khi kho\u1EA3ng c\xE1ch t\u1EDBi m\u1EE5c ti\xEAu > 4m."
+  passiveSeal2Name: "B\u1ED9 Ph\xE1p Khinh Linh"
+  passiveSeal2Desc: "T\u0103ng +15% t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n trong 2
+    gi\xE2y sau m\u1ED7i l\u1EA7n l\u01B0\u1EDBt n\xE9 \u0111\xF2n (Dash)."
+  passiveSeal3Name: "M\u0169i T\xEAn Xuy\xEAn Th\u1EA5u"
+  passiveSeal3Desc: "Ph\xE1t b\u1EAFn th\u01B0\u1EDDng c\xF3 30% x\xE1c su\u1EA5t
+    xuy\xEAn qua m\u1EE5c ti\xEAu \u0111\u1EA7u ti\xEAn tr\xFAng k\u1EBB \u0111\u1ECBch
+    ph\xEDa sau."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 0856b37a63af5cf46bc858828f8124f5, type: 2}
+  - {fileID: 11400000, guid: 478d508a6065cbe4abc2c54e75cace22, type: 2}
+  - {fileID: 11400000, guid: 4fd9cba06bea2a747842334cbd209ea4, type: 2}
+  - {fileID: 11400000, guid: c697839ca19a20147808933cc3ecbfbc, type: 2}
+  - {fileID: 11400000, guid: e65ed86072fa53c4284ff4733a08bfc5, type: 2}
+  - {fileID: 11400000, guid: 3843700578644d840a6084945e961127, type: 2}
+  promotionOptions:
+  - {fileID: 11400000, guid: b4388eb96f13e084e95c01f3d5928f4e, type: 2}
+  - {fileID: 11400000, guid: 177c51df84dda224bb0607f1ad14cf5a, type: 2}
+  - {fileID: 11400000, guid: f5e293d9f70b06c4a85b414961c06404, type: 2}
+  - {fileID: 11400000, guid: bfd29760d5455d64fa6d760267eb0c5a, type: 2}
+  difficulty: 2

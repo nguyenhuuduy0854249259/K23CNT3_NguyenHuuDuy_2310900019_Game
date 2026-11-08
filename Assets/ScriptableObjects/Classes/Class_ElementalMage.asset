@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_ElementalMage
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "Ph\xE1p S\u01B0 Nguy\xEAn T\u1ED1 (Elemental Archmage)"
+  branch: 3
+  role: 2
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "T\u1ED1i th\u01B0\u1EE3ng ph\xE1p s\u01B0 \u0111i\u1EC1u khi\u1EC3n
+    H\xE0ng \u0110\u1EE3i 2 \xD4 Nguy\xEAn T\u1ED1 v\xE0 K\u1EF9 N\u0103ng Thi\xEAn
+    Tai."
+  mechanicDescription: "H\xE0ng \u0111\u1EE3i 2 \xF4: \xD4 1 Ch\u1EE7 Th\u1EC3 +
+    \xD4 2 X\xFAc T\xE1c t\u1EA1o 64 chi\xEAu th\u1EE9c h\u1EE3p th\xE0nh. T\xEDch
+    3 combo li\xEAn ti\u1EBFp k\xEDch ho\u1EA1t Thi\xEAn Tai to\xE0n m\xE0n h\xECnh."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 32
+  baseDef: 4
+  baseHp: 95
+  baseMp: 140
+  baseSpeed: 4.4
+  baseCritRate: 0.12
+  defaultElement: 1
+  specialMechanic: 2
+  passiveSeal1Name: "L\u01B0\u1EE1ng Nghi H\u1EE3p Th\xE0nh"
+  passiveSeal1Desc: "\u0110\u01A1n h\u1EC7 t\u0103ng +25% dmg v\xE0 +25% AoE. \u0110a
+    h\u1EC7 k\xE9o d\xE0i debuff +1.5s, \u0111\xE1nh tr\xFAng h\u1EC7 b\u1ECB kh\u1EAFc
+    ch\u1EBF t\u0103ng x2 dmg v\xE0 +15% crit rate nguy\xEAn t\u1ED1."
+  passiveSeal2Name: "M\u1EA1ch Chu\u1ED7i Thi\xEAn Tai"
+  passiveSeal2Desc: "B\u1ED9 \u0111\u1EBFm combo t\xEDch 3 t\u1EA7ng m\u1EDF Thi\xEAn
+    Tai AoE to\xE0n m\xE0n h\xECnh. Sau Thi\xEAn Tai ho\xE0n tr\u1EA3 25% mana chu\u1ED7i
+    chi\xEAu v\xE0 t\u0103ng 20% MoveSpeed trong 3s."
+  passiveSeal3Name: "Linh Th\xFA X\xFAc T\xE1c"
+  passiveSeal3Desc: "\u0110\xF2n \u0111\xE1nh Pet c\xF3 25% t\u1EF7 l\u1EC7 t\u1EF1
+    \u0111\u1ED9ng n\u1EA1p h\u1EA1t nguy\xEAn t\u1ED1 v\xE0o h\xE0ng \u0111\u1EE3i;
+    Pet \u0111\xE1nh qu\xE1i \u0111ang d\xEDnh \u1EA5n t\u1EF1 k\xEDch n\u1ED5 reaction
+    d\xE2y chuy\u1EC1n."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 9258c4d16a015d447ac7bff81732f463, type: 2}
+  - {fileID: 11400000, guid: c410e6ead4a4c524397444129fbf61c1, type: 2}
+  - {fileID: 11400000, guid: 818db06f3012a66479b76a572d70a473, type: 2}
+  - {fileID: 11400000, guid: d6ad77c9f53695d439f0cec4a9454004, type: 2}
+  - {fileID: 11400000, guid: 1936935e1a7959a40a64a8386c3d57be, type: 2}
+  promotionOptions: []
+  difficulty: 5

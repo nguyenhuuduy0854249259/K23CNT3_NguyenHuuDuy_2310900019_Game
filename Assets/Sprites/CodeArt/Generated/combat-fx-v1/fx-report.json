@@ -1,0 +1,553 @@
+{
+  "schema": "codeart2d.fx_report.v1",
+  "route": "pixel",
+  "canvas": [
+    40,
+    40
+  ],
+  "origin": [
+    16.0,
+    20.0
+  ],
+  "zoom": 1,
+  "palette": [
+    "#1a1c2c",
+    "#38b764",
+    "#3b5dc9",
+    "#41a6f6",
+    "#73eff7",
+    "#a7f070",
+    "#b13e53",
+    "#ef7d57",
+    "#ffcd75",
+    "#ffffff"
+  ],
+  "effects": {
+    "slash_arc": {
+      "durationMs": 200,
+      "impactMs": 100,
+      "loop": false,
+      "frames": [
+        {
+          "id": "slash_arc-00",
+          "start_ms": 0,
+          "duration_ms": 50,
+          "sample_ms": 25.0,
+          "qa": {
+            "visible": 69,
+            "partial_alpha": 0,
+            "colors": 4,
+            "off_palette": 0,
+            "orphans": 12,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              21,
+              9,
+              30,
+              23
+            ]
+          },
+          "margin_px": 9,
+          "file": "frames/slash_arc-00.png"
+        },
+        {
+          "id": "slash_arc-01",
+          "start_ms": 50,
+          "duration_ms": 50,
+          "sample_ms": 75.0,
+          "qa": {
+            "visible": 112,
+            "partial_alpha": 0,
+            "colors": 4,
+            "off_palette": 0,
+            "orphans": 13,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              19,
+              12,
+              30,
+              33
+            ]
+          },
+          "margin_px": 7,
+          "file": "frames/slash_arc-01.png"
+        },
+        {
+          "id": "slash_arc-02",
+          "start_ms": 100,
+          "duration_ms": 50,
+          "sample_ms": 125.0,
+          "qa": {
+            "visible": 106,
+            "partial_alpha": 0,
+            "colors": 4,
+            "off_palette": 0,
+            "orphans": 18,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              19,
+              13,
+              30,
+              33
+            ]
+          },
+          "margin_px": 7,
+          "file": "frames/slash_arc-02.png"
+        },
+        {
+          "id": "slash_arc-03",
+          "start_ms": 150,
+          "duration_ms": 50,
+          "sample_ms": 175.0,
+          "qa": {
+            "visible": 50,
+            "partial_alpha": 0,
+            "colors": 4,
+            "off_palette": 0,
+            "orphans": 20,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              19,
+              22,
+              28,
+              33
+            ]
+          },
+          "margin_px": 7,
+          "file": "frames/slash_arc-03.png"
+        }
+      ],
+      "duration_ms": [
+        50,
+        50,
+        50,
+        50
+      ],
+      "hit_frame": 2,
+      "dropped_tail_frames": 0,
+      "events": [
+        {
+          "at": 2,
+          "name": "hit",
+          "data": {
+            "impactMs": 100
+          }
+        }
+      ],
+      "seam": null,
+      "hit_on_60hz_tick": true
+    },
+    "hit_spark": {
+      "durationMs": 200,
+      "impactMs": 0,
+      "loop": false,
+      "frames": [
+        {
+          "id": "hit_spark-00",
+          "start_ms": 0,
+          "duration_ms": 50,
+          "sample_ms": 25.0,
+          "qa": {
+            "visible": 40,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 7,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              16,
+              16,
+              24,
+              24
+            ]
+          },
+          "margin_px": 16,
+          "file": "frames/hit_spark-00.png"
+        },
+        {
+          "id": "hit_spark-01",
+          "start_ms": 50,
+          "duration_ms": 50,
+          "sample_ms": 75.0,
+          "qa": {
+            "visible": 70,
+            "partial_alpha": 0,
+            "colors": 3,
+            "off_palette": 0,
+            "orphans": 9,
+            "l_corners": 7,
+            "outline_gaps": 0,
+            "bbox": [
+              14,
+              15,
+              26,
+              27
+            ]
+          },
+          "margin_px": 13,
+          "file": "frames/hit_spark-01.png"
+        },
+        {
+          "id": "hit_spark-02",
+          "start_ms": 100,
+          "duration_ms": 100,
+          "sample_ms": 125.0,
+          "qa": {
+            "visible": 20,
+            "partial_alpha": 0,
+            "colors": 3,
+            "off_palette": 0,
+            "orphans": 6,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              16,
+              15,
+              25,
+              27
+            ]
+          },
+          "margin_px": 13,
+          "file": "frames/hit_spark-02.png"
+        }
+      ],
+      "duration_ms": [
+        50,
+        50,
+        100
+      ],
+      "hit_frame": 0,
+      "dropped_tail_frames": 1,
+      "events": [
+        {
+          "at": 0,
+          "name": "hit",
+          "data": {
+            "impactMs": 0
+          }
+        }
+      ],
+      "seam": null,
+      "hit_on_60hz_tick": true
+    },
+    "shock_ring": {
+      "durationMs": 250,
+      "impactMs": 0,
+      "loop": false,
+      "frames": [
+        {
+          "id": "shock_ring-00",
+          "start_ms": 0,
+          "duration_ms": 50,
+          "sample_ms": 25.0,
+          "qa": {
+            "visible": 216,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 8,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              10,
+              10,
+              30,
+              30
+            ]
+          },
+          "margin_px": 10,
+          "file": "frames/shock_ring-00.png"
+        },
+        {
+          "id": "shock_ring-01",
+          "start_ms": 50,
+          "duration_ms": 50,
+          "sample_ms": 75.0,
+          "qa": {
+            "visible": 340,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 12,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              6,
+              6,
+              34,
+              34
+            ]
+          },
+          "margin_px": 6,
+          "file": "frames/shock_ring-01.png"
+        },
+        {
+          "id": "shock_ring-02",
+          "start_ms": 100,
+          "duration_ms": 50,
+          "sample_ms": 125.0,
+          "qa": {
+            "visible": 380,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 28,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              4,
+              4,
+              36,
+              36
+            ]
+          },
+          "margin_px": 4,
+          "file": "frames/shock_ring-02.png"
+        },
+        {
+          "id": "shock_ring-03",
+          "start_ms": 150,
+          "duration_ms": 50,
+          "sample_ms": 175.0,
+          "qa": {
+            "visible": 388,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 24,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              3,
+              3,
+              37,
+              37
+            ]
+          },
+          "margin_px": 3,
+          "file": "frames/shock_ring-03.png"
+        },
+        {
+          "id": "shock_ring-04",
+          "start_ms": 200,
+          "duration_ms": 50,
+          "sample_ms": 225.0,
+          "qa": {
+            "visible": 364,
+            "partial_alpha": 0,
+            "colors": 2,
+            "off_palette": 0,
+            "orphans": 32,
+            "l_corners": 0,
+            "outline_gaps": 0,
+            "bbox": [
+              3,
+              3,
+              37,
+              37
+            ]
+          },
+          "margin_px": 3,
+          "file": "frames/shock_ring-04.png"
+        }
+      ],
+      "duration_ms": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "hit_frame": 0,
+      "dropped_tail_frames": 0,
+      "events": [
+        {
+          "at": 0,
+          "name": "hit",
+          "data": {
+            "impactMs": 0
+          }
+        }
+      ],
+      "seam": null,
+      "hit_on_60hz_tick": true
+    }
+  },
+  "arcs": [
+    {
+      "effect": "slash_arc",
+      "hit_frame": 2,
+      "arc_complete_frame": 2,
+      "progress": [
+        0.578125,
+        0.984375,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "margin_failures": [],
+  "build_clips": null,
+  "runtime": null,
+  "review": {
+    "slash_arc": "review/slash_arc.png",
+    "hit_spark": "review/hit_spark.png",
+    "shock_ring": "review/shock_ring.png"
+  },
+  "qa": {
+    "status": "pass",
+    "method": "fx_build: frames cut at impactMs and sampled mid-frame; codeart_core.qa_pixels per frame against the spec palette (pixel route); slash head progress at each frame; forge_core.seam_report on loops; transparent margin; optional build_animation_clips and fx_verify.mjs runs",
+    "notProven": [
+      "Readability and impact at game scale and in motion: look at review/*.png and play the clips.",
+      "That the effect suits the move it accompanies; the checks prove timing and palette only.",
+      "build_animation_clips was not run (--build-clips not given)."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 7,
+        "threshold": 10
+      },
+      {
+        "id": "arc_on_hit",
+        "status": "pass",
+        "value": [],
+        "threshold": "slash head completes on the hit frame"
+      },
+      {
+        "id": "margins",
+        "status": "pass",
+        "value": 0,
+        "threshold": 1
+      },
+      {
+        "id": "timing",
+        "status": "pass",
+        "value": {
+          "slash_arc": 200,
+          "hit_spark": 200,
+          "shock_ring": 250
+        },
+        "threshold": {
+          "slash_arc": 200,
+          "hit_spark": 200,
+          "shock_ring": 250
+        }
+      },
+      {
+        "id": "build_clips",
+        "status": "skipped",
+        "value": null,
+        "threshold": 0
+      },
+      {
+        "id": "runtime_verify",
+        "status": "skipped",
+        "value": null,
+        "threshold": "pass"
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/combat_fx.fx.json",
+        "sha256": "164758658d6d64787301bc99512dc2f02e46b14db1b5d338ca9948d9b9614ee3",
+        "bytes": 1901
+      }
+    ],
+    "outputs": [
+      {
+        "path": "frames/slash_arc-00.png",
+        "sha256": "aafdc8ff46595fcc2c7e74dd8f71077b9e9479475e5857ffe20339700772e658",
+        "bytes": 206
+      },
+      {
+        "path": "frames/slash_arc-01.png",
+        "sha256": "14b110d81219e2104904129255e9d1f6199c204aa2cddab074e402344ef0623f",
+        "bytes": 252
+      },
+      {
+        "path": "frames/slash_arc-02.png",
+        "sha256": "cc2dcb32ce35aaadd631ad915db095c16719eb32a6ed8beae6ec03d0c73e7996",
+        "bytes": 260
+      },
+      {
+        "path": "frames/slash_arc-03.png",
+        "sha256": "c8b6302864739ad18f04c027885f6712a449a08f9fed3ad1b5a040b2e160c61e",
+        "bytes": 209
+      },
+      {
+        "path": "frames/hit_spark-00.png",
+        "sha256": "c783f9ad245392fdfa7ec9a30cb4a587d8b7ec0ca085f9f44b62c46f20d87a12",
+        "bytes": 146
+      },
+      {
+        "path": "frames/hit_spark-01.png",
+        "sha256": "a577aef08f63335bb93f1e1d5f329213f1ba59abe2035422d47e17d9548e9477",
+        "bytes": 255
+      },
+      {
+        "path": "frames/hit_spark-02.png",
+        "sha256": "252bc2d3dd30fc002354be6c73afd605d31d70ba29a658e0bcf3134052f5a16f",
+        "bytes": 160
+      },
+      {
+        "path": "frames/shock_ring-00.png",
+        "sha256": "93c3743a017d0fe7fb4fd01e8544bf83c98d74a7f79183b774c4ebd72bc13948",
+        "bytes": 239
+      },
+      {
+        "path": "frames/shock_ring-01.png",
+        "sha256": "15a0303054365f58aa23d236bc4626321d0183b45830cef9f0dcfc5988d01a8f",
+        "bytes": 273
+      },
+      {
+        "path": "frames/shock_ring-02.png",
+        "sha256": "054aa367b151a988950a79046e8b288582b1ddcfdcb2d17de490df00f6c1197f",
+        "bytes": 307
+      },
+      {
+        "path": "frames/shock_ring-03.png",
+        "sha256": "b474429dc39a9f989b13a47901f2781f4f1e7074ef4fabc26130fcebc67862dc",
+        "bytes": 310
+      },
+      {
+        "path": "frames/shock_ring-04.png",
+        "sha256": "12f3978e2f0941d86e3574d1ac69f712962571dc01f0bfe5ea9b01d8e97ff7bc",
+        "bytes": 298
+      },
+      {
+        "path": "clips.json",
+        "sha256": "32e6cbfaabe7e6a892beae0a96a622cc43c9765bfa6484f03db81a2310bafcae",
+        "bytes": 2583
+      }
+    ],
+    "tool": {
+      "name": "codeart2d/fx_build.py",
+      "version": "0.4.0"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_priest_holy_zone
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: priest_holy_zone
+  skillName: "Th\xE1nh V\u1EF1c / Ma V\u1EF1c"
+  description: "V\xF9ng h\xE0o quang thanh t\u1EA9y tr\u1ECB li\u1EC7u ho\u1EB7c
+    \u0111\xE0y \u0111\u1ECDa k\u1EBB th\xF9."
+  icon: {fileID: 0}
+  targetType: 2
+  element: 7
+  damageType: 0
+  manaCost: 35
+  cooldownSeconds: 10
+  damageMultiplier: 3
+  range: 7
+  radius: 3.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

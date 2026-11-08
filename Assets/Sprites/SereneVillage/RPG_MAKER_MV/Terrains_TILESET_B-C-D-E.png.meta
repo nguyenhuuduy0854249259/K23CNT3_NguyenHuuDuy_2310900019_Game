@@ -1,0 +1,6798 @@
+fileFormatVersion: 2
+guid: cebbd720229d272488b86f7fea59b00a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6352492401761043456
+    second: Terrains_TILESET_B-C-D-E_0
+  - first:
+      213: -3705051211705196776
+    second: Terrains_TILESET_B-C-D-E_1
+  - first:
+      213: -6516076605350739260
+    second: Terrains_TILESET_B-C-D-E_2
+  - first:
+      213: -7443341262033150811
+    second: Terrains_TILESET_B-C-D-E_0_0
+  - first:
+      213: -6644286005744905689
+    second: Terrains_TILESET_B-C-D-E_0_1
+  - first:
+      213: -407539229814509892
+    second: Terrains_TILESET_B-C-D-E_0_2
+  - first:
+      213: 3394362193621438764
+    second: Terrains_TILESET_B-C-D-E_0_3
+  - first:
+      213: -5151188877091118621
+    second: Terrains_TILESET_B-C-D-E_0_4
+  - first:
+      213: -3002583706154307483
+    second: Terrains_TILESET_B-C-D-E_0_5
+  - first:
+      213: -5479208786183955355
+    second: Terrains_TILESET_B-C-D-E_0_6
+  - first:
+      213: -7790526170887775652
+    second: Terrains_TILESET_B-C-D-E_0_7
+  - first:
+      213: -8440083085855348703
+    second: Terrains_TILESET_B-C-D-E_0_8
+  - first:
+      213: 2626201658746076315
+    second: Terrains_TILESET_B-C-D-E_0_9
+  - first:
+      213: 5750244638655395313
+    second: Terrains_TILESET_B-C-D-E_0_10
+  - first:
+      213: -952887652938289220
+    second: Terrains_TILESET_B-C-D-E_0_11
+  - first:
+      213: 6082673842890144326
+    second: Terrains_TILESET_B-C-D-E_0_12
+  - first:
+      213: 9063270966083133470
+    second: Terrains_TILESET_B-C-D-E_0_13
+  - first:
+      213: -3413585543871320675
+    second: Terrains_TILESET_B-C-D-E_0_14
+  - first:
+      213: -239576825519702989
+    second: Terrains_TILESET_B-C-D-E_0_15
+  - first:
+      213: -1990404619982336355
+    second: Terrains_TILESET_B-C-D-E_1_0
+  - first:
+      213: 8624999492821611572
+    second: Terrains_TILESET_B-C-D-E_1_1
+  - first:
+      213: 1496586308160080785
+    second: Terrains_TILESET_B-C-D-E_1_2
+  - first:
+      213: 7336186455176706578
+    second: Terrains_TILESET_B-C-D-E_1_3
+  - first:
+      213: -6003253253838160536
+    second: Terrains_TILESET_B-C-D-E_1_4
+  - first:
+      213: 2120415306423241017
+    second: Terrains_TILESET_B-C-D-E_1_5
+  - first:
+      213: -1331309018401726356
+    second: Terrains_TILESET_B-C-D-E_1_6
+  - first:
+      213: 6128652652473728693
+    second: Terrains_TILESET_B-C-D-E_1_7
+  - first:
+      213: 5959205120406636156
+    second: Terrains_TILESET_B-C-D-E_1_8
+  - first:
+      213: -5142818408859757144
+    second: Terrains_TILESET_B-C-D-E_1_9
+  - first:
+      213: 4371958511359922460
+    second: Terrains_TILESET_B-C-D-E_1_10
+  - first:
+      213: 7045601458061228480
+    second: Terrains_TILESET_B-C-D-E_1_11
+  - first:
+      213: -18759320005065492
+    second: Terrains_TILESET_B-C-D-E_1_12
+  - first:
+      213: -2688290700622297352
+    second: Terrains_TILESET_B-C-D-E_1_13
+  - first:
+      213: 7900118406080885592
+    second: Terrains_TILESET_B-C-D-E_1_14
+  - first:
+      213: -5239887485706166681
+    second: Terrains_TILESET_B-C-D-E_1_15
+  - first:
+      213: -2337461423328095700
+    second: Terrains_TILESET_B-C-D-E_2_0
+  - first:
+      213: -3942421119800497516
+    second: Terrains_TILESET_B-C-D-E_2_1
+  - first:
+      213: 4753098970010859506
+    second: Terrains_TILESET_B-C-D-E_2_2
+  - first:
+      213: 3875923447262862699
+    second: Terrains_TILESET_B-C-D-E_2_3
+  - first:
+      213: 1516802495001456102
+    second: Terrains_TILESET_B-C-D-E_2_4
+  - first:
+      213: 1086598293385312711
+    second: Terrains_TILESET_B-C-D-E_2_5
+  - first:
+      213: 8764353636993786272
+    second: Terrains_TILESET_B-C-D-E_2_6
+  - first:
+      213: 5931580242377122907
+    second: Terrains_TILESET_B-C-D-E_2_7
+  - first:
+      213: -8314718857939515797
+    second: Terrains_TILESET_B-C-D-E_2_8
+  - first:
+      213: -4195331029617677826
+    second: Terrains_TILESET_B-C-D-E_2_9
+  - first:
+      213: -3175077794340127798
+    second: Terrains_TILESET_B-C-D-E_2_10
+  - first:
+      213: -8677949418205730244
+    second: Terrains_TILESET_B-C-D-E_2_11
+  - first:
+      213: 863116457971040937
+    second: Terrains_TILESET_B-C-D-E_2_12
+  - first:
+      213: 2509968764204211190
+    second: Terrains_TILESET_B-C-D-E_2_13
+  - first:
+      213: -7818856242569104362
+    second: Terrains_TILESET_B-C-D-E_2_14
+  - first:
+      213: -947223283180365875
+    second: Terrains_TILESET_B-C-D-E_2_15
+  - first:
+      213: -6549538630802235878
+    second: Terrains_TILESET_B-C-D-E_3_0
+  - first:
+      213: -886440937722409598
+    second: Terrains_TILESET_B-C-D-E_3_1
+  - first:
+      213: 4723856966333247231
+    second: Terrains_TILESET_B-C-D-E_3_2
+  - first:
+      213: 1489643415724555727
+    second: Terrains_TILESET_B-C-D-E_3_3
+  - first:
+      213: -6051931328100755360
+    second: Terrains_TILESET_B-C-D-E_3_4
+  - first:
+      213: 2576333595007653897
+    second: Terrains_TILESET_B-C-D-E_3_5
+  - first:
+      213: 5414054429883387514
+    second: Terrains_TILESET_B-C-D-E_3_6
+  - first:
+      213: -3737187209656481628
+    second: Terrains_TILESET_B-C-D-E_3_7
+  - first:
+      213: -3544373312765036350
+    second: Terrains_TILESET_B-C-D-E_3_8
+  - first:
+      213: 5917755784449728443
+    second: Terrains_TILESET_B-C-D-E_3_9
+  - first:
+      213: 9089940221952051211
+    second: Terrains_TILESET_B-C-D-E_3_10
+  - first:
+      213: 5019694011059921728
+    second: Terrains_TILESET_B-C-D-E_3_11
+  - first:
+      213: -5746293063070622423
+    second: Terrains_TILESET_B-C-D-E_3_12
+  - first:
+      213: -6446695958055589089
+    second: Terrains_TILESET_B-C-D-E_3_13
+  - first:
+      213: -3275765349697676412
+    second: Terrains_TILESET_B-C-D-E_3_14
+  - first:
+      213: 2108542223537428903
+    second: Terrains_TILESET_B-C-D-E_3_15
+  - first:
+      213: -8392836149135056054
+    second: Terrains_TILESET_B-C-D-E_4_0
+  - first:
+      213: -1688528458145899056
+    second: Terrains_TILESET_B-C-D-E_4_1
+  - first:
+      213: 4271754524781771179
+    second: Terrains_TILESET_B-C-D-E_4_2
+  - first:
+      213: 681378712941103366
+    second: Terrains_TILESET_B-C-D-E_4_3
+  - first:
+      213: -4562265644567388235
+    second: Terrains_TILESET_B-C-D-E_4_4
+  - first:
+      213: -7576566660932817142
+    second: Terrains_TILESET_B-C-D-E_4_5
+  - first:
+      213: -3351841965709591643
+    second: Terrains_TILESET_B-C-D-E_4_6
+  - first:
+      213: 2401666296172942399
+    second: Terrains_TILESET_B-C-D-E_4_7
+  - first:
+      213: 9091151988342769773
+    second: Terrains_TILESET_B-C-D-E_4_8
+  - first:
+      213: -8826653204995044267
+    second: Terrains_TILESET_B-C-D-E_4_9
+  - first:
+      213: -9133327708843624987
+    second: Terrains_TILESET_B-C-D-E_4_10
+  - first:
+      213: 4090418582666850773
+    second: Terrains_TILESET_B-C-D-E_4_11
+  - first:
+      213: 5960601702079424167
+    second: Terrains_TILESET_B-C-D-E_4_12
+  - first:
+      213: 3123060061471045640
+    second: Terrains_TILESET_B-C-D-E_4_13
+  - first:
+      213: 3205062569139397527
+    second: Terrains_TILESET_B-C-D-E_4_14
+  - first:
+      213: -6887207123149483735
+    second: Terrains_TILESET_B-C-D-E_4_15
+  - first:
+      213: 7203478651136871521
+    second: Terrains_TILESET_B-C-D-E_5_0
+  - first:
+      213: -4936113678718542771
+    second: Terrains_TILESET_B-C-D-E_5_1
+  - first:
+      213: -5862337079794047263
+    second: Terrains_TILESET_B-C-D-E_5_2
+  - first:
+      213: 3060117402178230710
+    second: Terrains_TILESET_B-C-D-E_5_3
+  - first:
+      213: -8398096610997550750
+    second: Terrains_TILESET_B-C-D-E_5_4
+  - first:
+      213: -5322758749882869926
+    second: Terrains_TILESET_B-C-D-E_5_5
+  - first:
+      213: -6944008713514721905
+    second: Terrains_TILESET_B-C-D-E_5_6
+  - first:
+      213: 3115782255197075267
+    second: Terrains_TILESET_B-C-D-E_5_7
+  - first:
+      213: -3465176595254050484
+    second: Terrains_TILESET_B-C-D-E_5_8
+  - first:
+      213: -148340872349746026
+    second: Terrains_TILESET_B-C-D-E_5_9
+  - first:
+      213: -7464708055999860550
+    second: Terrains_TILESET_B-C-D-E_5_10
+  - first:
+      213: 8280616675494229642
+    second: Terrains_TILESET_B-C-D-E_5_11
+  - first:
+      213: -6162884753865913596
+    second: Terrains_TILESET_B-C-D-E_5_12
+  - first:
+      213: 7714702528605932771
+    second: Terrains_TILESET_B-C-D-E_5_13
+  - first:
+      213: 1972170443426361824
+    second: Terrains_TILESET_B-C-D-E_5_14
+  - first:
+      213: 631474395393636300
+    second: Terrains_TILESET_B-C-D-E_5_15
+  - first:
+      213: -8101480493254384495
+    second: Terrains_TILESET_B-C-D-E_6_0
+  - first:
+      213: 8547611002093204025
+    second: Terrains_TILESET_B-C-D-E_6_1
+  - first:
+      213: -7030403753174989283
+    second: Terrains_TILESET_B-C-D-E_6_2
+  - first:
+      213: 8267445069398902379
+    second: Terrains_TILESET_B-C-D-E_6_3
+  - first:
+      213: -3658178086053299224
+    second: Terrains_TILESET_B-C-D-E_6_4
+  - first:
+      213: -6214079624298891698
+    second: Terrains_TILESET_B-C-D-E_6_5
+  - first:
+      213: -8286819425401200035
+    second: Terrains_TILESET_B-C-D-E_6_6
+  - first:
+      213: -24337675058123925
+    second: Terrains_TILESET_B-C-D-E_6_7
+  - first:
+      213: 5472391365717684792
+    second: Terrains_TILESET_B-C-D-E_6_8
+  - first:
+      213: 1121033115356064799
+    second: Terrains_TILESET_B-C-D-E_6_9
+  - first:
+      213: -5899113850437716668
+    second: Terrains_TILESET_B-C-D-E_6_10
+  - first:
+      213: 3544093650131804383
+    second: Terrains_TILESET_B-C-D-E_6_11
+  - first:
+      213: 751655835166060031
+    second: Terrains_TILESET_B-C-D-E_6_12
+  - first:
+      213: -1228465549061500323
+    second: Terrains_TILESET_B-C-D-E_6_13
+  - first:
+      213: 2384721529562081968
+    second: Terrains_TILESET_B-C-D-E_6_14
+  - first:
+      213: 5339228232660619445
+    second: Terrains_TILESET_B-C-D-E_6_15
+  - first:
+      213: 5444887230490337124
+    second: Terrains_TILESET_B-C-D-E_7_0
+  - first:
+      213: 608249451223432248
+    second: Terrains_TILESET_B-C-D-E_7_1
+  - first:
+      213: -6725064404127292445
+    second: Terrains_TILESET_B-C-D-E_7_2
+  - first:
+      213: 5794708688910258369
+    second: Terrains_TILESET_B-C-D-E_7_3
+  - first:
+      213: 4106953663548354532
+    second: Terrains_TILESET_B-C-D-E_7_4
+  - first:
+      213: 3826817125898860718
+    second: Terrains_TILESET_B-C-D-E_7_5
+  - first:
+      213: -5080045089086932266
+    second: Terrains_TILESET_B-C-D-E_7_6
+  - first:
+      213: 7019030682499113375
+    second: Terrains_TILESET_B-C-D-E_7_7
+  - first:
+      213: 5038348310097289141
+    second: Terrains_TILESET_B-C-D-E_7_8
+  - first:
+      213: 7708334689164464436
+    second: Terrains_TILESET_B-C-D-E_7_9
+  - first:
+      213: 9151785191810594558
+    second: Terrains_TILESET_B-C-D-E_7_10
+  - first:
+      213: 7291538242638709779
+    second: Terrains_TILESET_B-C-D-E_7_11
+  - first:
+      213: -4285054303975439995
+    second: Terrains_TILESET_B-C-D-E_7_12
+  - first:
+      213: 3238058454017652770
+    second: Terrains_TILESET_B-C-D-E_7_13
+  - first:
+      213: 5831829845581437487
+    second: Terrains_TILESET_B-C-D-E_7_14
+  - first:
+      213: 3474176735188081186
+    second: Terrains_TILESET_B-C-D-E_7_15
+  - first:
+      213: 3005543456416859436
+    second: Terrains_TILESET_B-C-D-E_8_0
+  - first:
+      213: -5086246364407268312
+    second: Terrains_TILESET_B-C-D-E_8_1
+  - first:
+      213: -8420317908274147472
+    second: Terrains_TILESET_B-C-D-E_8_2
+  - first:
+      213: 4250616272272178691
+    second: Terrains_TILESET_B-C-D-E_8_3
+  - first:
+      213: -845180988499516119
+    second: Terrains_TILESET_B-C-D-E_8_4
+  - first:
+      213: -5418114519908331306
+    second: Terrains_TILESET_B-C-D-E_8_5
+  - first:
+      213: 6335638658370573305
+    second: Terrains_TILESET_B-C-D-E_8_6
+  - first:
+      213: 8910874107331347878
+    second: Terrains_TILESET_B-C-D-E_8_7
+  - first:
+      213: 7834198071517344879
+    second: Terrains_TILESET_B-C-D-E_8_8
+  - first:
+      213: 8961652924744968668
+    second: Terrains_TILESET_B-C-D-E_8_9
+  - first:
+      213: 9121151815220262541
+    second: Terrains_TILESET_B-C-D-E_8_10
+  - first:
+      213: 12426280768256823
+    second: Terrains_TILESET_B-C-D-E_8_11
+  - first:
+      213: 8541280672353956977
+    second: Terrains_TILESET_B-C-D-E_8_12
+  - first:
+      213: -6465206822582605741
+    second: Terrains_TILESET_B-C-D-E_8_13
+  - first:
+      213: -6864206976064173491
+    second: Terrains_TILESET_B-C-D-E_8_14
+  - first:
+      213: 6171435880397420183
+    second: Terrains_TILESET_B-C-D-E_8_15
+  - first:
+      213: -4376383332558937013
+    second: Terrains_TILESET_B-C-D-E_9_0
+  - first:
+      213: -6694780103672899727
+    second: Terrains_TILESET_B-C-D-E_9_1
+  - first:
+      213: -3338629406247350937
+    second: Terrains_TILESET_B-C-D-E_9_2
+  - first:
+      213: 3232082917160768001
+    second: Terrains_TILESET_B-C-D-E_9_3
+  - first:
+      213: -3828334254962682798
+    second: Terrains_TILESET_B-C-D-E_9_4
+  - first:
+      213: -6964950819919241414
+    second: Terrains_TILESET_B-C-D-E_9_5
+  - first:
+      213: 6567414233021406357
+    second: Terrains_TILESET_B-C-D-E_9_6
+  - first:
+      213: 7207194101854444205
+    second: Terrains_TILESET_B-C-D-E_9_7
+  - first:
+      213: 1498079698983674925
+    second: Terrains_TILESET_B-C-D-E_9_8
+  - first:
+      213: 4414370087505209889
+    second: Terrains_TILESET_B-C-D-E_9_9
+  - first:
+      213: 8294395980139937662
+    second: Terrains_TILESET_B-C-D-E_9_10
+  - first:
+      213: 2806704630138553602
+    second: Terrains_TILESET_B-C-D-E_9_11
+  - first:
+      213: -755625688278128187
+    second: Terrains_TILESET_B-C-D-E_9_12
+  - first:
+      213: 4408701268829545210
+    second: Terrains_TILESET_B-C-D-E_9_13
+  - first:
+      213: 4706313082847938390
+    second: Terrains_TILESET_B-C-D-E_9_14
+  - first:
+      213: 5617046819094332313
+    second: Terrains_TILESET_B-C-D-E_9_15
+  - first:
+      213: -728285416789424622
+    second: Terrains_TILESET_B-C-D-E_10_0
+  - first:
+      213: -5652285650276668912
+    second: Terrains_TILESET_B-C-D-E_10_1
+  - first:
+      213: 5684390247233156232
+    second: Terrains_TILESET_B-C-D-E_10_2
+  - first:
+      213: -7459305299679013646
+    second: Terrains_TILESET_B-C-D-E_10_3
+  - first:
+      213: -1802454058640469932
+    second: Terrains_TILESET_B-C-D-E_10_4
+  - first:
+      213: -6301234477896968238
+    second: Terrains_TILESET_B-C-D-E_10_5
+  - first:
+      213: 8117780348596051253
+    second: Terrains_TILESET_B-C-D-E_10_6
+  - first:
+      213: 2460866703853192057
+    second: Terrains_TILESET_B-C-D-E_10_7
+  - first:
+      213: 7880905231924651824
+    second: Terrains_TILESET_B-C-D-E_10_8
+  - first:
+      213: 2486871625016052530
+    second: Terrains_TILESET_B-C-D-E_10_9
+  - first:
+      213: -9204552808469281164
+    second: Terrains_TILESET_B-C-D-E_10_10
+  - first:
+      213: -1533465093517602065
+    second: Terrains_TILESET_B-C-D-E_10_11
+  - first:
+      213: -3893165060944611938
+    second: Terrains_TILESET_B-C-D-E_10_12
+  - first:
+      213: 7509183556042616206
+    second: Terrains_TILESET_B-C-D-E_10_13
+  - first:
+      213: 5630652825260595754
+    second: Terrains_TILESET_B-C-D-E_10_14
+  - first:
+      213: 1621287636474276085
+    second: Terrains_TILESET_B-C-D-E_10_15
+  - first:
+      213: 6985076459112459558
+    second: Terrains_TILESET_B-C-D-E_11_0
+  - first:
+      213: -8896243728854883989
+    second: Terrains_TILESET_B-C-D-E_11_1
+  - first:
+      213: 3241139094160019303
+    second: Terrains_TILESET_B-C-D-E_11_2
+  - first:
+      213: 2931823114139996561
+    second: Terrains_TILESET_B-C-D-E_11_3
+  - first:
+      213: -9132028926383275505
+    second: Terrains_TILESET_B-C-D-E_11_4
+  - first:
+      213: 779923005363445640
+    second: Terrains_TILESET_B-C-D-E_11_5
+  - first:
+      213: 8066598792514032440
+    second: Terrains_TILESET_B-C-D-E_11_6
+  - first:
+      213: 6841919014725496341
+    second: Terrains_TILESET_B-C-D-E_11_7
+  - first:
+      213: -3433290550508670193
+    second: Terrains_TILESET_B-C-D-E_11_8
+  - first:
+      213: -182799834147244414
+    second: Terrains_TILESET_B-C-D-E_11_9
+  - first:
+      213: 6255655183417333004
+    second: Terrains_TILESET_B-C-D-E_11_10
+  - first:
+      213: -8527180134629492249
+    second: Terrains_TILESET_B-C-D-E_11_11
+  - first:
+      213: -762220521420696933
+    second: Terrains_TILESET_B-C-D-E_11_12
+  - first:
+      213: -3701027406765894546
+    second: Terrains_TILESET_B-C-D-E_11_13
+  - first:
+      213: -2277748827176906462
+    second: Terrains_TILESET_B-C-D-E_11_14
+  - first:
+      213: 1258656924330533758
+    second: Terrains_TILESET_B-C-D-E_11_15
+  - first:
+      213: 5367746083759661944
+    second: Terrains_TILESET_B-C-D-E_12_0
+  - first:
+      213: 3805708543273205786
+    second: Terrains_TILESET_B-C-D-E_12_1
+  - first:
+      213: -5583727996547325821
+    second: Terrains_TILESET_B-C-D-E_12_2
+  - first:
+      213: 5442060155472778917
+    second: Terrains_TILESET_B-C-D-E_12_3
+  - first:
+      213: 4057542413640855823
+    second: Terrains_TILESET_B-C-D-E_12_4
+  - first:
+      213: -2461894122522997851
+    second: Terrains_TILESET_B-C-D-E_12_5
+  - first:
+      213: -4122947125485246709
+    second: Terrains_TILESET_B-C-D-E_12_6
+  - first:
+      213: -6195602833185108147
+    second: Terrains_TILESET_B-C-D-E_12_7
+  - first:
+      213: -8910108205205192435
+    second: Terrains_TILESET_B-C-D-E_12_8
+  - first:
+      213: -3175146853878114098
+    second: Terrains_TILESET_B-C-D-E_12_9
+  - first:
+      213: -3556855446399291545
+    second: Terrains_TILESET_B-C-D-E_12_10
+  - first:
+      213: 2448935931119597891
+    second: Terrains_TILESET_B-C-D-E_12_11
+  - first:
+      213: -8864340070434311593
+    second: Terrains_TILESET_B-C-D-E_12_12
+  - first:
+      213: 4741119922764937540
+    second: Terrains_TILESET_B-C-D-E_12_13
+  - first:
+      213: -8883698745075000559
+    second: Terrains_TILESET_B-C-D-E_12_14
+  - first:
+      213: -3017843513322012084
+    second: Terrains_TILESET_B-C-D-E_12_15
+  - first:
+      213: -4501060298452363968
+    second: Terrains_TILESET_B-C-D-E_13_0
+  - first:
+      213: 5915948725626833881
+    second: Terrains_TILESET_B-C-D-E_13_1
+  - first:
+      213: -254232980016172774
+    second: Terrains_TILESET_B-C-D-E_13_2
+  - first:
+      213: -1871765767405987689
+    second: Terrains_TILESET_B-C-D-E_13_3
+  - first:
+      213: -4350984937736641001
+    second: Terrains_TILESET_B-C-D-E_13_4
+  - first:
+      213: -8026443996326560202
+    second: Terrains_TILESET_B-C-D-E_13_5
+  - first:
+      213: 8774517311146502330
+    second: Terrains_TILESET_B-C-D-E_13_6
+  - first:
+      213: 4010750200838457316
+    second: Terrains_TILESET_B-C-D-E_13_7
+  - first:
+      213: -3893734840104251752
+    second: Terrains_TILESET_B-C-D-E_13_8
+  - first:
+      213: 4741406484254185281
+    second: Terrains_TILESET_B-C-D-E_13_9
+  - first:
+      213: 5285910092821727013
+    second: Terrains_TILESET_B-C-D-E_13_10
+  - first:
+      213: 8623881545470734066
+    second: Terrains_TILESET_B-C-D-E_13_11
+  - first:
+      213: -1922444517412956870
+    second: Terrains_TILESET_B-C-D-E_13_12
+  - first:
+      213: 1897692368189242199
+    second: Terrains_TILESET_B-C-D-E_13_13
+  - first:
+      213: 6568929289446541811
+    second: Terrains_TILESET_B-C-D-E_13_14
+  - first:
+      213: -8875444132605140957
+    second: Terrains_TILESET_B-C-D-E_13_15
+  - first:
+      213: -7156217193123747610
+    second: Terrains_TILESET_B-C-D-E_14_0
+  - first:
+      213: 5716102719937629383
+    second: Terrains_TILESET_B-C-D-E_14_1
+  - first:
+      213: -6210526920107161231
+    second: Terrains_TILESET_B-C-D-E_14_2
+  - first:
+      213: -498852468843709857
+    second: Terrains_TILESET_B-C-D-E_14_3
+  - first:
+      213: -148048517263252855
+    second: Terrains_TILESET_B-C-D-E_14_4
+  - first:
+      213: 1437268634655604468
+    second: Terrains_TILESET_B-C-D-E_14_5
+  - first:
+      213: -4919696288025938876
+    second: Terrains_TILESET_B-C-D-E_14_6
+  - first:
+      213: -8459849608716755001
+    second: Terrains_TILESET_B-C-D-E_14_7
+  - first:
+      213: -5417524700317302183
+    second: Terrains_TILESET_B-C-D-E_14_8
+  - first:
+      213: 2122421004841280129
+    second: Terrains_TILESET_B-C-D-E_14_9
+  - first:
+      213: -2502858443988148637
+    second: Terrains_TILESET_B-C-D-E_14_10
+  - first:
+      213: -4637854022125810926
+    second: Terrains_TILESET_B-C-D-E_14_11
+  - first:
+      213: 6205308092699180446
+    second: Terrains_TILESET_B-C-D-E_14_12
+  - first:
+      213: 7678786744322671004
+    second: Terrains_TILESET_B-C-D-E_14_13
+  - first:
+      213: -3214950660692885442
+    second: Terrains_TILESET_B-C-D-E_14_14
+  - first:
+      213: 2460872434457712811
+    second: Terrains_TILESET_B-C-D-E_14_15
+  - first:
+      213: -1890639465002961787
+    second: Terrains_TILESET_B-C-D-E_15_0
+  - first:
+      213: -5999575244369595111
+    second: Terrains_TILESET_B-C-D-E_15_1
+  - first:
+      213: 2767494237710461181
+    second: Terrains_TILESET_B-C-D-E_15_2
+  - first:
+      213: 5431307668768234363
+    second: Terrains_TILESET_B-C-D-E_15_3
+  - first:
+      213: 2997640668588546500
+    second: Terrains_TILESET_B-C-D-E_15_4
+  - first:
+      213: 6645079203659157074
+    second: Terrains_TILESET_B-C-D-E_15_5
+  - first:
+      213: 8812395691345518609
+    second: Terrains_TILESET_B-C-D-E_15_6
+  - first:
+      213: -1014192266687345892
+    second: Terrains_TILESET_B-C-D-E_15_7
+  - first:
+      213: -8061776562626369079
+    second: Terrains_TILESET_B-C-D-E_15_8
+  - first:
+      213: 1120045239381281806
+    second: Terrains_TILESET_B-C-D-E_15_9
+  - first:
+      213: -6328090185947717650
+    second: Terrains_TILESET_B-C-D-E_15_10
+  - first:
+      213: 4103909045616353336
+    second: Terrains_TILESET_B-C-D-E_15_11
+  - first:
+      213: -2333630665290826306
+    second: Terrains_TILESET_B-C-D-E_15_12
+  - first:
+      213: -8376061949135810960
+    second: Terrains_TILESET_B-C-D-E_15_13
+  - first:
+      213: -4908299592630824026
+    second: Terrains_TILESET_B-C-D-E_15_14
+  - first:
+      213: 5115283570344503780
+    second: Terrains_TILESET_B-C-D-E_15_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac91860f80f3b890800000000000000
+      internalID: -7443341262033150811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722d979a411cac3a0800000000000000
+      internalID: -6644286005744905689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeaedeca31285af0800000000000000
+      internalID: -407539229814509892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2152d55e623b1f20800000000000000
+      internalID: 3394362193621438764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e16a0a220d4388b0800000000000000
+      internalID: -5151188877091118621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560fb42170ea456d0800000000000000
+      internalID: -3002583706154307483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c5e4993a0f5f3b0800000000000000
+      internalID: -5479208786183955355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a99da39bd72e390800000000000000
+      internalID: -7790526170887775652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1282fc0a62dceda80800000000000000
+      internalID: -8440083085855348703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf9129e74227420800000000000000
+      internalID: 2626201658746076315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f536a26809fccf40800000000000000
+      internalID: 5750244638655395313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe1cf6ab9a6c2f0800000000000000
+      internalID: -952887652938289220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af60af1aff96450800000000000000
+      internalID: 6082673842890144326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e102f74ace437cd70800000000000000
+      internalID: 9063270966083133470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d2427a80280a0d0800000000000000
+      internalID: -3413585543871320675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_0_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7b72852adcacf0800000000000000
+      internalID: -239576825519702989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e08a23b89a064e0800000000000000
+      internalID: -1990404619982336355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4347e8d675722b770800000000000000
+      internalID: 8624999492821611572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b48996151f4c410800000000000000
+      internalID: 1496586308160080785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af6d256be5fc560800000000000000
+      internalID: 7336186455176706578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db444e8f820bca0800000000000000
+      internalID: -6003253253838160536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93988ab9c7a3d6d10800000000000000
+      internalID: 2120415306423241017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6024e7508d368de0800000000000000
+      internalID: -1331309018401726356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb37ecd195d0550800000000000000
+      internalID: 6128652652473728693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76c689db7953b250800000000000000
+      internalID: 5959205120406636156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5139ba7e901a8b0800000000000000
+      internalID: -5142818408859757144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c119a5a3a115cac30800000000000000
+      internalID: 4371958511359922460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b6b8623107c160800000000000000
+      internalID: 7045601458061228480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ced27f7a5dbff0800000000000000
+      internalID: -18759320005065492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60c68d9d541bad0800000000000000
+      internalID: -2688290700622297352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f9fd65dbd2ad60800000000000000
+      internalID: 7900118406080885592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_1_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e1877081e2847b0800000000000000
+      internalID: -5239887485706166681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22995a483baf8fd0800000000000000
+      internalID: -2337461423328095700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2b4f11e4b949c0800000000000000
+      internalID: -3942421119800497516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7b5c9845666f140800000000000000
+      internalID: 4753098970010859506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd5baf6db0ac530800000000000000
+      internalID: 3875923447262862699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edecf435d3cc0510800000000000000
+      internalID: 1516802495001456102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f6ca046f541f00800000000000000
+      internalID: 1086598293385312711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1eae2823d31a970800000000000000
+      internalID: 8764353636993786272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542d97bdc4315250800000000000000
+      internalID: 5931580242377122907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b660641804f2c9c80800000000000000
+      internalID: -8314718857939515797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e67808a037c5c0800000000000000
+      internalID: -4195331029617677826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb302e719bdfe3d0800000000000000
+      internalID: -3175077794340127798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2a0d5bfab19780800000000000000
+      internalID: -8677949418205730244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2482578d76afb00800000000000000
+      internalID: 863116457971040937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbd7bbea4335d220800000000000000
+      internalID: 2509968764204211190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614b2d76ca7dd7390800000000000000
+      internalID: -7818856242569104362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_2_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71e0b4179cad2f0800000000000000
+      internalID: -947223283180365875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e9554f05d5b15a0800000000000000
+      internalID: -6549538630802235878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d01b8e9aab2b3f0800000000000000
+      internalID: -886440937722409598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2c0002e28e8140800000000000000
+      internalID: 4723856966333247231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf24c4bc64ca410800000000000000
+      internalID: 1489643415724555727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0681f778588330ca0800000000000000
+      internalID: -6051931328100755360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908165131c9f0c320800000000000000
+      internalID: 2576333595007653897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e44dfa1d5922b40800000000000000
+      internalID: 5414054429883387514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ca458808d22cc0800000000000000
+      internalID: -3737187209656481628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f34d304bdfcec0800000000000000
+      internalID: -3544373312765036350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf93a74887102250800000000000000
+      internalID: 5917755784449728443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ccf6a874f52e70800000000000000
+      internalID: 9089940221952051211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e16a8b1989a540800000000000000
+      internalID: 5019694011059921728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d526087e01140b0800000000000000
+      internalID: -5746293063070622423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6625ae2cb886a0800000000000000
+      internalID: -6446695958055589089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9cbb25c42a82d0800000000000000
+      internalID: -3275765349697676412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_3_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a95cd31bfb034d10800000000000000
+      internalID: 2108542223537428903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a436fb05df7a68b80800000000000000
+      internalID: -8392836149135056054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd531340542198e0800000000000000
+      internalID: -1688528458145899056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f8498b12584b30800000000000000
+      internalID: 4271754524781771179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6090e5e445eb47900800000000000000
+      internalID: 681378712941103366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf979471939fa0c0800000000000000
+      internalID: -4562265644567388235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f2806a3c0aad690800000000000000
+      internalID: -7576566660932817142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abf1a2bd7ddb71d0800000000000000
+      internalID: -3351841965709591643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349a6495ce645120800000000000000
+      internalID: 2401666296172942399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c14001924a2e70800000000000000
+      internalID: 9091151988342769773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c05b8fcad618580800000000000000
+      internalID: -8826653204995044267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5b429d6d6ef3180800000000000000
+      internalID: -9133327708843624987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b38a670614c830800000000000000
+      internalID: 4090418582666850773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6680cdaaf48b250800000000000000
+      internalID: 5960601702079424167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f0384496575b20800000000000000
+      internalID: 3123060061471045640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793647cec6baa7c20800000000000000
+      internalID: 3205062569139397527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_4_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921922a8c99bb60a0800000000000000
+      internalID: -6887207123149483735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8f14eaa5e7f360800000000000000
+      internalID: 7203478651136871521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd80903c66f7bb0800000000000000
+      internalID: -4936113678718542771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e666456c7bc4aea0800000000000000
+      internalID: -5862337079794047263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b913d76098b77a20800000000000000
+      internalID: 3060117402178230710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261441890a7f37b80800000000000000
+      internalID: -8398096610997550750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5711204e13c126b0800000000000000
+      internalID: -5322758749882869926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ddcb1bddce1af90800000000000000
+      internalID: -6944008713514721905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347bc76f37b7d3b20800000000000000
+      internalID: 3115782255197075267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4182e3fe3839efc0800000000000000
+      internalID: -3465176595254050484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cfbe533ccf0fdf0800000000000000
+      internalID: -148340872349746026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0b122a297086890800000000000000
+      internalID: -7464708055999860550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8672086ef8aae270800000000000000
+      internalID: 8280616675494229642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc62ef7f8097aa0800000000000000
+      internalID: -6162884753865913596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4d555311201b60800000000000000
+      internalID: 7714702528605932771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f3fcb19e8e5b10800000000000000
+      internalID: 1972170443426361824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_5_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7313eed9273c800800000000000000
+      internalID: 631474395393636300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e0d43a62c19f80800000000000000
+      internalID: -8101480493254384495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9327cf15be63f9670800000000000000
+      internalID: 8547611002093204025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d168e60090dfe6e90800000000000000
+      internalID: -7030403753174989283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b668391ec7ddbb270800000000000000
+      internalID: 8267445069398902379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebbcaf996a8b3dc0800000000000000
+      internalID: -3658178086053299224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46fbab518723c9a0800000000000000
+      internalID: -6214079624298891698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52a72753ad4ffc80800000000000000
+      internalID: -8286819425401200035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6083730989aff0800000000000000
+      internalID: -24337675058123925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832748104f6d1fb40800000000000000
+      internalID: 5472391365717684792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c6f3ecda5be8f00800000000000000
+      internalID: 1121033115356064799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445b2173533222ea0800000000000000
+      internalID: -5899113850437716668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0e2dab5662f2130800000000000000
+      internalID: 3544093650131804383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd2c68effa6e6a00800000000000000
+      internalID: 751655835166060031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d525261871d93fee0800000000000000
+      internalID: -1228465549061500323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba26c9a89b381120800000000000000
+      internalID: 2384721529562081968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_6_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b019760acfb81a40800000000000000
+      internalID: 5339228232660619445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdf6f7610209b40800000000000000
+      internalID: 5444887230490337124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cbffa37afe07800800000000000000
+      internalID: 608249451223432248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36e5c2e85cba2a0800000000000000
+      internalID: -6725064404127292445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09d53d9d0fa6050800000000000000
+      internalID: 5794708688910258369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe9c0f894def830800000000000000
+      internalID: 4106953663548354532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8359196e59b1530800000000000000
+      internalID: 3826817125898860718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da710e18ed0089b0800000000000000
+      internalID: -5080045089086932266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916de1a73b986160800000000000000
+      internalID: 7019030682499113375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfd90ef71fcbe540800000000000000
+      internalID: 5038348310097289141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431187d2f8189fa60800000000000000
+      internalID: 7708334689164464436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fc8ac42ca10f70800000000000000
+      internalID: 9151785191810594558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31408a2466fb03560800000000000000
+      internalID: 7291538242638709779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581094050dd6884c0800000000000000
+      internalID: -4285054303975439995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2283ca90205efec20800000000000000
+      internalID: 3238058454017652770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a1760a852dee050800000000000000
+      internalID: 5831829845581437487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_7_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22adfcb6551c63030800000000000000
+      internalID: 3474176735188081186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c250abc79d5d5b920800000000000000
+      internalID: 3005543456416859436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf16131e50a69b0800000000000000
+      internalID: -5086246364407268312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8575a975052b80800000000000000
+      internalID: -8420317908274147472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e37499af83dfa30800000000000000
+      internalID: 4250616272272178691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a2917e505544f0800000000000000
+      internalID: -845180988499516119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05a70fc8dfec4b0800000000000000
+      internalID: -5418114519908331306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f31969cac5bce750800000000000000
+      internalID: 6335638658370573305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a506bde9c8c9ab70800000000000000
+      internalID: 8910874107331347878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6477d083a9a8bc60800000000000000
+      internalID: 7834198071517344879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9a3cbaadf2e5c70800000000000000
+      internalID: 8961652924744968668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86fc900047d49e70800000000000000
+      internalID: 9121151815220262541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3213f2a52c2000800000000000000
+      internalID: 12426280768256823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17431929489b88670800000000000000
+      internalID: 8541280672353956977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358288426a8f646a0800000000000000
+      internalID: -6465206822582605741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4acfe69f107db0a0800000000000000
+      internalID: -6864206976064173491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_8_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796303d4c3855a550800000000000000
+      internalID: 6171435880397420183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4462edcb86f343c0800000000000000
+      internalID: -4376383332558937013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177593757fc5713a0800000000000000
+      internalID: -6694780103672899727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d04fb6e3ecaa1d0800000000000000
+      internalID: -3338629406247350937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102d9f1f94aaadc20800000000000000
+      internalID: 3232082917160768001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2545d7b47460fdac0800000000000000
+      internalID: -3828334254962682798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fd5a49126875f90800000000000000
+      internalID: -6964950819919241414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd5140374242b50800000000000000
+      internalID: 6567414233021406357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa135ca9d8150460800000000000000
+      internalID: 7207194101854444205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24652f8c8f3ac410800000000000000
+      internalID: 1498079698983674925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aabdcc43ef24d30800000000000000
+      internalID: 4414370087505209889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f3ba6c23d9b1370800000000000000
+      internalID: 8294395980139937662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054ad49dfa63f620800000000000000
+      internalID: 2806704630138553602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a503a07a7385f0800000000000000
+      internalID: -755625688278128187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af22669127ade2d30800000000000000
+      internalID: 4408701268829545210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657cce050de205140800000000000000
+      internalID: 4706313082847938390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_9_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930bd25252c3fd40800000000000000
+      internalID: 5617046819094332313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2164b25a54c94e5f0800000000000000
+      internalID: -728285416789424622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa83ee52c0f81b0800000000000000
+      internalID: -5652285650276668912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f60b00d203ee40800000000000000
+      internalID: 5684390247233156232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4917dd9593b7890800000000000000
+      internalID: -7459305299679013646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45016ce55956cf6e0800000000000000
+      internalID: -1802454058640469932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7d182b0a48d88a0800000000000000
+      internalID: -6301234477896968238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dd6ba973628a070800000000000000
+      internalID: 8117780348596051253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97381ca9a31c62220800000000000000
+      internalID: 2460866703853192057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e269bd899e5d60800000000000000
+      internalID: 7880905231924651824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b84132194238220800000000000000
+      internalID: 2486871625016052530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4764dde0dfbd24080800000000000000
+      internalID: -9204552808469281164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21c614f9908bae0800000000000000
+      internalID: -1533465093517602065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e953f620103b8f9c0800000000000000
+      internalID: -3893165060944611938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8def1ba8aaf53860800000000000000
+      internalID: 7509183556042616206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a153f79e8142e40800000000000000
+      internalID: 5630652825260595754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_10_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f828c2f388ff7610800000000000000
+      internalID: 1621287636474276085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d6752f70affe060800000000000000
+      internalID: 6985076459112459558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61ee4286713a8480800000000000000
+      internalID: -8896243728854883989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f0a0775d6dafc20800000000000000
+      internalID: 3241139094160019303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191189eb69defa820800000000000000
+      internalID: 2931823114139996561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0245543314844180800000000000000
+      internalID: -9132028926383275505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fd7d657d7d2da00800000000000000
+      internalID: 779923005363445640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d465fcd052ff60800000000000000
+      internalID: 8066598792514032440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e24b6081163fe50800000000000000
+      internalID: 6841919014725496341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03b9364f608a50d0800000000000000
+      internalID: -3433290550508670193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28637a4f480967df0800000000000000
+      internalID: -182799834147244414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05dbe4de3d80d650800000000000000
+      internalID: 6255655183417333004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e934a3b8de59a980800000000000000
+      internalID: -8527180134629492249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92d434697c0c65f0800000000000000
+      internalID: -762220521420696933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64dbb3be2f43acc0800000000000000
+      internalID: -3701027406765894546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221de8c728fc360e0800000000000000
+      internalID: -2277748827176906462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_11_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73aec4ddc5a77110800000000000000
+      internalID: 1258656924330533758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8732df6af901e7a40800000000000000
+      internalID: 5367746083759661944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a100870b1c790d430800000000000000
+      internalID: 3805708543273205786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380a46398fc9282b0800000000000000
+      internalID: -5583727996547325821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6134dc0e4168b40800000000000000
+      internalID: 5442060155472778917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f422d3594f4830800000000000000
+      internalID: 4057542413640855823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0568d65895ddd0800000000000000
+      internalID: -2461894122522997851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ebb50f6958c6c0800000000000000
+      internalID: -4122947125485246709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f09968c0cc40aa0800000000000000
+      internalID: -6195602833185108147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01837e8bcfe85480800000000000000
+      internalID: -8910108205205192435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec855e052cc9fe3d0800000000000000
+      internalID: -3175146853878114098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe4f701d283aec0800000000000000
+      internalID: -3556855446399291545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f21c114e5cf120800000000000000
+      internalID: 2448935931119597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7527085dba98bf480800000000000000
+      internalID: -8864340070434311593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4497ee14377dbc140800000000000000
+      internalID: 4741119922764937540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b98382f03c6b480800000000000000
+      internalID: -8883698745075000559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_12_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4289b850577e16d0800000000000000
+      internalID: -3017843513322012084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045122691850981c0800000000000000
+      internalID: -4501060298452363968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db896c950ca91250800000000000000
+      internalID: 5915948725626833881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1172ff9378c87cf0800000000000000
+      internalID: -254232980016172774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798970b93f62606e0800000000000000
+      internalID: -1871765767405987689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716e12b60423e93c0800000000000000
+      internalID: -4350984937736641001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e736516b75c9090800000000000000
+      internalID: -8026443996326560202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8276e410955c970800000000000000
+      internalID: 8774517311146502330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78dcbce0c09a730800000000000000
+      internalID: 4010750200838457316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0606facca6f9c0800000000000000
+      internalID: -3893734840104251752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14754bd831cdcc140800000000000000
+      internalID: 4741406484254185281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278a4539335b5940800000000000000
+      internalID: 5285910092821727013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe64d6039e2ea770800000000000000
+      internalID: 8623881545470734066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35143f95ea1255e0800000000000000
+      internalID: -1922444517412956870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb3ea8725f55a10800000000000000
+      internalID: 1897692368189242199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ce149266892b50800000000000000
+      internalID: 6568929289446541811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_13_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ee34e59614d480800000000000000
+      internalID: -8875444132605140957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8e05cc06200bc90800000000000000
+      internalID: -7156217193123747610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc689732da35f40800000000000000
+      internalID: 5716102719937629383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790303cba6cfc9a0800000000000000
+      internalID: -6210526920107161231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a7e379258b319f0800000000000000
+      internalID: -498852468843709857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982200f68a602fdf0800000000000000
+      internalID: -148048517263252855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe357f453432f310800000000000000
+      internalID: 1437268634655604468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444f76daa4ab9bbb0800000000000000
+      internalID: -4919696288025938876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfd5336a93989a80800000000000000
+      internalID: -8459849608716755001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952cea30df511d4b0800000000000000
+      internalID: -5417524700317302183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1826469a8aa547d10800000000000000
+      internalID: 2122421004841280129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36edff2818f044dd0800000000000000
+      internalID: -2502858443988148637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b031bd65803afb0800000000000000
+      internalID: -4637854022125810926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df03b45dead1650800000000000000
+      internalID: 6205308092699180446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91c4592cd7809a60800000000000000
+      internalID: 7678786744322671004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304efa58633263d0800000000000000
+      internalID: -3214950660692885442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_14_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8176dd076c62220800000000000000
+      internalID: 2460872434457712811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f9227c6913c5e0800000000000000
+      internalID: -1890639465002961787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9157f143a1a3dbca0800000000000000
+      internalID: -5999575244369595111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82caca85d186620800000000000000
+      internalID: 2767494237710461181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b19c66c81ef5b40800000000000000
+      internalID: 5431307668768234363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c91c7f4e42c99920800000000000000
+      internalID: 2997640668588546500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e807e1450183c50800000000000000
+      internalID: 6645079203659157074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11025d2f03beb4a70800000000000000
+      internalID: 8812395691345518609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b0722c18ddce1f0800000000000000
+      internalID: -1014192266687345892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9e51eede0de1090800000000000000
+      internalID: -8061776562626369079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c40b106333b8f00800000000000000
+      internalID: 1120045239381281806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef53f7e08b1e28a0800000000000000
+      internalID: -6328090185947717650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830a976988304f830800000000000000
+      internalID: 4103909045616353336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdb16626474d9fd0800000000000000
+      internalID: -2333630665290826306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e0819190042cb80800000000000000
+      internalID: -8376061949135810960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a39b0a968732ebb0800000000000000
+      internalID: -4908299592630824026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrains_TILESET_B-C-D-E_15_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9a6c72e432df640800000000000000
+      internalID: 5115283570344503780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Terrains_TILESET_B-C-D-E_0: -6352492401761043456
+      Terrains_TILESET_B-C-D-E_0_0: -7443341262033150811
+      Terrains_TILESET_B-C-D-E_0_1: -6644286005744905689
+      Terrains_TILESET_B-C-D-E_0_10: 5750244638655395313
+      Terrains_TILESET_B-C-D-E_0_11: -952887652938289220
+      Terrains_TILESET_B-C-D-E_0_12: 6082673842890144326
+      Terrains_TILESET_B-C-D-E_0_13: 9063270966083133470
+      Terrains_TILESET_B-C-D-E_0_14: -3413585543871320675
+      Terrains_TILESET_B-C-D-E_0_15: -239576825519702989
+      Terrains_TILESET_B-C-D-E_0_2: -407539229814509892
+      Terrains_TILESET_B-C-D-E_0_3: 3394362193621438764
+      Terrains_TILESET_B-C-D-E_0_4: -5151188877091118621
+      Terrains_TILESET_B-C-D-E_0_5: -3002583706154307483
+      Terrains_TILESET_B-C-D-E_0_6: -5479208786183955355
+      Terrains_TILESET_B-C-D-E_0_7: -7790526170887775652
+      Terrains_TILESET_B-C-D-E_0_8: -8440083085855348703
+      Terrains_TILESET_B-C-D-E_0_9: 2626201658746076315
+      Terrains_TILESET_B-C-D-E_1: -3705051211705196776
+      Terrains_TILESET_B-C-D-E_10_0: -728285416789424622
+      Terrains_TILESET_B-C-D-E_10_1: -5652285650276668912
+      Terrains_TILESET_B-C-D-E_10_10: -9204552808469281164
+      Terrains_TILESET_B-C-D-E_10_11: -1533465093517602065
+      Terrains_TILESET_B-C-D-E_10_12: -3893165060944611938
+      Terrains_TILESET_B-C-D-E_10_13: 7509183556042616206
+      Terrains_TILESET_B-C-D-E_10_14: 5630652825260595754
+      Terrains_TILESET_B-C-D-E_10_15: 1621287636474276085
+      Terrains_TILESET_B-C-D-E_10_2: 5684390247233156232
+      Terrains_TILESET_B-C-D-E_10_3: -7459305299679013646
+      Terrains_TILESET_B-C-D-E_10_4: -1802454058640469932
+      Terrains_TILESET_B-C-D-E_10_5: -6301234477896968238
+      Terrains_TILESET_B-C-D-E_10_6: 8117780348596051253
+      Terrains_TILESET_B-C-D-E_10_7: 2460866703853192057
+      Terrains_TILESET_B-C-D-E_10_8: 7880905231924651824
+      Terrains_TILESET_B-C-D-E_10_9: 2486871625016052530
+      Terrains_TILESET_B-C-D-E_11_0: 6985076459112459558
+      Terrains_TILESET_B-C-D-E_11_1: -8896243728854883989
+      Terrains_TILESET_B-C-D-E_11_10: 6255655183417333004
+      Terrains_TILESET_B-C-D-E_11_11: -8527180134629492249
+      Terrains_TILESET_B-C-D-E_11_12: -762220521420696933
+      Terrains_TILESET_B-C-D-E_11_13: -3701027406765894546
+      Terrains_TILESET_B-C-D-E_11_14: -2277748827176906462
+      Terrains_TILESET_B-C-D-E_11_15: 1258656924330533758
+      Terrains_TILESET_B-C-D-E_11_2: 3241139094160019303
+      Terrains_TILESET_B-C-D-E_11_3: 2931823114139996561
+      Terrains_TILESET_B-C-D-E_11_4: -9132028926383275505
+      Terrains_TILESET_B-C-D-E_11_5: 779923005363445640
+      Terrains_TILESET_B-C-D-E_11_6: 8066598792514032440
+      Terrains_TILESET_B-C-D-E_11_7: 6841919014725496341
+      Terrains_TILESET_B-C-D-E_11_8: -3433290550508670193
+      Terrains_TILESET_B-C-D-E_11_9: -182799834147244414
+      Terrains_TILESET_B-C-D-E_12_0: 5367746083759661944
+      Terrains_TILESET_B-C-D-E_12_1: 3805708543273205786
+      Terrains_TILESET_B-C-D-E_12_10: -3556855446399291545
+      Terrains_TILESET_B-C-D-E_12_11: 2448935931119597891
+      Terrains_TILESET_B-C-D-E_12_12: -8864340070434311593
+      Terrains_TILESET_B-C-D-E_12_13: 4741119922764937540
+      Terrains_TILESET_B-C-D-E_12_14: -8883698745075000559
+      Terrains_TILESET_B-C-D-E_12_15: -3017843513322012084
+      Terrains_TILESET_B-C-D-E_12_2: -5583727996547325821
+      Terrains_TILESET_B-C-D-E_12_3: 5442060155472778917
+      Terrains_TILESET_B-C-D-E_12_4: 4057542413640855823
+      Terrains_TILESET_B-C-D-E_12_5: -2461894122522997851
+      Terrains_TILESET_B-C-D-E_12_6: -4122947125485246709
+      Terrains_TILESET_B-C-D-E_12_7: -6195602833185108147
+      Terrains_TILESET_B-C-D-E_12_8: -8910108205205192435
+      Terrains_TILESET_B-C-D-E_12_9: -3175146853878114098
+      Terrains_TILESET_B-C-D-E_13_0: -4501060298452363968
+      Terrains_TILESET_B-C-D-E_13_1: 5915948725626833881
+      Terrains_TILESET_B-C-D-E_13_10: 5285910092821727013
+      Terrains_TILESET_B-C-D-E_13_11: 8623881545470734066
+      Terrains_TILESET_B-C-D-E_13_12: -1922444517412956870
+      Terrains_TILESET_B-C-D-E_13_13: 1897692368189242199
+      Terrains_TILESET_B-C-D-E_13_14: 6568929289446541811
+      Terrains_TILESET_B-C-D-E_13_15: -8875444132605140957
+      Terrains_TILESET_B-C-D-E_13_2: -254232980016172774
+      Terrains_TILESET_B-C-D-E_13_3: -1871765767405987689
+      Terrains_TILESET_B-C-D-E_13_4: -4350984937736641001
+      Terrains_TILESET_B-C-D-E_13_5: -8026443996326560202
+      Terrains_TILESET_B-C-D-E_13_6: 8774517311146502330
+      Terrains_TILESET_B-C-D-E_13_7: 4010750200838457316
+      Terrains_TILESET_B-C-D-E_13_8: -3893734840104251752
+      Terrains_TILESET_B-C-D-E_13_9: 4741406484254185281
+      Terrains_TILESET_B-C-D-E_14_0: -7156217193123747610
+      Terrains_TILESET_B-C-D-E_14_1: 5716102719937629383
+      Terrains_TILESET_B-C-D-E_14_10: -2502858443988148637
+      Terrains_TILESET_B-C-D-E_14_11: -4637854022125810926
+      Terrains_TILESET_B-C-D-E_14_12: 6205308092699180446
+      Terrains_TILESET_B-C-D-E_14_13: 7678786744322671004
+      Terrains_TILESET_B-C-D-E_14_14: -3214950660692885442
+      Terrains_TILESET_B-C-D-E_14_15: 2460872434457712811
+      Terrains_TILESET_B-C-D-E_14_2: -6210526920107161231
+      Terrains_TILESET_B-C-D-E_14_3: -498852468843709857
+      Terrains_TILESET_B-C-D-E_14_4: -148048517263252855
+      Terrains_TILESET_B-C-D-E_14_5: 1437268634655604468
+      Terrains_TILESET_B-C-D-E_14_6: -4919696288025938876
+      Terrains_TILESET_B-C-D-E_14_7: -8459849608716755001
+      Terrains_TILESET_B-C-D-E_14_8: -5417524700317302183
+      Terrains_TILESET_B-C-D-E_14_9: 2122421004841280129
+      Terrains_TILESET_B-C-D-E_15_0: -1890639465002961787
+      Terrains_TILESET_B-C-D-E_15_1: -5999575244369595111
+      Terrains_TILESET_B-C-D-E_15_10: -6328090185947717650
+      Terrains_TILESET_B-C-D-E_15_11: 4103909045616353336
+      Terrains_TILESET_B-C-D-E_15_12: -2333630665290826306
+      Terrains_TILESET_B-C-D-E_15_13: -8376061949135810960
+      Terrains_TILESET_B-C-D-E_15_14: -4908299592630824026
+      Terrains_TILESET_B-C-D-E_15_15: 5115283570344503780
+      Terrains_TILESET_B-C-D-E_15_2: 2767494237710461181
+      Terrains_TILESET_B-C-D-E_15_3: 5431307668768234363
+      Terrains_TILESET_B-C-D-E_15_4: 2997640668588546500
+      Terrains_TILESET_B-C-D-E_15_5: 6645079203659157074
+      Terrains_TILESET_B-C-D-E_15_6: 8812395691345518609
+      Terrains_TILESET_B-C-D-E_15_7: -1014192266687345892
+      Terrains_TILESET_B-C-D-E_15_8: -8061776562626369079
+      Terrains_TILESET_B-C-D-E_15_9: 1120045239381281806
+      Terrains_TILESET_B-C-D-E_1_0: -1990404619982336355
+      Terrains_TILESET_B-C-D-E_1_1: 8624999492821611572
+      Terrains_TILESET_B-C-D-E_1_10: 4371958511359922460
+      Terrains_TILESET_B-C-D-E_1_11: 7045601458061228480
+      Terrains_TILESET_B-C-D-E_1_12: -18759320005065492
+      Terrains_TILESET_B-C-D-E_1_13: -2688290700622297352
+      Terrains_TILESET_B-C-D-E_1_14: 7900118406080885592
+      Terrains_TILESET_B-C-D-E_1_15: -5239887485706166681
+      Terrains_TILESET_B-C-D-E_1_2: 1496586308160080785
+      Terrains_TILESET_B-C-D-E_1_3: 7336186455176706578
+      Terrains_TILESET_B-C-D-E_1_4: -6003253253838160536
+      Terrains_TILESET_B-C-D-E_1_5: 2120415306423241017
+      Terrains_TILESET_B-C-D-E_1_6: -1331309018401726356
+      Terrains_TILESET_B-C-D-E_1_7: 6128652652473728693
+      Terrains_TILESET_B-C-D-E_1_8: 5959205120406636156
+      Terrains_TILESET_B-C-D-E_1_9: -5142818408859757144
+      Terrains_TILESET_B-C-D-E_2: -6516076605350739260
+      Terrains_TILESET_B-C-D-E_2_0: -2337461423328095700
+      Terrains_TILESET_B-C-D-E_2_1: -3942421119800497516
+      Terrains_TILESET_B-C-D-E_2_10: -3175077794340127798
+      Terrains_TILESET_B-C-D-E_2_11: -8677949418205730244
+      Terrains_TILESET_B-C-D-E_2_12: 863116457971040937
+      Terrains_TILESET_B-C-D-E_2_13: 2509968764204211190
+      Terrains_TILESET_B-C-D-E_2_14: -7818856242569104362
+      Terrains_TILESET_B-C-D-E_2_15: -947223283180365875
+      Terrains_TILESET_B-C-D-E_2_2: 4753098970010859506
+      Terrains_TILESET_B-C-D-E_2_3: 3875923447262862699
+      Terrains_TILESET_B-C-D-E_2_4: 1516802495001456102
+      Terrains_TILESET_B-C-D-E_2_5: 1086598293385312711
+      Terrains_TILESET_B-C-D-E_2_6: 8764353636993786272
+      Terrains_TILESET_B-C-D-E_2_7: 5931580242377122907
+      Terrains_TILESET_B-C-D-E_2_8: -8314718857939515797
+      Terrains_TILESET_B-C-D-E_2_9: -4195331029617677826
+      Terrains_TILESET_B-C-D-E_3_0: -6549538630802235878
+      Terrains_TILESET_B-C-D-E_3_1: -886440937722409598
+      Terrains_TILESET_B-C-D-E_3_10: 9089940221952051211
+      Terrains_TILESET_B-C-D-E_3_11: 5019694011059921728
+      Terrains_TILESET_B-C-D-E_3_12: -5746293063070622423
+      Terrains_TILESET_B-C-D-E_3_13: -6446695958055589089
+      Terrains_TILESET_B-C-D-E_3_14: -3275765349697676412
+      Terrains_TILESET_B-C-D-E_3_15: 2108542223537428903
+      Terrains_TILESET_B-C-D-E_3_2: 4723856966333247231
+      Terrains_TILESET_B-C-D-E_3_3: 1489643415724555727
+      Terrains_TILESET_B-C-D-E_3_4: -6051931328100755360
+      Terrains_TILESET_B-C-D-E_3_5: 2576333595007653897
+      Terrains_TILESET_B-C-D-E_3_6: 5414054429883387514
+      Terrains_TILESET_B-C-D-E_3_7: -3737187209656481628
+      Terrains_TILESET_B-C-D-E_3_8: -3544373312765036350
+      Terrains_TILESET_B-C-D-E_3_9: 5917755784449728443
+      Terrains_TILESET_B-C-D-E_4_0: -8392836149135056054
+      Terrains_TILESET_B-C-D-E_4_1: -1688528458145899056
+      Terrains_TILESET_B-C-D-E_4_10: -9133327708843624987
+      Terrains_TILESET_B-C-D-E_4_11: 4090418582666850773
+      Terrains_TILESET_B-C-D-E_4_12: 5960601702079424167
+      Terrains_TILESET_B-C-D-E_4_13: 3123060061471045640
+      Terrains_TILESET_B-C-D-E_4_14: 3205062569139397527
+      Terrains_TILESET_B-C-D-E_4_15: -6887207123149483735
+      Terrains_TILESET_B-C-D-E_4_2: 4271754524781771179
+      Terrains_TILESET_B-C-D-E_4_3: 681378712941103366
+      Terrains_TILESET_B-C-D-E_4_4: -4562265644567388235
+      Terrains_TILESET_B-C-D-E_4_5: -7576566660932817142
+      Terrains_TILESET_B-C-D-E_4_6: -3351841965709591643
+      Terrains_TILESET_B-C-D-E_4_7: 2401666296172942399
+      Terrains_TILESET_B-C-D-E_4_8: 9091151988342769773
+      Terrains_TILESET_B-C-D-E_4_9: -8826653204995044267
+      Terrains_TILESET_B-C-D-E_5_0: 7203478651136871521
+      Terrains_TILESET_B-C-D-E_5_1: -4936113678718542771
+      Terrains_TILESET_B-C-D-E_5_10: -7464708055999860550
+      Terrains_TILESET_B-C-D-E_5_11: 8280616675494229642
+      Terrains_TILESET_B-C-D-E_5_12: -6162884753865913596
+      Terrains_TILESET_B-C-D-E_5_13: 7714702528605932771
+      Terrains_TILESET_B-C-D-E_5_14: 1972170443426361824
+      Terrains_TILESET_B-C-D-E_5_15: 631474395393636300
+      Terrains_TILESET_B-C-D-E_5_2: -5862337079794047263
+      Terrains_TILESET_B-C-D-E_5_3: 3060117402178230710
+      Terrains_TILESET_B-C-D-E_5_4: -8398096610997550750
+      Terrains_TILESET_B-C-D-E_5_5: -5322758749882869926
+      Terrains_TILESET_B-C-D-E_5_6: -6944008713514721905
+      Terrains_TILESET_B-C-D-E_5_7: 3115782255197075267
+      Terrains_TILESET_B-C-D-E_5_8: -3465176595254050484
+      Terrains_TILESET_B-C-D-E_5_9: -148340872349746026
+      Terrains_TILESET_B-C-D-E_6_0: -8101480493254384495
+      Terrains_TILESET_B-C-D-E_6_1: 8547611002093204025
+      Terrains_TILESET_B-C-D-E_6_10: -5899113850437716668
+      Terrains_TILESET_B-C-D-E_6_11: 3544093650131804383
+      Terrains_TILESET_B-C-D-E_6_12: 751655835166060031
+      Terrains_TILESET_B-C-D-E_6_13: -1228465549061500323
+      Terrains_TILESET_B-C-D-E_6_14: 2384721529562081968
+      Terrains_TILESET_B-C-D-E_6_15: 5339228232660619445
+      Terrains_TILESET_B-C-D-E_6_2: -7030403753174989283
+      Terrains_TILESET_B-C-D-E_6_3: 8267445069398902379
+      Terrains_TILESET_B-C-D-E_6_4: -3658178086053299224
+      Terrains_TILESET_B-C-D-E_6_5: -6214079624298891698
+      Terrains_TILESET_B-C-D-E_6_6: -8286819425401200035
+      Terrains_TILESET_B-C-D-E_6_7: -24337675058123925
+      Terrains_TILESET_B-C-D-E_6_8: 5472391365717684792
+      Terrains_TILESET_B-C-D-E_6_9: 1121033115356064799
+      Terrains_TILESET_B-C-D-E_7_0: 5444887230490337124
+      Terrains_TILESET_B-C-D-E_7_1: 608249451223432248
+      Terrains_TILESET_B-C-D-E_7_10: 9151785191810594558
+      Terrains_TILESET_B-C-D-E_7_11: 7291538242638709779
+      Terrains_TILESET_B-C-D-E_7_12: -4285054303975439995
+      Terrains_TILESET_B-C-D-E_7_13: 3238058454017652770
+      Terrains_TILESET_B-C-D-E_7_14: 5831829845581437487
+      Terrains_TILESET_B-C-D-E_7_15: 3474176735188081186
+      Terrains_TILESET_B-C-D-E_7_2: -6725064404127292445
+      Terrains_TILESET_B-C-D-E_7_3: 5794708688910258369
+      Terrains_TILESET_B-C-D-E_7_4: 4106953663548354532
+      Terrains_TILESET_B-C-D-E_7_5: 3826817125898860718
+      Terrains_TILESET_B-C-D-E_7_6: -5080045089086932266
+      Terrains_TILESET_B-C-D-E_7_7: 7019030682499113375
+      Terrains_TILESET_B-C-D-E_7_8: 5038348310097289141
+      Terrains_TILESET_B-C-D-E_7_9: 7708334689164464436
+      Terrains_TILESET_B-C-D-E_8_0: 3005543456416859436
+      Terrains_TILESET_B-C-D-E_8_1: -5086246364407268312
+      Terrains_TILESET_B-C-D-E_8_10: 9121151815220262541
+      Terrains_TILESET_B-C-D-E_8_11: 12426280768256823
+      Terrains_TILESET_B-C-D-E_8_12: 8541280672353956977
+      Terrains_TILESET_B-C-D-E_8_13: -6465206822582605741
+      Terrains_TILESET_B-C-D-E_8_14: -6864206976064173491
+      Terrains_TILESET_B-C-D-E_8_15: 6171435880397420183
+      Terrains_TILESET_B-C-D-E_8_2: -8420317908274147472
+      Terrains_TILESET_B-C-D-E_8_3: 4250616272272178691
+      Terrains_TILESET_B-C-D-E_8_4: -845180988499516119
+      Terrains_TILESET_B-C-D-E_8_5: -5418114519908331306
+      Terrains_TILESET_B-C-D-E_8_6: 6335638658370573305
+      Terrains_TILESET_B-C-D-E_8_7: 8910874107331347878
+      Terrains_TILESET_B-C-D-E_8_8: 7834198071517344879
+      Terrains_TILESET_B-C-D-E_8_9: 8961652924744968668
+      Terrains_TILESET_B-C-D-E_9_0: -4376383332558937013
+      Terrains_TILESET_B-C-D-E_9_1: -6694780103672899727
+      Terrains_TILESET_B-C-D-E_9_10: 8294395980139937662
+      Terrains_TILESET_B-C-D-E_9_11: 2806704630138553602
+      Terrains_TILESET_B-C-D-E_9_12: -755625688278128187
+      Terrains_TILESET_B-C-D-E_9_13: 4408701268829545210
+      Terrains_TILESET_B-C-D-E_9_14: 4706313082847938390
+      Terrains_TILESET_B-C-D-E_9_15: 5617046819094332313
+      Terrains_TILESET_B-C-D-E_9_2: -3338629406247350937
+      Terrains_TILESET_B-C-D-E_9_3: 3232082917160768001
+      Terrains_TILESET_B-C-D-E_9_4: -3828334254962682798
+      Terrains_TILESET_B-C-D-E_9_5: -6964950819919241414
+      Terrains_TILESET_B-C-D-E_9_6: 6567414233021406357
+      Terrains_TILESET_B-C-D-E_9_7: 7207194101854444205
+      Terrains_TILESET_B-C-D-E_9_8: 1498079698983674925
+      Terrains_TILESET_B-C-D-E_9_9: 4414370087505209889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

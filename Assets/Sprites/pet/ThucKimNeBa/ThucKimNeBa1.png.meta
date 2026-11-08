@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 1a7adf1bf1ebd8f429859caa4f8f4099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 200938961158771668
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_0"
+  - first:
+      213: 8140689093797363980
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_1"
+  - first:
+      213: -8600168204612735780
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_2"
+  - first:
+      213: -722505940322326671
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_3"
+  - first:
+      213: 5178310320200748492
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_4"
+  - first:
+      213: 4899670616336270744
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_5"
+  - first:
+      213: -2199925852753334111
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_6"
+  - first:
+      213: 2712420577582188796
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_7"
+  - first:
+      213: -1021106482097368028
+    second: "B\xF9n H\xFAt Kim Lo\u1EA1i1_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_0"
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d39769abe0e9c200800000000000000
+      internalID: 200938961158771668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_1"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 117
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0140be799989f070800000000000000
+      internalID: 8140689093797363980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_2"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdce273659016a880800000000000000
+      internalID: -8600168204612735780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_3"
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1776afedca429f5f0800000000000000
+      internalID: -722505940322326671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_4"
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd0e44eccd0dd740800000000000000
+      internalID: 5178310320200748492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_5"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895842b47702ff340800000000000000
+      internalID: 4899670616336270744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_6"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1
+        width: 111
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07076b71b4871e0800000000000000
+      internalID: -2199925852753334111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_7"
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf80f30f42474a520800000000000000
+      internalID: 2712420577582188796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "B\xF9n H\xFAt Kim Lo\u1EA1i1_8"
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424dcb8801d44d1f0800000000000000
+      internalID: -1021106482097368028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_0": 200938961158771668
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_1": 8140689093797363980
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_2": -8600168204612735780
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_3": -722505940322326671
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_4": 5178310320200748492
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_5": 4899670616336270744
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_6": -2199925852753334111
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_7": 2712420577582188796
+      "B\xF9n H\xFAt Kim Lo\u1EA1i1_8": -1021106482097368028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

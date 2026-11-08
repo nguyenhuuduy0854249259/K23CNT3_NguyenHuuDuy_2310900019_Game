@@ -1,0 +1,54 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "mini_grass",
+  "canvas": [
+    14,
+    12
+  ],
+  "anchor_px": [
+    7,
+    10
+  ],
+  "palette": {
+    "k": "#182820",
+    "d": "#245836",
+    "g": "#3ca34c",
+    "l": "#78d663",
+    "y": "#d4f77e",
+    "f": "#ffeb57",
+    "p": "#ff7eb6"
+  },
+  "variants": {
+    "tuft": {},
+    "flower_gold": {
+      "y": "#ffeb57"
+    },
+    "flower_pink": {
+      "y": "#ff7eb6"
+    }
+  },
+  "outline": {
+    "mode": "none",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "blades",
+      "z": 0,
+      "origin": [
+        1,
+        1
+      ],
+      "rows": [
+        "..y....y...y",
+        "..l...yl..ly",
+        ".gl..ggl..lg",
+        ".gg.dggd.ggd",
+        "..ggdggddgg.",
+        "..dgggggggd.",
+        "...ddddddd..",
+        "....ddddd..."
+      ]
+    }
+  ]
+}

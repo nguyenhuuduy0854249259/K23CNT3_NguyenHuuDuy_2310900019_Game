@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9215371cbee6da429ae08b281f1d951, type: 3}
+  m_Name: equip_lumina_staff
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Items.EquipmentData
+  itemId: equip_lumina_staff
+  itemName: "Tr\u01B0\u1EE3ng Ph\xE1p Lumina"
+  itemType: 0
+  rarity: 2
+  description: 
+  icon: {fileID: 0}
+  buyPrice: 10
+  sellPrice: 5
+  isStackable: 0
+  maxStack: 1
+  equipSlot: 0
+  requiredLevel: 20
+  requiredTier: 3
+  isSpecializedWeapon: 1
+  bonusAtk: 45
+  bonusMagicAtk: 0
+  bonusDef: 0
+  bonusMagicDef: 0
+  bonusHp: 0
+  bonusMp: 100
+  bonusSpeed: 0
+  bonusCritRate: 0
+  weaponElement: 0
+  visualSprite: {fileID: 21300000, guid: f486af21a18aee9ba66900efe781c890, type: 3}
+  weaponGripOffset: {x: 0, y: 0}
+  weaponRotationAngle: 0
+  spriteDown: {fileID: 21300000, guid: f486af21a18aee9ba66900efe781c890, type: 3}
+  spriteUp: {fileID: 21300000, guid: e99b64f5caaed90f25a4bf2fd99a4c80, type: 3}
+  spriteRight: {fileID: 21300000, guid: 1b8be6ee2aacaf239bafac96c91c44f2, type: 3}
+  spriteLeft: {fileID: 21300000, guid: 58b752a22bcfe7a62af0b671418019ef, type: 3}
+  isUnique: 0
+  uniqueEffect: 0
+  uniqueEffectName: 
+  uniqueEffectDescription: 

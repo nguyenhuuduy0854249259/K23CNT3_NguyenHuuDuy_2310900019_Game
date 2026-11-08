@@ -1,0 +1,200 @@
+﻿{
+    "BackupTimestamp":  "20261028_223458",
+    "CreatedAt":  "2026-10-28 22:34:59",
+    "BackupDirectory":  "Backups\\Maps_Backup_20261028_223458",
+    "ZipArchive":  "Backups\\Maps_Backup_20261028_223458.zip",
+    "TotalFiles":  38,
+    "TotalBytes":  10720988,
+    "Files":  [
+                  {
+                      "RelativePath":  "EditorScripts/ForestMapGenerator.cs",
+                      "Bytes":  139090,
+                      "SHA256":  "5CC3DEE3AC2A8BFE104E936F1DEA64E124975A814E5461346E2F0090F92C3ED3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map1Restorer.cs",
+                      "Bytes":  8375,
+                      "SHA256":  "8B518228B6E4256EA6DA0528F6C09F5DB2D4D551A2E37FA720E16FECDFF6B3D3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map2Generator.cs",
+                      "Bytes":  59811,
+                      "SHA256":  "5DAC384570DA123F97B4C40254F46E8A0E479537B0D0F97EE339B34D9CBB9F3C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneBackupGuard.cs",
+                      "Bytes":  22579,
+                      "SHA256":  "D6F4F72626741F01B97EB489EB9C284FA54F91D4641F902306CF521B9E93468E"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/WorldMapSceneBuilder.cs",
+                      "Bytes":  18648,
+                      "SHA256":  "C9D35DE661F50EFAAF78A31FAD715C08F01B0DA258C2B02861A2FFF91D279435"
+                  },
+                  {
+                      "RelativePath":  "MapData/map copy.json",
+                      "Bytes":  36286,
+                      "SHA256":  "B695A54FA9C787168B9EE3F9BD6AEB83B55A945284334BE51E5C82FED6D58747"
+                  },
+                  {
+                      "RelativePath":  "MapData/map.json",
+                      "Bytes":  47366,
+                      "SHA256":  "7A7B235C101F259397886B2401D11FF4DAFC201DA1364C14BF3CB5BE048EDDD6"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Demo_Map.unity",
+                      "Bytes":  4063771,
+                      "SHA256":  "CBB18A02F000F3639EFE83AF3E4857C64CFDE04A176A038DCE9A3412B85CCF99"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Demo_Map.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "A0E31F52624BBBD6CE1E5434360D8EB290FECD5C38BA34F0176141DA5AD5C427"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Prototype.unity",
+                      "Bytes":  35485,
+                      "SHA256":  "B8C307F6494B4F59013652C7F21754ED78F0008578A20842124E129499D51594"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Prototype.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "552EAEF72B100A8AE65CE517A785D2A3D3C9B29394BF3B09400A73164865868E"
+                  },
+                  {
+                      "RelativePath":  "Scenes/MainGame.unity",
+                      "Bytes":  6249357,
+                      "SHA256":  "64A98EF3DB0420F5D3C42F87B14D353E539130D0503644B6EA95031AB38C19D0"
+                  },
+                  {
+                      "RelativePath":  "Scenes/MainGame.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "57DA4CBC48EF0817BA4F36A97314CF15ADC1890002F0CFF922967CCDCEB41BC2"
+                  },
+                  {
+                      "RelativePath":  "Scenes/SampleScene.unity",
+                      "Bytes":  9947,
+                      "SHA256":  "387D8216A517BE775B6ECC2AB55B97ECE687C3372322DA2BA027A96908014912"
+                  },
+                  {
+                      "RelativePath":  "Scenes/SampleScene.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "204F446BC13539151C15AF875550A7FA6F791662E967572A1B4B06FD0005DAD1"
+                  },
+                  {
+                      "RelativePath":  "Scenes/URP2DSceneTemplate.unity",
+                      "Bytes":  9881,
+                      "SHA256":  "F6FB3E91AAA90417E2920B7F903066833B3B9AEA72DDCB5E46B91AFA729C2E90"
+                  },
+                  {
+                      "RelativePath":  "Scenes/URP2DSceneTemplate.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "E7391FF924B7DEFDF30E0B0B235F8113618481C93F567E0C699C8895A9534579"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo.meta",
+                      "Bytes":  172,
+                      "SHA256":  "5CCBCDDE6FAFB5827496F931414504BBEFB5DF8C40639DA3A966686F5AC00702"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/New Tile Palette.prefab",
+                      "Bytes":  10141,
+                      "SHA256":  "100B235E394F1793142E85D10ABF77FD6BC107BB77EEC39CFC76CCAB2A150E2D"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/New Tile Palette.prefab.meta",
+                      "Bytes":  154,
+                      "SHA256":  "03634C9C909D4DAF8BE7798082A21393B9E962A8F98259BE2EBF1E54625DA5DD"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_CastleWall.asset",
+                      "Bytes":  831,
+                      "SHA256":  "AE9EC17917A6D8C71527F597C30F355007E15430C9435E8FD17A129318C1CE20"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_CastleWall.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "2B116A3BD30E4C5E7B99EA65829551BDA3EC36DEE4075AA84D027A0CAE999435"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_DeepGrass.asset",
+                      "Bytes":  830,
+                      "SHA256":  "40241230541FCACD3A601806DCD37EDE6C4AB666A14CFEC0549A74F9C9BE9FA5"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_DeepGrass.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "0CF1A02B1E1CF56B47F590CA71E168BB6A1041338B3590A51D5F62C4A9DB29D3"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Dirt.asset",
+                      "Bytes":  826,
+                      "SHA256":  "BFB1D57E029776690290617A0BFC76065E8F75629FC8A935F86E941FAD0950FC"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Dirt.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "8A76639E6B75822C6AF211A9ACF827405C0940F38C292AE792AC947BD1CD0A44"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Grass.asset",
+                      "Bytes":  827,
+                      "SHA256":  "6117EEBF980E522DCE3902B68DE15BD822AFF3ECE69120E9943C4C9743469C96"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Grass.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "208C8C7A928D6279D9E7D579739E56E012B00E6702EF7E21429B63D5F038770A"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Lava.asset",
+                      "Bytes":  826,
+                      "SHA256":  "C02053E9DB5D4C319229F4CAC957345AB3C85D66448DC761A9BC3BEC664522B3"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Lava.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "FAC8A6B34ECAA52DF613E3D0FF76A068CEC9C0C7BEDA248EBFE8C6F650C79579"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_MountainRock.asset",
+                      "Bytes":  832,
+                      "SHA256":  "2E5BAEB36F852C12E8D58BB9D6D80EAF342932F71E1F3BBAC878249A7D900CB8"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_MountainRock.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "F21A1ED2D2BBF0E3F31DDAA929894FB3F6301884607ED3129CE55C45BD2FC341"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Path.asset",
+                      "Bytes":  825,
+                      "SHA256":  "1F8165A2FD7CC251FE48C7D7A3C095B762821B06FC47A48CE621F40C7CB6D193"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Path.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "E9BD43F6DCE69F36E7D6D95C119AC52710D1A45C3F153DF8C0DBB009515B9854"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Wall.asset",
+                      "Bytes":  825,
+                      "SHA256":  "91A24367D8DA8107CB1C275C7B7BA10847F4741DA839BC04098E4DABAC6D985C"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Wall.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "5A094239165469F7B0892992776E7C715D88412E6B57281BF4093A19A51DF5D4"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Water.asset",
+                      "Bytes":  827,
+                      "SHA256":  "C7565C7EF670B3BA5C64AB778EC14F33FDAFA5D848F3FFEAAA09678485ABDB25"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Water.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "885E5A2C9A4BE83DAD8DD4933A9FD0C21AD6E77D6E2CB208CE9EA735FBA793AC"
+                  }
+              ]
+}

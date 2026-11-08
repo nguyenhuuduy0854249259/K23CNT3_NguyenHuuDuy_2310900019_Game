@@ -1,0 +1,140 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "3380cc25fd0caa7aa83fe45ee33fc1e5564b2f0099b8fced17ecf5eea939634d",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "m": "#5d275d",
+      "w": "#8f563b",
+      "l": "#d9a066",
+      "g": "#ffcd75",
+      "d": "#ef7d57",
+      "b": "#3b5dc9",
+      "c": "#41a6f6",
+      "i": "#73eff7",
+      "h": "#ffffff"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/staff.png",
+      "sha256": "ee4962a8e23f2a34c19fa5ee12771afe7d442ad53b4dc3aced8123118422c006",
+      "bytes": 248
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "927221dbedbcb9aaec090af300082a1786c988fe26d67155c427b6df9b2862c8",
+      "bytes": 405
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/staff.pixelspec.json",
+        "sha256": "3380cc25fd0caa7aa83fe45ee33fc1e5564b2f0099b8fced17ecf5eea939634d",
+        "bytes": 672
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/staff.png",
+        "sha256": "ee4962a8e23f2a34c19fa5ee12771afe7d442ad53b4dc3aced8123118422c006",
+        "bytes": 248
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/staff.png",
+        "variant": "base",
+        "frame": "staff",
+        "visible": 84,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 15,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          3,
+          20,
+          11
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "staff",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      24,
+      16
+    ],
+    "anchor_px": [
+      6,
+      8
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/staff.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

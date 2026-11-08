@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_novice_flurry_slash
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: novice_flurry_slash
+  skillName: "Lo\u1EA1n V\u0169 Li\xEAn Tr\u1EA3m"
+  description: "K\xEDch ho\u1EA1t ch\xE9m li\xEAn t\u1EE5c 6 nh\u1ECBp trong 2 gi\xE2y."
+  icon: {fileID: 21300000, guid: 4e94f93361e58d24095a078f8395d799, type: 3}
+  targetType: 0
+  element: 0
+  damageType: 0
+  manaCost: 25
+  cooldownSeconds: 7
+  damageMultiplier: 2.7
+  range: 2
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 3405606894434163055, guid: fac39434d925e17458c379fc0c73ed11, type: 3}

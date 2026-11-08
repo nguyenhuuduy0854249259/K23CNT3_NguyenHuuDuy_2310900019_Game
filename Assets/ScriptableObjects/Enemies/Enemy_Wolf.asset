@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f00c2bda6bb203b41baec605c1ea2eb2, type: 3}
+  m_Name: Enemy_Wolf
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Enemies.EnemyData
+  enemyId: enemy_wolf
+  enemyName: "S\xF3i Hoang D\xE3"
+  level: 6
+  element: 5
+  morphologicalGroup: 0
+  sprite: {fileID: -2558803311920984344, guid: 5a5d23f84cedc1c408c67077a71b42a9, type: 3}
+  maxHp: 85
+  attackPower: 12
+  defense: 4
+  moveSpeed: 3.5
+  detectionRadius: 6
+  attackRange: 1.3
+  attackCooldown: 1.8
+  isRanged: 0
+  projectileSpeed: 6
+  isCapturable: 1
+  baseCaptureRate: 0.25
+  expReward: 50
+  goldReward: 22
+  dropTable:
+  - item: {fileID: 11400000, guid: fea8e658555e09943b3deb5556b48bb1, type: 2}
+    dropChancePercent: 25
+    minQuantity: 1
+    maxQuantity: 1
+  isAreaBoss: 0
+  isWorldBoss: 0

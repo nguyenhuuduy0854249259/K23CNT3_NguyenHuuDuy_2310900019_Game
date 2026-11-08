@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_novice_quad_dash
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: novice_quad_dash
+  skillName: "T\u1EE9 B\u1ED9 Du Long"
+  description: "L\u01B0\u1EDBt t\u1EDBi 4 \u0111o\u1EA1n ng\u1EAFn li\xEAn ti\u1EBFp
+    n\xE9 \u0111\xF2n v\u1EDBi t\u1ED1c \u0111\u1ED9 cao."
+  icon: {fileID: 21300000, guid: 0decb777681345d4ca73fe48f6afb11c, type: 3}
+  targetType: 3
+  element: 5
+  damageType: 0
+  manaCost: 15
+  cooldownSeconds: 10
+  damageMultiplier: 0
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

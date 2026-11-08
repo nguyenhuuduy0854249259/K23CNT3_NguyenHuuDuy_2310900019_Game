@@ -1,0 +1,207 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "d9f1ee39d162081cb42908b4fd2bd9c38f73c177fae74cd857b0fd9fe10cf1dd",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "r": "#b13e53",
+      "o": "#ef7d57",
+      "g": "#ffcd75",
+      "w": "#ffffff"
+    },
+    "variants": {
+      "fire": {},
+      "white": {
+        "r": "#3b5dc9",
+        "o": "#41a6f6",
+        "g": "#73eff7",
+        "w": "#ffffff"
+      },
+      "gold": {
+        "r": "#ef7d57",
+        "o": "#ffcd75",
+        "g": "#f4f4f4",
+        "w": "#ffffff"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "fire/frames/fire_orb.png",
+      "sha256": "6c1c24b0ae59d896f1f315fcb7e9c92ea289bcc05d0b8251284ec91cd020eb44",
+      "bytes": 191
+    },
+    {
+      "path": "white/frames/fire_orb.png",
+      "sha256": "ea1410e7eb4167e69ffcfaca8fff68eee3e91b796a40d36d34c14f96d705833e",
+      "bytes": 192
+    },
+    {
+      "path": "gold/frames/fire_orb.png",
+      "sha256": "82737b2877aa5f26962faf6b532d0d6f8a0fcbf5e26d018dcbaf0c5429f288f1",
+      "bytes": 197
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "665e87bfd84d12309ee7d2fd21e2b4458b6163ba839efbb44053ad2a8ea85172",
+      "bytes": 750
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/fire_orb.pixelspec.json",
+        "sha256": "d9f1ee39d162081cb42908b4fd2bd9c38f73c177fae74cd857b0fd9fe10cf1dd",
+        "bytes": 723
+      }
+    ],
+    "outputs": [
+      {
+        "path": "fire/frames/fire_orb.png",
+        "sha256": "6c1c24b0ae59d896f1f315fcb7e9c92ea289bcc05d0b8251284ec91cd020eb44",
+        "bytes": 191
+      },
+      {
+        "path": "white/frames/fire_orb.png",
+        "sha256": "ea1410e7eb4167e69ffcfaca8fff68eee3e91b796a40d36d34c14f96d705833e",
+        "bytes": 192
+      },
+      {
+        "path": "gold/frames/fire_orb.png",
+        "sha256": "82737b2877aa5f26962faf6b532d0d6f8a0fcbf5e26d018dcbaf0c5429f288f1",
+        "bytes": 197
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "fire/frames/fire_orb.png",
+        "variant": "fire",
+        "frame": "fire_orb",
+        "visible": 84,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 5,
+        "orphans": 10,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          15,
+          9
+        ]
+      },
+      {
+        "file": "white/frames/fire_orb.png",
+        "variant": "white",
+        "frame": "fire_orb",
+        "visible": 84,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 5,
+        "orphans": 10,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          15,
+          9
+        ]
+      },
+      {
+        "file": "gold/frames/fire_orb.png",
+        "variant": "gold",
+        "frame": "fire_orb",
+        "visible": 84,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 5,
+        "orphans": 10,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          15,
+          9
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "fire_orb",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      12
+    ],
+    "anchor_px": [
+      9,
+      6
+    ],
+    "outline": "solid",
+    "variants": {
+      "fire": "fire",
+      "white": "white",
+      "gold": "gold"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/fire_orb.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

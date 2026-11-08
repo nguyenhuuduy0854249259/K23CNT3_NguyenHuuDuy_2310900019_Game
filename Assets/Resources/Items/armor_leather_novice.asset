@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9215371cbee6da429ae08b281f1d951, type: 3}
+  m_Name: armor_leather_novice
+  itemId: armor_leather_novice
+  itemName: "Áo Giáp Da Thô"
+  itemType: 0
+  rarity: 0
+  description: "Áo giáp làm từ da thú thường khâu lại. Cung cấp khả năng bảo vệ cơ bản trước móng vuốt dã thú."
+  icon: {fileID: 21300000, guid: b448b325efb84a88a45f59490228f942, type: 3}
+  buyPrice: 20
+  sellPrice: 10
+  isStackable: 0
+  maxStack: 1
+  equipSlot: 1
+  requiredLevel: 1
+  requiredTier: 0
+  isSpecializedWeapon: 0
+  bonusAtk: 0.0
+  bonusDef: 6.0
+  bonusHp: 30.0
+  bonusMp: 0.0
+  bonusSpeed: 0.0
+  bonusCritRate: 0.0
+  weaponElement: 0
+  visualSprite: {fileID: 21300000, guid: b448b325efb84a88a45f59490228f942, type: 3}
+  weaponGripOffset: {x: 0, y: 0}
+  weaponRotationAngle: 0
+  isUnique: 0
+  uniqueEffect: 0
+  uniqueEffectName: ""
+  uniqueEffectDescription: ""

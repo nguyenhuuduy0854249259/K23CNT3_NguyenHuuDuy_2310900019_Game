@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_sum_pet2_strike
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: sum_pet2_strike
+  skillName: "L\u1EC7nh: L\xF4i K\xEDch Pet 2"
+  description: "Ch\u1EC9 \u0111\u1ECBnh Pet 2 ph\xF3ng lu\u1ED3ng s\xE9t nguy\xEAn
+    t\u1ED1."
+  icon: {fileID: 0}
+  targetType: 1
+  element: 3
+  damageType: 0
+  manaCost: 16
+  cooldownSeconds: 3
+  damageMultiplier: 2
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 3274860500779130891, guid: bcfec2cc994ffdd4fa7231c9613efd19, type: 3}
+  hitVfxPrefab: {fileID: 0}

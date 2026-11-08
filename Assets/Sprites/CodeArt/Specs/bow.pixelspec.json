@@ -1,0 +1,38 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "bow",
+  "canvas": [16, 22],
+  "anchor_px": [8, 11],
+  "palette": {
+    "k": "#1a1c2c",
+    "s": "#94b0c2",
+    "w": "#8f563b",
+    "l": "#d9a066",
+    "g": "#ffcd75",
+    "e": "#38b764"
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "weapon",
+      "z": 0,
+      "origin": [4, 3],
+      "rows": [
+        ".gg.....",
+        ".sll....",
+        ".s.lw...",
+        ".s..lw..",
+        ".s...lw.",
+        ".s....ge",
+        ".s....ge",
+        ".s....ge",
+        ".s....ge",
+        ".s...lw.",
+        ".s..lw..",
+        ".s.lw...",
+        ".sll....",
+        ".gg....."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "steppe_crab",
+  "canvas": [
+    18,
+    14
+  ],
+  "anchor_px": [
+    9,
+    12
+  ],
+  "palette": {
+    "k": "#161824",
+    "d": "#3d4659",
+    "s": "#65738c",
+    "l": "#97a6bf",
+    "r": "#b83b48",
+    "o": "#e6654e",
+    "w": "#ffffff"
+  },
+  "outline": {
+    "mode": "solid",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "crab",
+      "z": 0,
+      "origin": [
+        1,
+        1
+      ],
+      "rows": [
+        ".oo..........oo.",
+        "oroo..llll..ooro",
+        "orro.lsddsl.orro",
+        ".rr.lsddddsl.rr.",
+        "..r.dwddddwd.r..",
+        "...roorrrroor...",
+        "..rooorrrrooor..",
+        ".r..r.dddd.r..r.",
+        "r...r......r...r"
+      ]
+    }
+  ]
+}

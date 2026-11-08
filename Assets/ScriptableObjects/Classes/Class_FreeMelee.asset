@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_FreeMelee
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "C\u1EADn Chi\u1EBFn T\u1EF1 Do (Free Melee)"
+  branch: 2
+  role: 1
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "L\u1EDBp c\u1EADn chi\u1EBFn \u0111\u1ED9c nh\u1EA5t v\xF4 nh\u1ECB.
+    Pet bi\u1EBFn h\xECnh th\xE0nh 11 lo\u1EA1i v\u0169 kh\xED theo 4 nh\xF3m lo\xE0i."
+  mechanicDescription: "\u0110\u1ED5i Pet bi\u1EBFn \u0111\u1ED5i v\u0169 kh\xED
+    t\u1EE9c th\xEC (CD 5s), ph\u1EE7 ng\u1EA5n nguy\xEAn t\u1ED1 Pet l\xEAn to\xE0n
+    b\u1ED9 chi\xEAu th\u1EE9c."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 26
+  baseDef: 9
+  baseHp: 160
+  baseMp: 50
+  baseSpeed: 5
+  baseCritRate: 0.08
+  defaultElement: 0
+  specialMechanic: 1
+  passiveSeal1Name: "Binh Kh\xED \u0110\u1ED3ng Th\u1EC3 (Weapon Metamorphosis)"
+  passiveSeal1Desc: "Khi b\u1EA5m \u0111\u1ED5i Pet bi\u1EBFn v\u0169 kh\xED (CD
+    5s), \u0111\xF2n \u0111\xE1nh ho\u1EB7c k\u1EF9 n\u0103ng \u0111\u1EA7u ti\xEAn
+    trong 3s t\u0103ng +25% s\xE1t th\u01B0\u01A1ng."
+  passiveSeal2Name: "Ph\u1EE7 Ng\u1EA5n Nguy\xEAn T\u1ED1 (Elemental Edge)"
+  passiveSeal2Desc: "To\xE0n b\u1ED9 chi\xEAu th\u1EE9c v\u0169 kh\xED t\u1EF1 chuy\u1EC3n
+    h\xF3a th\xE0nh h\u1EC7 nguy\xEAn t\u1ED1 c\u1EE7a Pet, \xE1p hi\u1EC7u \u1EE9ng
+    l\xF5i v\xE0 h\u01B0\u1EDFng h\u1EC7 s\u1ED1 x2.0 kh\u1EAFc ch\u1EBF."
+  passiveSeal3Name: "K\u1EBF Th\u1EEBa Linh T\xEDnh (Familiar Synergy)"
+  passiveSeal3Desc: "K\u1EBF th\u1EEBa 100% ch\u1EC9 s\u1ED1 t\u1EEB Hidden Passive
+    c\u1EE7a Pet. Pet ph\u1EA9m ch\u1EA5t cao m\u1EDF kh\xF3a hi\u1EC7u \u1EE9ng
+    n\u1ED5 uy l\u1EF1c cho Tuy\u1EC7t K\u1EF9 (Slot 5)."
+  unlockedSkills:
+  - {fileID: 11400000, guid: da2e7dee490047547985b122a7648033, type: 2}
+  - {fileID: 11400000, guid: 6fbd31d9dba2e074c842847ded56f4da, type: 2}
+  - {fileID: 11400000, guid: 4263bf9a105040045abf5b3839b1de68, type: 2}
+  promotionOptions: []
+  difficulty: 4

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_alch_healing_mist
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: alch_healing_mist
+  skillName: "S\u01B0\u01A1ng M\xF9 Tr\u1ECB Li\u1EC7u"
+  description: "Th\u1EA3 kh\xF3i d\u01B0\u1EE3c li\u1EC7u h\u1ED3i m\xE1u li\xEAn
+    t\u1EE5c cho \u0111\u1ED3ng minh."
+  icon: {fileID: 0}
+  targetType: 3
+  element: 2
+  damageType: 0
+  manaCost: 25
+  cooldownSeconds: 8
+  damageMultiplier: 1.2
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

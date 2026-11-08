@@ -1,0 +1,136 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "54ccbb46f319871f8cc877e4ac62f14d3dda28cb0265758e4248fbaa535dd685",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "d": "#566c86",
+      "s": "#94b0c2",
+      "g": "#ffcd75",
+      "o": "#ef7d57",
+      "w": "#ffffff"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/shield_icon.png",
+      "sha256": "66407dde70362afe709379fbaf8cd6c22d41f48063db219bbc34d5d53a6ff1f7",
+      "bytes": 221
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "4f2ab0cb0e9c231a319681adb999ae5dc8aae82d0942e7e45bf30a3eac996b66",
+      "bytes": 358
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/shield_icon.pixelspec.json",
+        "sha256": "54ccbb46f319871f8cc877e4ac62f14d3dda28cb0265758e4248fbaa535dd685",
+        "bytes": 572
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/shield_icon.png",
+        "sha256": "66407dde70362afe709379fbaf8cd6c22d41f48063db219bbc34d5d53a6ff1f7",
+        "bytes": 221
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/shield_icon.png",
+        "variant": "base",
+        "frame": "shield_icon",
+        "visible": 74,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 6,
+        "orphans": 14,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          11,
+          11
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "shield_icon",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      12,
+      14
+    ],
+    "anchor_px": [
+      6,
+      7
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/shield_icon.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

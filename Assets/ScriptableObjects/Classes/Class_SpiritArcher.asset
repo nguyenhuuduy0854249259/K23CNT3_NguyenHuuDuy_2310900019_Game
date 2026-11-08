@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_SpiritArcher
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "X\u1EA1 Th\u1EE7 Tinh Linh (Spirit Archer)"
+  branch: 1
+  role: 2
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "Khai th\xE1c s\u1EE9c m\u1EA1nh Tinh Linh t\u1EEB Pet \u0111\u1ED3ng
+    h\xE0nh \u0111\u1EC3 ph\xF3ng \u0111\u1EA1n truy \u0111u\u1ED5i."
+  mechanicDescription: "Qu\u1EA3n l\xFD 3 Charge Linh Th\u1EC3 (h\u1ED3i 4s/charge).
+    B\u1EAFn th\u01B0\u1EDDng t\u1EF1 t\xECm qu\xE1i. Gi\u1EEF n\xFAt k\xEDch ho\u1EA1t
+    H\u1EE3p Th\u1EC3 Fusion x3 s\xE1t th\u01B0\u01A1ng."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 30
+  baseDef: 4
+  baseHp: 105
+  baseMp: 85
+  baseSpeed: 5.2
+  baseCritRate: 0.14
+  defaultElement: 5
+  specialMechanic: 11
+  passiveSeal1Name: "Tu\u1EA7n Ho\xE0n Tinh Ph\xE1ch"
+  passiveSeal1Desc: "Qu\xE1i ch\u1EBFt h\u1ED3i 50% th\u1EDDi gian n\u1EA1p Charge;
+    K\xEDch ho\u1EA1t Fusion t\u0103ng 20% MoveSpeed v\xE0 mi\u1EC5n nhi\u1EC5m kh\u1ED1ng
+    ch\u1EBF trong 5s."
+  passiveSeal2Name: "\u0110\u1ED3ng \u0110i\u1EC7u Linh T\u1ED1"
+  passiveSeal2Desc: "T\u0103ng +25% hi\u1EC7u s\u1ED1 hi\u1EC7u \u1EE9ng h\u1EC7
+    nguy\xEAn t\u1ED1; \u0111\xF2n \u0111\xE1nh Linh Th\u1EC3 t\u1EF1 k\xEDch ho\u1EA1t
+    ph\u1EA3n \u1EE9ng nguy\xEAn t\u1ED1."
+  passiveSeal3Name: "K\u1EBF Th\u1EEBa Linh Th\xFA"
+  passiveSeal3Desc: "Th\u1EEBa h\u01B0\u1EDFng 100% Hidden Passive c\u1EE7a Pet;
+    \u0111\u1ED5i Pet trong combat kh\xF4ng l\xE0m m\u1EA5t h\u1EC7 c\u1EE7a c\xE1c
+    Linh Th\u1EC3 \u0111ang bay."
+  unlockedSkills:
+  - {fileID: 11400000, guid: e15221d64f7407d4fb00c660edc0890c, type: 2}
+  - {fileID: 11400000, guid: ce5007f895455e94c9fd2595eea6f16f, type: 2}
+  - {fileID: 11400000, guid: bce04ad1c0774ff4e8e6bd65e5441a36, type: 2}
+  - {fileID: 11400000, guid: aef0e345fe0644849a17435e50094724, type: 2}
+  promotionOptions: []
+  difficulty: 3

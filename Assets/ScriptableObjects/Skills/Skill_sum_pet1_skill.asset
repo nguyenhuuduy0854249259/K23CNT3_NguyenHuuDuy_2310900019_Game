@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_sum_pet1_skill
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: sum_pet1_skill
+  skillName: "Linh Thu\u1EABn H\u1ED9 M\u1EC7nh Pet 1"
+  description: "Pet 1 t\u1EA1o khi\xEAn ch\u1EAFn b\u1EA3o h\u1ED9 ch\u1EE7 nh\xE2n."
+  icon: {fileID: 0}
+  targetType: 3
+  element: 4
+  damageType: 0
+  manaCost: 20
+  cooldownSeconds: 6
+  damageMultiplier: 1
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

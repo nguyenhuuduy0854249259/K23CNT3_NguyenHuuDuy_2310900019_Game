@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_arch_terra_arrow
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: arch_terra_arrow
+  skillName: "C\u1EF1 Th\u1EA1ch B\u1EA1o K\xEDch"
+  description: "M\u0169i t\xEAn \u0111\u1EA5t b\u1ECF qua 40% gi\xE1p c\u1EE7a k\u1EBB
+    \u0111\u1ECBch."
+  icon: {fileID: 0}
+  targetType: 1
+  element: 4
+  damageType: 0
+  manaCost: 22
+  cooldownSeconds: 4
+  damageMultiplier: 2.6
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 3274860500779130891, guid: bcfec2cc994ffdd4fa7231c9613efd19, type: 3}
+  hitVfxPrefab: {fileID: 0}

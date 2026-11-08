@@ -1,0 +1,635 @@
+﻿{
+    "BackupTimestamp":  "20261030_141729",
+    "CreatedAt":  "2026-10-30 14:17:29",
+    "BackupDirectory":  "Backups\\Maps_Backup_20261030_141729",
+    "ZipArchive":  "Backups\\Maps_Backup_20261030_141729.zip",
+    "TotalFiles":  125,
+    "TotalBytes":  19954887,
+    "Files":  [
+                  {
+                      "RelativePath":  "EditorScripts/Act1ItemCreator.cs",
+                      "Bytes":  9029,
+                      "SHA256":  "E74CB5AB1E94EF4509593F56B893F24797049A59A5D39F436BCE26141273302C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Act1ItemCreator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "6FD4D787F28EE848DE29618E1A239A40FBC80F7CD7B37D0257C4BD237E6A5D87"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/AnimalKillAndCaptureTest.cs",
+                      "Bytes":  10065,
+                      "SHA256":  "DB3654D364532A941A0BA070DC338F2EC7C754B8446B03E6BC44F896CC833D7E"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/AnimalKillAndCaptureTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "ECD3F2B2B75616547709456D36C0973C5EDDC356E6EAF6638B9946A1BC84A8F7"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/AttachEnemyOverheadUIMenu.cs",
+                      "Bytes":  13101,
+                      "SHA256":  "2D52F124A0F8B63075ABA3F748D1B9DE00A7531F429A0EC98B2C79C2BA3124B5"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/AttachEnemyOverheadUIMenu.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "C0918D1BED7DA7EA0C16C37FB1B61CDA3C934EA798E97F54504FDE802E9D6E96"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/BakeNewFantasyHUD.cs",
+                      "Bytes":  16368,
+                      "SHA256":  "CBA4A2E8DB984208D20CF783F2AF7EB7C9BC10FFC6C12093621A7B9AF5D34F8B"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/BakeNewFantasyHUD.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "656BF8FB5F01503969C2F5911A0813481BB47BAB93AE4D2B40B9B138DAF02D9C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ClassDemoSwitcherConsistencyTest.cs",
+                      "Bytes":  14801,
+                      "SHA256":  "0422CAA2C8D3C91AA26D99DE845283AB2DE375639C459FB77EDCFE4A561808ED"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ClassDemoSwitcherConsistencyTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "427C6596771152103E0452F37D707FEAA6770E4FD94B63352F694BF67CF0B23D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ClassSpriteGenerator.cs",
+                      "Bytes":  8270,
+                      "SHA256":  "AA3721DA05CD686AB945341FB760BBAC42DEDBECD923168FBE16E07DBB6B94C2"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ClassSpriteGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "04D933391880B77F25955EB8842C138EEF8E523752EB2A46E735D04211CBD4B0"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/CombatSkillsAndBasicAttackTest.cs",
+                      "Bytes":  7546,
+                      "SHA256":  "E4EF3518DB90446681E531346B5E34E4080660536ED27B26992FD578B30F5375"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/CombatSkillsAndBasicAttackTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "EC33C84B43DF2065051132D946FF75B9959CC9DCB6B3907ED6CF4D6E81E3CB97"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/EnemyOverheadUITest.cs",
+                      "Bytes":  10006,
+                      "SHA256":  "277CA679131B04C6ED03A411F7DFB929D1E8CAC69D438793A492B255507470DE"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/EnemyOverheadUITest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "932D1524DC0A63728B052DC541E54874320B5EB1B018995E3D8F9FAD521D4C75"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ForestMapGenerator.cs",
+                      "Bytes":  139090,
+                      "SHA256":  "5CC3DEE3AC2A8BFE104E936F1DEA64E124975A814E5461346E2F0090F92C3ED3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ForestMapGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "11F3ECBA21350044AC2B7870B8EC6478C9139D9BF3482BC778FFDEE5F3E623FD"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GameplayLogicConsistencyTest.cs",
+                      "Bytes":  14568,
+                      "SHA256":  "0FD1DD2981EE1B8BBB5C3C6DF6182A43FEB132A2D04EA77CDD1B0711C815CA20"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GameplayLogicConsistencyTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "8F21934E969C51D29736A4610CBDAFBBFE2EAFA26E00045AEC6D175B8AC816E8"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GameSceneBuilder.cs",
+                      "Bytes":  28371,
+                      "SHA256":  "093C5A29AD5AA426E5A617128E3365CAA3BD9C1FBDF5A1A6F3D85C5D729DCD0A"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GameSceneBuilder.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "643141F69079763A263D1AB14446858B5879D8B0A0AFA636ED0A44F8AA57AD83"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GenerateUIAssets.cs",
+                      "Bytes":  22691,
+                      "SHA256":  "B8A03DB9A2D4FC7DC51267D1C233AEDE4D3A7D85A56302E0410BA068FABD21EF"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/GenerateUIAssets.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "08CCDA3AA95BCBC8351EB542F31C592B44BA8E2EF25DE195280463F5500F9133"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/generate_items.py",
+                      "Bytes":  6880,
+                      "SHA256":  "9CE6A37E1AE5CE95D8D54EC7792C2444DC4BF478F5FC5E7254552E5C264A50CA"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/generate_items.py.meta",
+                      "Bytes":  155,
+                      "SHA256":  "F283198BB6FCE02794C096683DADA4A9CD88B8AF5BBEB2E683757ED01A275D45"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaClassAssetDatabase.cs",
+                      "Bytes":  42010,
+                      "SHA256":  "8F958BA2080B8FBE4188B04ECCA211A29CC15A31BE9C612B0938F257112E2483"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaClassAssetDatabase.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "030F1AECCB070ED628B9C94A5501C014FCF9B831092A066625F4613F7F3EDC5E"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaHUDAssetGenerator.cs",
+                      "Bytes":  18102,
+                      "SHA256":  "B4CC5D68751161DB97D9AA2CAC6285013520CB8A186FE803C191B95427BDA67F"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaHUDAssetGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "E8CAF25CAA125C3DD3B63F0D2724889A96579050FC1ECAB0E8227255CCAC404D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaMasterSynchronizer.cs",
+                      "Bytes":  13478,
+                      "SHA256":  "DB6EE12B8BD0ADD7DCD8297851B0DCED74250B19607501618F63593B8C46D00C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaMasterSynchronizer.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "8AE5DD9320BEB1E95C282C7AE0F59FE6C3C2840213BF865B49169F69D32EE650"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaSprint5AutoInitializer.cs",
+                      "Bytes":  2770,
+                      "SHA256":  "819BF7F2436932BB2CC6A5088B4264626198A1845C402BF10CDCEE25F804ECE2"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/LuminaSprint5AutoInitializer.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "68BCBF5A9CF14A7403C223CF9829FFD057E72B4A2D232E0219F731ED1E4B7CB8"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map1Restorer.cs",
+                      "Bytes":  8375,
+                      "SHA256":  "8B518228B6E4256EA6DA0528F6C09F5DB2D4D551A2E37FA720E16FECDFF6B3D3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map1Restorer.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "BE98635E46F8C75A0889FB60264B470D2CED156842C71AD7FCF76862FCD9DE0D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map2Generator.cs",
+                      "Bytes":  59811,
+                      "SHA256":  "5DAC384570DA123F97B4C40254F46E8A0E479537B0D0F97EE339B34D9CBB9F3C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map2Generator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "54356154B6032D7EE853B26E84EFFC81363874261A3C7BC10505B93E1D028E29"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map3FrameworkBuilder.cs",
+                      "Bytes":  6640,
+                      "SHA256":  "C3DA7C5CA5B925EF7DF689CA423F4C21294218229F8D67991FBF7C0CEA8F51F9"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Map3FrameworkBuilder.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "43044ABB43C4398C00DC1B69642AF7AB68C94E2F71FFCC0627C477EE0E757D13"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ModularNPCVerification.cs",
+                      "Bytes":  6394,
+                      "SHA256":  "729AA4B621634522486695CC938137E6DE3A5C4F19F3C7252FBA47F39C54B606"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/ModularNPCVerification.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "8553C812E3EE86ED3FA42CAAC0C3E40A640FBD372B924A6055E3680FC3C40579"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PetPipelineGeneratorWindow.cs",
+                      "Bytes":  50999,
+                      "SHA256":  "883927E03B40A789AB2DB3ABA60921F4118C4F6FEDD0F6E6D9414A96A6AB434D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PetPipelineGeneratorWindow.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "2DE2D6A7E37DEECD960C5FA02D7832691708F051501EC833A5A3F826DB61B1C1"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PixelArtAssetGenerator.cs",
+                      "Bytes":  11927,
+                      "SHA256":  "6176470ADB373CCFAC0902688E78B0C4FFA5514E4D5FD366941691D616D150DC"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PixelArtAssetGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "D346C08634EC6CB59223032E26DE1BA67CECAAD34B3DB55BA7CD212F7D0C1F98"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PlacePetsInMap2.cs",
+                      "Bytes":  9826,
+                      "SHA256":  "038F80EBE8CD0102C4ED140D1C31460B056DAACFF2C1052F5E5A75C474B6F790"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/PlacePetsInMap2.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "0E83C33D29C707F3D5CA72B6C359A30318F5D5907686CD330BC3B48F2BA482EF"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SaveSystemTest.cs",
+                      "Bytes":  14706,
+                      "SHA256":  "B2A64CC90491E40F2791908BAE316CCAEB52212F45FE0DED0089CF273DF2BA77"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SaveSystemTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "2B6E280AC1DF849A0F66D85E25FBEA4BF550B310277E7E88814E0F0077BFC772"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneBackupGuard.cs",
+                      "Bytes":  22579,
+                      "SHA256":  "D6F4F72626741F01B97EB489EB9C284FA54F91D4641F902306CF521B9E93468E"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneBackupGuard.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "F4DD5075D35C3338B9706D9BB15982F9C7F71D88ECF5005BFA404DE3EC2D58CC"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneNavigatorHelper.cs",
+                      "Bytes":  3339,
+                      "SHA256":  "696726E9ECF9EA14D5CEDC97788A090598943E9572FAF87134564D36BC9ABA85"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneNavigatorHelper.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "DE0EF74FE944B0EB7D82CD385B37EFE59C177F144967C72331A066F2A2D2D3CE"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneSetupAndConsistencyFixer.cs",
+                      "Bytes":  20801,
+                      "SHA256":  "2BE65836A070B218F86589543D1D466C03B57422908FEB8445C2DC28EB23C6F7"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneSetupAndConsistencyFixer.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "6588DCBFECF105A40A0F4B915A06A88FB69EC35F23EA7469D34B654173B34563"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneViewFocusFixer.cs",
+                      "Bytes":  2847,
+                      "SHA256":  "6399FC635A0719262804557F5C6E5CE530DAC1834FE1757A2B26382BD668FBEC"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SceneViewFocusFixer.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "F341522A9078AC70A282DDBD9A170FE9647C806D73394C986846DE7F447AF79C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SereneVillageAndRocksImporter.cs",
+                      "Bytes":  14321,
+                      "SHA256":  "A3DCECC700F93814445FF58B86B4EE5E1108ED90DF8EA405B59A4778ED1EE566"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SereneVillageAndRocksImporter.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "0FA211A299E2BD23844DFF386ABEC3ADB9A302E520235E2C8D1149FC09ED5749"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupForestPrototypeScene.cs",
+                      "Bytes":  12709,
+                      "SHA256":  "F9DC048ACFD3C20A1E7D75BDF8A1F59867EF4570152CB54453CC186789E76465"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupForestPrototypeScene.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "AC26ACF0187DD823380BD1D48396FB3E032B0B9F20513F801E21646F16050880"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupLuminaFireOrbAndVisuals.cs",
+                      "Bytes":  7309,
+                      "SHA256":  "AFC9386A33CD41A6BF4A0BB9D4161C4B083DF3008571B901FEBDDDDC50F4174D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupLuminaFireOrbAndVisuals.cs.meta",
+                      "Bytes":  62,
+                      "SHA256":  "3968A0C0F8E2E373119936906E644B59141FDDBE85BE562E00995D3E79662E43"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupLuminaStatsInventoryMinimapUI.cs",
+                      "Bytes":  5605,
+                      "SHA256":  "C487C72DB25CFD44D04E8DF5905DE168A98FA089BC47CFC64F148B2B44D6FC4D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupLuminaStatsInventoryMinimapUI.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "BA04256AE2E627DD6425CB20AEB824FF0FC87D5690463DBDBAA98CE5533C8EEC"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupModularPlayerVisuals.cs",
+                      "Bytes":  4544,
+                      "SHA256":  "D9C36102DCBC34C661E8722BCE3E78AC7672551118B7576AF02136CCF7BD6D85"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SetupModularPlayerVisuals.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "D089E8AD145BE96B77DA8A976BD6FF373A0DE3D4B98EF806B48E4CFD93468C01"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SizeComparisonTest.cs",
+                      "Bytes":  1437,
+                      "SHA256":  "1D65D4958D05CD6802ABFD130F968779DBA1E61F68F39290A8DE52AACB7EA28D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/SizeComparisonTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "2CD2C45114E8120D992D2BE0A6E83C077B0F988DF0A29D4B68A8527694E52D2D"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint1PetConsistencyTest.cs",
+                      "Bytes":  18676,
+                      "SHA256":  "9ED382DDC77832360AB1F3D2D489A93CAE00A666A6CDD182DCCB33909081D2BF"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint1PetConsistencyTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "FBE709AC6A5EE829461617B2B84498AEED32899320725C7BEE47B28BF9716CD9"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint2AssetGenerator.cs",
+                      "Bytes":  8095,
+                      "SHA256":  "16CD3AE32B4824702397678017ECB42472A89B8C7C3D8B8AA695145BBD9D399F"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint2AssetGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "F89AD4CC8320791D2FC58F3672A33496A8BBDC166A978B9C00A0994965B7C078"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint2ConsistencyTest.cs",
+                      "Bytes":  18705,
+                      "SHA256":  "EA4AA6FF1B1023DF6A980E559CE5BEE6AD97694393AAE0C6A111BA6BC13A45E3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint2ConsistencyTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "E621CB95DC5AAF4BC035790B9E59A0B6D1E41BAD719912362C01A99EFF17C27F"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint3AssetGenerator.cs",
+                      "Bytes":  9736,
+                      "SHA256":  "16C11334CDDB50D7BD5DB2FA435A0C5F17B1D9C2548BA37FF0F8E378526B3E3E"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint3AssetGenerator.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "D12630734CAC04358F2810182C621A3CC042E5F3A2F58C48523A5250ADB0D0E2"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint3ConsistencyTest.cs",
+                      "Bytes":  21280,
+                      "SHA256":  "67D581EAB617C14514BED62FA500B574C067D8018F73839075DEE1A6D2E14C61"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint3ConsistencyTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "FE555938260A12166649DEEFADD7BF6D40F30A5852E5900015B8304389402F6A"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint5HUDAndNoviceSkillsTest.cs",
+                      "Bytes":  13108,
+                      "SHA256":  "BF85CB9A9E03A076A9493F6DAF43ED14DC5D77A8E1134A0A3B2BA202ED207BF9"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint5HUDAndNoviceSkillsTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "6C771DEFD0B5E402C48C2B6A05A0E65F342F0DCDCDF7EEE087E7360524410FAC"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint6CoreClassesAndPetTest.cs",
+                      "Bytes":  9610,
+                      "SHA256":  "BCE8A56E27AD037F8BB115B12A140F1B5BB6DC14E20DA02E3DCC44CC75FB9AF3"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/Sprint6CoreClassesAndPetTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "B9998314627905F3EB82DC6D5C1153650F2C1E1FB3DEE8F6A114C3A37926692C"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/StatsInventoryMinimapTest.cs",
+                      "Bytes":  16167,
+                      "SHA256":  "6861A566D9793D0A7908801A532C553F5A086F23123B5215253519704C996F45"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/StatsInventoryMinimapTest.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "93540BE592697AA20447577450D92508B39F9B11CEF5F20E1696AEF087560072"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/TestMenu.cs",
+                      "Bytes":  202,
+                      "SHA256":  "E25D178E63BFCA2F31DAAFB818DEFE8D5F8CB0372C02915D30927CFB102B5DF4"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/TestMenu.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "1C07A3A968254A7EF2EA7994B1E3631DC00ED1A94826C9AD2ABDDFCD88604A5F"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/TimesNewRomanFontSetup.cs",
+                      "Bytes":  14083,
+                      "SHA256":  "25BCAA6993BC59505DCFB11E03BB0C9E4116F9F3A73006ECEE2B7C2C7412A2D0"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/TimesNewRomanFontSetup.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "945283260DEE1A7FE1D7B3A9FA5940740AFC030D2E38009851969D1B77A5C1B0"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/WorldMapSceneBuilder.cs",
+                      "Bytes":  18648,
+                      "SHA256":  "C9D35DE661F50EFAAF78A31FAD715C08F01B0DA258C2B02861A2FFF91D279435"
+                  },
+                  {
+                      "RelativePath":  "EditorScripts/WorldMapSceneBuilder.cs.meta",
+                      "Bytes":  59,
+                      "SHA256":  "40B3A3C2740D1096C09062D412462574BC1926878F29DF6A209E7809600A8CF9"
+                  },
+                  {
+                      "RelativePath":  "Prefabs/Map_Zone_3.prefab",
+                      "Bytes":  47422,
+                      "SHA256":  "4E45376418289032840FF910105AB6DFE5D62EC550AB16A1C2D652DF200C511E"
+                  },
+                  {
+                      "RelativePath":  "Prefabs/Map_Zone_3.prefab.meta",
+                      "Bytes":  161,
+                      "SHA256":  "A0762C6A5F30389715FD21E0672FABFF7D0E190DD2ADA6A8565358CF7BE4AD80"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Demo_Map.unity",
+                      "Bytes":  4063771,
+                      "SHA256":  "CBB18A02F000F3639EFE83AF3E4857C64CFDE04A176A038DCE9A3412B85CCF99"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Demo_Map.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "A0E31F52624BBBD6CE1E5434360D8EB290FECD5C38BA34F0176141DA5AD5C427"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Prototype.unity",
+                      "Bytes":  35485,
+                      "SHA256":  "B8C307F6494B4F59013652C7F21754ED78F0008578A20842124E129499D51594"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Forest_Prototype.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "552EAEF72B100A8AE65CE517A785D2A3D3C9B29394BF3B09400A73164865868E"
+                  },
+                  {
+                      "RelativePath":  "Scenes/MainGame.unity",
+                      "Bytes":  14928439,
+                      "SHA256":  "31185625B1856A979890592AE10586A501744186AFEED86F77A0F179A05A6D04"
+                  },
+                  {
+                      "RelativePath":  "Scenes/MainGame.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "57DA4CBC48EF0817BA4F36A97314CF15ADC1890002F0CFF922967CCDCEB41BC2"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Map3.unity",
+                      "Bytes":  56825,
+                      "SHA256":  "B29A3A46AC3E2D0D93321A44D496D3609DD6ADAE90258B28957977311629EB20"
+                  },
+                  {
+                      "RelativePath":  "Scenes/Map3.unity.meta",
+                      "Bytes":  162,
+                      "SHA256":  "404F68978F91C9F03B0DFEB1CC2469665E0034F7BDB896333244B194468FA06B"
+                  },
+                  {
+                      "RelativePath":  "Scenes/SampleScene.unity",
+                      "Bytes":  9947,
+                      "SHA256":  "387D8216A517BE775B6ECC2AB55B97ECE687C3372322DA2BA027A96908014912"
+                  },
+                  {
+                      "RelativePath":  "Scenes/SampleScene.unity.meta",
+                      "Bytes":  155,
+                      "SHA256":  "204F446BC13539151C15AF875550A7FA6F791662E967572A1B4B06FD0005DAD1"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo.meta",
+                      "Bytes":  172,
+                      "SHA256":  "5CCBCDDE6FAFB5827496F931414504BBEFB5DF8C40639DA3A966686F5AC00702"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/New Tile Palette.prefab",
+                      "Bytes":  10141,
+                      "SHA256":  "100B235E394F1793142E85D10ABF77FD6BC107BB77EEC39CFC76CCAB2A150E2D"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/New Tile Palette.prefab.meta",
+                      "Bytes":  154,
+                      "SHA256":  "03634C9C909D4DAF8BE7798082A21393B9E962A8F98259BE2EBF1E54625DA5DD"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_CastleWall.asset",
+                      "Bytes":  831,
+                      "SHA256":  "AE9EC17917A6D8C71527F597C30F355007E15430C9435E8FD17A129318C1CE20"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_CastleWall.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "2B116A3BD30E4C5E7B99EA65829551BDA3EC36DEE4075AA84D027A0CAE999435"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_DeepGrass.asset",
+                      "Bytes":  830,
+                      "SHA256":  "40241230541FCACD3A601806DCD37EDE6C4AB666A14CFEC0549A74F9C9BE9FA5"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_DeepGrass.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "0CF1A02B1E1CF56B47F590CA71E168BB6A1041338B3590A51D5F62C4A9DB29D3"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Dirt.asset",
+                      "Bytes":  826,
+                      "SHA256":  "BFB1D57E029776690290617A0BFC76065E8F75629FC8A935F86E941FAD0950FC"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Dirt.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "8A76639E6B75822C6AF211A9ACF827405C0940F38C292AE792AC947BD1CD0A44"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Grass.asset",
+                      "Bytes":  827,
+                      "SHA256":  "6117EEBF980E522DCE3902B68DE15BD822AFF3ECE69120E9943C4C9743469C96"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Grass.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "208C8C7A928D6279D9E7D579739E56E012B00E6702EF7E21429B63D5F038770A"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Lava.asset",
+                      "Bytes":  826,
+                      "SHA256":  "C02053E9DB5D4C319229F4CAC957345AB3C85D66448DC761A9BC3BEC664522B3"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Lava.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "FAC8A6B34ECAA52DF613E3D0FF76A068CEC9C0C7BEDA248EBFE8C6F650C79579"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_MountainRock.asset",
+                      "Bytes":  832,
+                      "SHA256":  "2E5BAEB36F852C12E8D58BB9D6D80EAF342932F71E1F3BBAC878249A7D900CB8"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_MountainRock.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "F21A1ED2D2BBF0E3F31DDAA929894FB3F6301884607ED3129CE55C45BD2FC341"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Path.asset",
+                      "Bytes":  825,
+                      "SHA256":  "1F8165A2FD7CC251FE48C7D7A3C095B762821B06FC47A48CE621F40C7CB6D193"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Path.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "E9BD43F6DCE69F36E7D6D95C119AC52710D1A45C3F153DF8C0DBB009515B9854"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Wall.asset",
+                      "Bytes":  825,
+                      "SHA256":  "91A24367D8DA8107CB1C275C7B7BA10847F4741DA839BC04098E4DABAC6D985C"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Wall.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "5A094239165469F7B0892992776E7C715D88412E6B57281BF4093A19A51DF5D4"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Water.asset",
+                      "Bytes":  827,
+                      "SHA256":  "C7565C7EF670B3BA5C64AB778EC14F33FDAFA5D848F3FFEAAA09678485ABDB25"
+                  },
+                  {
+                      "RelativePath":  "Tilemaps/ForestDemo/Tile_Water.asset.meta",
+                      "Bytes":  189,
+                      "SHA256":  "885E5A2C9A4BE83DAD8DD4933A9FD0C21AD6E77D6E2CB208CE9EA735FBA793AC"
+                  }
+              ]
+}

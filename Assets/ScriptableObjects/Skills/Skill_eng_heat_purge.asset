@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_eng_heat_purge
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: eng_heat_purge
+  skillName: "Bung Van X\u1EA3 \xC1p Su\u1EA5t"
+  description: "X\u1EA3 lu\u1ED3ng kh\xED n\xF3ng \u0111\u1EA9y l\xF9i qu\xE1i 3m
+    v\xE0 h\u1EA1 nhi\u1EC7t."
+  icon: {fileID: 0}
+  targetType: 2
+  element: 1
+  damageType: 0
+  manaCost: 10
+  cooldownSeconds: 4
+  damageMultiplier: 2
+  range: 7
+  radius: 3.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

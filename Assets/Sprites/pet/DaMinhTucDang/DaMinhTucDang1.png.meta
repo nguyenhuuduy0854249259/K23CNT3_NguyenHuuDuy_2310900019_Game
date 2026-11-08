@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 6652dea7a245e364dbcefa98c6be543d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4397775845044441222
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_0"
+  - first:
+      213: -5458781548535313823
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_1"
+  - first:
+      213: 2361963185328685761
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_2"
+  - first:
+      213: 4477173300973502148
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_3"
+  - first:
+      213: 3837229323001559018
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_4"
+  - first:
+      213: 231651960445548902
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_5"
+  - first:
+      213: 5932217287253229878
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_6"
+  - first:
+      213: -5717633637951696109
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_7"
+  - first:
+      213: -4071438218131223985
+    second: "M\u1EA7m D\xE2y Leo Pha L\xEA1_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680daa5a4d9080d30800000000000000
+      internalID: 4397775845044441222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_1"
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a881d7a138e34b0800000000000000
+      internalID: -5458781548535313823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_2"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 9
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2011ab00167c020800000000000000
+      internalID: 2361963185328685761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_3"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 5
+        width: 73
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce736a656d122e30800000000000000
+      internalID: 4477173300973502148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_4"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 6
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7783f1db3904530800000000000000
+      internalID: 3837229323001559018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_5"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66931ed0b3ef63300800000000000000
+      internalID: 231651960445548902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_6"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 9
+        width: 79
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63109294138735250800000000000000
+      internalID: 5932217287253229878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_7"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 6
+        width: 73
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3139016ef72e6a0b0800000000000000
+      internalID: -5717633637951696109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\u1EA7m D\xE2y Leo Pha L\xEA1_8"
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 6
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac65313885f77c0800000000000000
+      internalID: -4071438218131223985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_0": 4397775845044441222
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_1": -5458781548535313823
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_2": 2361963185328685761
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_3": 4477173300973502148
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_4": 3837229323001559018
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_5": 231651960445548902
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_6": 5932217287253229878
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_7": -5717633637951696109
+      "M\u1EA7m D\xE2y Leo Pha L\xEA1_8": -4071438218131223985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

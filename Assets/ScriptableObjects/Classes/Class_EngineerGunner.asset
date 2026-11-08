@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_EngineerGunner
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "C\u01A1 Kh\xED S\u01B0 (Engineer Gunner)"
+  branch: 1
+  role: 6
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "S\xFAng \u0111\u1EA1i b\xE1c nhi\u1EC7t l\u01B0\u1EE3ng v\xE0 c\xF4ng
+    ngh\u1EC7 tri\u1EC3n khai t\u1ED1i \u0111a 3 tr\u1EE5 s\xFAng t\u1EF1 \u0111\u1ED9ng."
+  mechanicDescription: "Qu\u1EA3n l\xFD thanh Nhi\u1EC7t L\u01B0\u1EE3ng (Heat).
+    V\xF9ng nhi\u1EC7t cao +20% dmg. Overheat k\u1EB9t s\xFAng 3.5s bung van \u0111\u1EA9y
+    l\xF9i 3m. Pet b\u1EA3o tr\xEC di \u0111\u1ED9ng."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 27
+  baseDef: 8
+  baseHp: 125
+  baseMp: 70
+  baseSpeed: 4.5
+  baseCritRate: 0.08
+  defaultElement: 3
+  specialMechanic: 8
+  passiveSeal1Name: "Xung \xC1p Qu\xE1 Nhi\u1EC7t"
+  passiveSeal1Desc: "V\xF9ng nhi\u1EC7t cao (70-99%) t\u0103ng +20% s\xE1t th\u01B0\u01A1ng;
+    Overheat bung van kh\xED n\xF3ng \u0111\u1EA9y l\xF9i 3m v\xE0 nh\u1EADn khi\xEAn
+    15% HP."
+  passiveSeal2Name: "Tr\u1EA1m C\u01A1 \u0110\u1ED9ng Hi\u1EC7p \u0110\u1ED3ng"
+  passiveSeal2Desc: "Pet t\u1EF1 \u0111\u1ED9ng di chuy\u1EC3n s\u1EEDa ch\u1EEFa
+    tr\u1EE5 th\u1EA5p m\xE1u nh\u1EA5t v\xE0 t\u0103ng +25% t\u1ED1c \u0111\u1ED9
+    b\u1EAFn cho tr\u1EE5."
+  passiveSeal3Name: "Th\u1EE3 R\xE8n Ch\u1EBF T\xE1c"
+  passiveSeal3Desc: "R\xE8n s\xFAng/gi\xE1p theo 3 c\u1EA5p ch\u1EA5t l\u01B0\u1EE3ng,
+    th\xE1o r\xE3 ph\u1EBF li\u1EC7u l\u1EA5y linh ki\u1EC7n, t\u0103ng 20% m\xE1u
+    t\u1ED1i \u0111a cho tr\u1EE5."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 89a97b1a3a7574e47bde40ec41caa0be, type: 2}
+  - {fileID: 11400000, guid: 2f284436f1b428e47839f3554e084d85, type: 2}
+  - {fileID: 11400000, guid: 2db4d894aeb072f43af33b15f7a56d64, type: 2}
+  - {fileID: 11400000, guid: 52c0d8d3c9636be41b4a4a138e12724f, type: 2}
+  - {fileID: 11400000, guid: f763ec08234f37947830bf9157cea47e, type: 2}
+  promotionOptions: []
+  difficulty: 4

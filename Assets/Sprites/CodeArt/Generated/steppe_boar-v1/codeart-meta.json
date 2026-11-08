@@ -1,0 +1,174 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "1468748e6ebce71da77e4bbe7be36e1593c9e3d33645d71f915944027b9e89e5",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#18141c",
+      "d": "#4a2c24",
+      "b": "#754432",
+      "l": "#a36549",
+      "p": "#e08d79",
+      "w": "#fff5e4",
+      "e": "#ff2442"
+    },
+    "variants": {
+      "earth": {},
+      "dark": {
+        "d": "#241d2e",
+        "b": "#3b304a",
+        "l": "#5b4c70",
+        "p": "#8f7aa6"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "earth/frames/steppe_boar.png",
+      "sha256": "4421e4782c0b168025f8e1484800519e8e15a297b37a623f38c275fe20df156a",
+      "bytes": 272
+    },
+    {
+      "path": "dark/frames/steppe_boar.png",
+      "sha256": "ccb25ccc489e20e0ed266af090a8b9c83a589673311b225d6b7225bbc1fd133c",
+      "bytes": 273
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "83a0b1954f8a45315999aabbb059391a107b9ab5b3defe6209d862993ea57cbc",
+      "bytes": 804
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/steppe_boar.pixelspec.json",
+        "sha256": "1468748e6ebce71da77e4bbe7be36e1593c9e3d33645d71f915944027b9e89e5",
+        "bytes": 942
+      }
+    ],
+    "outputs": [
+      {
+        "path": "earth/frames/steppe_boar.png",
+        "sha256": "4421e4782c0b168025f8e1484800519e8e15a297b37a623f38c275fe20df156a",
+        "bytes": 272
+      },
+      {
+        "path": "dark/frames/steppe_boar.png",
+        "sha256": "ccb25ccc489e20e0ed266af090a8b9c83a589673311b225d6b7225bbc1fd133c",
+        "bytes": 273
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "earth/frames/steppe_boar.png",
+        "variant": "earth",
+        "frame": "steppe_boar",
+        "visible": 140,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 7,
+        "orphans": 19,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          19,
+          12
+        ]
+      },
+      {
+        "file": "dark/frames/steppe_boar.png",
+        "variant": "dark",
+        "frame": "steppe_boar",
+        "visible": 140,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 7,
+        "orphans": 19,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          19,
+          12
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "steppe_boar",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      20,
+      16
+    ],
+    "anchor_px": [
+      10,
+      14
+    ],
+    "outline": "solid",
+    "variants": {
+      "earth": "earth",
+      "dark": "dark"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/steppe_boar.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

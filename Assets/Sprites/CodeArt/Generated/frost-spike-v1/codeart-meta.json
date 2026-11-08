@@ -1,0 +1,174 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "fa6d339a7382f5c6edb93bba367dc91eb2242eeb08b177072d1d9f28dc452bd8",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "d": "#29366f",
+      "b": "#3b5dc9",
+      "c": "#41a6f6",
+      "i": "#73eff7",
+      "w": "#ffffff"
+    },
+    "variants": {
+      "ice": {},
+      "rock": {
+        "d": "#332c50",
+        "b": "#566c86",
+        "c": "#8f563b",
+        "i": "#d9a066",
+        "w": "#ffcd75"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "ice/frames/frost_spike.png",
+      "sha256": "b462653f9ac9acf43e45eda54cf87b2a8d8a783ea99f05f9b7cb2abb3a527497",
+      "bytes": 237
+    },
+    {
+      "path": "rock/frames/frost_spike.png",
+      "sha256": "762dc4d81addeb6d795db1fa9fcf7b3437e9f6def64461e485f2f50a3318fba3",
+      "bytes": 241
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "549b616ee8ce059561efa6093a9c5ff78fada01cada4437fe3544158a02b97e9",
+      "bytes": 838
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/frost_spike.pixelspec.json",
+        "sha256": "fa6d339a7382f5c6edb93bba367dc91eb2242eeb08b177072d1d9f28dc452bd8",
+        "bytes": 915
+      }
+    ],
+    "outputs": [
+      {
+        "path": "ice/frames/frost_spike.png",
+        "sha256": "b462653f9ac9acf43e45eda54cf87b2a8d8a783ea99f05f9b7cb2abb3a527497",
+        "bytes": 237
+      },
+      {
+        "path": "rock/frames/frost_spike.png",
+        "sha256": "762dc4d81addeb6d795db1fa9fcf7b3437e9f6def64461e485f2f50a3318fba3",
+        "bytes": 241
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "ice/frames/frost_spike.png",
+        "variant": "ice",
+        "frame": "frost_spike",
+        "visible": 155,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 6,
+        "orphans": 9,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          13,
+          20
+        ]
+      },
+      {
+        "file": "rock/frames/frost_spike.png",
+        "variant": "rock",
+        "frame": "frost_spike",
+        "visible": 155,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 6,
+        "orphans": 9,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          13,
+          20
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "frost_spike",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      14,
+      22
+    ],
+    "anchor_px": [
+      7,
+      20
+    ],
+    "outline": "solid",
+    "variants": {
+      "ice": "ice",
+      "rock": "rock"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/frost_spike.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "herb_bush",
+  "canvas": [
+    16,
+    16
+  ],
+  "anchor_px": [
+    8,
+    14
+  ],
+  "palette": {
+    "k": "#141824",
+    "d": "#1e4a38",
+    "g": "#2e7d47",
+    "l": "#58b85a",
+    "y": "#a6e86b",
+    "b": "#3de0e6",
+    "w": "#e8ffff",
+    "s": "#5c3c28"
+  },
+  "variants": {
+    "emerald": {},
+    "moonlight": {
+      "b": "#c878ff",
+      "w": "#f8e8ff",
+      "l": "#42a875",
+      "y": "#88f0b8"
+    },
+    "crimson": {
+      "b": "#ff4d6d",
+      "w": "#ffe0e6",
+      "l": "#4fa64e",
+      "y": "#9de06c"
+    }
+  },
+  "outline": {
+    "mode": "solid",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "foliage",
+      "z": 0,
+      "origin": [
+        1,
+        2
+      ],
+      "rows": [
+        ".....bw...wb..",
+        "....bbly.ylbb.",
+        "..bw.lgdgdl.wb",
+        ".bblyggdddggyl",
+        "..lgdggbwbggdl",
+        ".ylgdgbbwbbgdl",
+        ".gddggglblggdd",
+        ".dgddggdgdggdd",
+        "..dddddssddddd",
+        "...ddddssdddd."
+      ]
+    }
+  ]
+}

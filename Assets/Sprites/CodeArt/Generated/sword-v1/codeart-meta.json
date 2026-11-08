@@ -1,0 +1,138 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "196839b5500659a5a7b431ad00b372c1804b6ef6c828462b4a44bbaf67634f58",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "h": "#b13e53",
+      "g": "#ffcd75",
+      "d": "#ef7d57",
+      "s": "#566c86",
+      "b": "#94b0c2",
+      "c": "#73eff7",
+      "w": "#f4f4f4"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/sword.png",
+      "sha256": "e706689a5f4c9e8b215aa8d79e83f3d9e6953f489b5f6aa1651c5ef050752251",
+      "bytes": 227
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "31bbfe1bde95d2584967c5a431c6c142229b2007cdbfa4d8ddf2f21c5700d426",
+      "bytes": 417
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/sword.pixelspec.json",
+        "sha256": "196839b5500659a5a7b431ad00b372c1804b6ef6c828462b4a44bbaf67634f58",
+        "bytes": 663
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/sword.png",
+        "sha256": "e706689a5f4c9e8b215aa8d79e83f3d9e6953f489b5f6aa1651c5ef050752251",
+        "bytes": 227
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/sword.png",
+        "variant": "base",
+        "frame": "sword",
+        "visible": 92,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 7,
+        "orphans": 9,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          3,
+          21,
+          12
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "sword",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      24,
+      16
+    ],
+    "anchor_px": [
+      6,
+      8
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/sword.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

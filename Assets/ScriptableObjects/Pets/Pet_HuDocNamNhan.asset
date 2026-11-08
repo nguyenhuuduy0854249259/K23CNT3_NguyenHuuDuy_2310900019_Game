@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60fe4ac868a290447af563a50bddee37, type: 3}
+  m_Name: Pet_HuDocNamNhan
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Pets.PetData
+  petId: pet_hudoc_namnhan
+  petName: "H\u1EE7 \u0110\u1ED9c N\u1EA5m Nh\xE3n"
+  speciesName: "\u0110\u1ED9c Nh\xE3n Linh Khu\u1EA9n"
+  petType: 3
+  element: 6
+  role: 3
+  bodyShape: 2
+  evolutionStage: 1
+  petSprite: {fileID: 8379830820969389457, guid: 9504a1f91fda61b4e89693cec3753efa, type: 3}
+  icon: {fileID: 21300000, guid: 741d330ae571c7245b98d10b92444be2, type: 3}
+  petPrefab: {fileID: 803997584907939704, guid: 14289df9cb195ca4f91dc53b46dae101, type: 3}
+  maxHp: 105
+  attackPower: 17
+  defense: 8
+  moveSpeed: 4.8
+  attackRange: 1.8
+  attackCooldown: 1.5
+  favoriteFood: "Th\u1ECBt N\u01B0\u1EDBng Th\u01A1m"
+  favoriteFoodItem: {fileID: 0}
+  activeSkill: {fileID: 0}
+  passiveAuraDescription: "H\xE0o quang t\u0103ng 10% s\xE1t th\u01B0\u01A1ng cho
+    ch\u1EE7 nh\xE2n"
+  evolutionRequiredLevel: 15
+  evolutionRequiredItem: {fileID: 0}
+  nextEvolution: {fileID: 0}

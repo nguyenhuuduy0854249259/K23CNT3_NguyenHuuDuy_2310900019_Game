@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9215371cbee6da429ae08b281f1d951, type: 3}
+  m_Name: equip_iron_armor
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Items.EquipmentData
+  itemId: equip_iron_armor
+  itemName: "Gi\xE1p S\u1EAFt R\xE8n"
+  itemType: 0
+  rarity: 1
+  description: 
+  icon: {fileID: 0}
+  buyPrice: 10
+  sellPrice: 5
+  isStackable: 0
+  maxStack: 1
+  equipSlot: 1
+  requiredLevel: 10
+  requiredTier: 2
+  isSpecializedWeapon: 0
+  bonusAtk: 0
+  bonusDef: 15
+  bonusHp: 60
+  bonusMp: 0
+  bonusSpeed: 0
+  bonusCritRate: 0
+  weaponElement: 0
+  isUnique: 0
+  uniqueEffect: 0
+  uniqueEffectName: 
+  uniqueEffectDescription: 

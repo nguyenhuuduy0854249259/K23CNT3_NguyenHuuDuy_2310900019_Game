@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_ChronoMage
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "Ph\xE1p S\u01B0 Th\u1EDDi Kh\xF4ng (Chrono Mage)"
+  branch: 3
+  role: 5
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "Thao t\xFAng kh\xF4ng-th\u1EDDi gian: L\xE0m ch\u1EADm, Ng\u01B0ng
+    \u0111\u1ECDng n\xE9n s\xE1t th\u01B0\u01A1ng, Ngh\u1ECBch chuy\u1EC3n qu\xE1
+    kh\u1EE9."
+  mechanicDescription: "Slow gi\u1EA3m t\u1ED1c. Stasis \u0111\xF3ng b\u0103ng n\xE9n
+    s\xE1t th\u01B0\u01A1ng b\xF9ng n\u1ED5 khi k\u1EBFt th\xFAc. Reverse \u0111\u01B0a
+    v\u1ECB tr\xED l\xF9i v\u1EC1 3 gi\xE2y tr\u01B0\u1EDBc."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 29
+  baseDef: 5
+  baseHp: 100
+  baseMp: 130
+  baseSpeed: 4.7
+  baseCritRate: 0.1
+  defaultElement: 3
+  specialMechanic: 4
+  passiveSeal1Name: "S\u1EE5p \u0110\u1ED5 Tuy\u1EBFn T\xEDnh (Temporal Collapse)"
+  passiveSeal1Desc: "M\u1EE5c ti\xEAu ch\u1ECBu Slow/Stasis t\xEDch t\u1EE5 D\u1EA5u
+    \u1EA4n; khi k\u1EBFt th\xFAc b\xF9ng n\u1ED5 th\xEAm 15% t\u1ED5ng s\xE1t th\u01B0\u01A1ng
+    \u0111\xE3 g\xE1nh ch\u1ECBu."
+  passiveSeal2Name: "Ngh\u1ECBch \u0110\u1EA3o Nh\xE2n Qu\u1EA3 (Causality Reversal)"
+  passiveSeal2Desc: "Khi k\xEDch ho\u1EA1t Reverse, nh\u1EADn L\u1EC7ch Pha Kh\xF4ng
+    Gian trong 3s (+20% MoveSpeed, ho\xE0n l\u1EA1i 15% mana)."
+  passiveSeal3Name: "Linh Th\xFA Hi\u1EC7p \u0110\u1ED3ng Th\u1EDDi Gian"
+  passiveSeal3Desc: "\u0110\xF2n \u0111\xE1nh Pet k\xE9o d\xE0i Slow th\xEAm +1.5s
+    (Stasis th\xEAm +0.5s) v\xE0 gi\u1EA3m 0.5s cooldown k\u1EF9 n\u0103ng kh\u1ED1ng
+    ch\u1EBF c\u1EE7a ng\u01B0\u1EDDi ch\u01A1i."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 6ae2c2fbbe63a5a4c848251dc6dcbd2b, type: 2}
+  - {fileID: 11400000, guid: f55125a953dcdd24b856a5a19cbd3420, type: 2}
+  - {fileID: 11400000, guid: 54419fc6609547e4487e38bb6688568c, type: 2}
+  - {fileID: 11400000, guid: f51213b4afa577e46a08bcb1e78f3f04, type: 2}
+  - {fileID: 11400000, guid: 8e481e692f048ed44909085424aa7298, type: 2}
+  promotionOptions: []
+  difficulty: 5

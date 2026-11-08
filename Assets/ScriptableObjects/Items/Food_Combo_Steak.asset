@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f55777207f2dc2498796b91f9d6068b, type: 3}
+  m_Name: Food_Combo_Steak
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Items.FoodItemData
+  itemId: food_steak
+  itemName: "Th\u1ECBt B\xF2 R\u1EEBng N\u01B0\u1EDBng Th\u1EA3o M\u1ED9c"
+  itemType: 1
+  rarity: 0
+  description: "V\u1EEBa gi\u1EA3i tr\u1EEB c\u01A1n \u0111\xF3i v\u1EEBa t\u0103ng
+    8 \u0111i\u1EC3m C\xF4ng trong 3 ph\xFAt!"
+  icon: {fileID: 0}
+  buyPrice: 45
+  sellPrice: 5
+  isStackable: 1
+  maxStack: 50
+  category: 1
+  hungerRestoreAmount: 45
+  buffStat: 1
+  buffValue: 8
+  buffDurationSeconds: 180

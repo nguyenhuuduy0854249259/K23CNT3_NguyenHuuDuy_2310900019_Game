@@ -1,0 +1,61 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "village_gate_pillar",
+  "canvas": [
+    16,
+    24
+  ],
+  "anchor_px": [
+    8,
+    22
+  ],
+  "palette": {
+    "k": "#161822",
+    "r": "#9e333f",
+    "t": "#cc4b52",
+    "d": "#3d4356",
+    "s": "#68728c",
+    "l": "#9ba6bf",
+    "h": "#cfd8eb",
+    "w": "#5e3622",
+    "b": "#8f5638",
+    "f": "#ff9d3b",
+    "y": "#fff275"
+  },
+  "outline": {
+    "mode": "solid",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "pillar",
+      "z": 0,
+      "origin": [
+        2,
+        1
+      ],
+      "rows": [
+        "....tttt....",
+        "..ttrrrrtt..",
+        ".trrrrrrrrt.",
+        ".hhhhhhhhhh.",
+        ".slllllllls.",
+        ".sdddddddds.",
+        "..slllllls..",
+        "..sddffdds..",
+        "..sdffyfds..",
+        "..sddffdds..",
+        "..bbbbbbbb..",
+        "..wwwwwwww..",
+        "..slllllls..",
+        "..sddddddls.",
+        "..slllllls..",
+        "..sdddddds..",
+        "..bbbbbbbb..",
+        "..wwwwwwww..",
+        ".hsllllllsh.",
+        ".sdddddddds."
+      ]
+    }
+  ]
+}

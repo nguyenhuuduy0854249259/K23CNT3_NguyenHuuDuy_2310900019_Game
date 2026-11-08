@@ -1,0 +1,137 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "9431cae6e7df72c7deb035962fa633913884429771910bc317ded506755b2faf",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "d": "#333c57",
+      "s": "#566c86",
+      "l": "#94b0c2",
+      "w": "#f4f4f4",
+      "r": "#b13e53",
+      "g": "#ffcd75"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/snare_trap.png",
+      "sha256": "663a298ae30d8e37791e18e3cbdf490f2ec6de68f4fd8c9c1ac8197fbfdeabcc",
+      "bytes": 272
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "926e7b3785eb891b725eec5d0fd2916837a6c11765037e4ec35a5c2194b12c06",
+      "bytes": 453
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 8,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/snare_trap.pixelspec.json",
+        "sha256": "9431cae6e7df72c7deb035962fa633913884429771910bc317ded506755b2faf",
+        "bytes": 669
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/snare_trap.png",
+        "sha256": "663a298ae30d8e37791e18e3cbdf490f2ec6de68f4fd8c9c1ac8197fbfdeabcc",
+        "bytes": 272
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/snare_trap.png",
+        "variant": "base",
+        "frame": "snare_trap",
+        "visible": 136,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 7,
+        "orphans": 40,
+        "l_corners": 8,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          15,
+          13
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "snare_trap",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      14
+    ],
+    "anchor_px": [
+      8,
+      7
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/snare_trap.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

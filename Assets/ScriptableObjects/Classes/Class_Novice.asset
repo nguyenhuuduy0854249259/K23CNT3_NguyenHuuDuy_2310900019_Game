@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_Novice
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "T\xE2n Th\u1EE7 (Novice)"
+  branch: 0
+  role: 0
+  tier: 0
+  requiredLevelForPromotion: 10
+  description: "L\u1EDBp nh\xE2n v\u1EADt kh\u1EDFi \u0111\u1EA7u cho m\u1ECDi hi\u1EC7p
+    s\u0129 Lumina."
+  mechanicDescription: "L\xE0m quen v\u1EDBi h\u1EC7 th\u1ED1ng di chuy\u1EC3n, chi\u1EBFn
+    \u0111\u1EA5u c\u01A1 b\u1EA3n v\xE0 t\u01B0\u01A1ng t\xE1c th\u1EBF gi\u1EDBi."
+  classIcon: {fileID: -4591875008806709793, guid: 9efaf48b0a20e0f4cbc7d1dfdd0f8a12, type: 3}
+  characterSprite: {fileID: -5621747324250490716, guid: b1d5a7b70f2172b4da680bbcfae94c48, type: 3}
+  baseAtk: 15
+  baseDef: 5
+  baseHp: 100
+  baseMp: 50
+  baseSpeed: 4.5
+  baseCritRate: 0.05
+  defaultElement: 0
+  specialMechanic: 0
+  passiveSeal1Name: "T\u1EADp S\u1EF1 C\u01B0\u01A1ng Thi\u1EC1n"
+  passiveSeal1Desc: "Gi\u1EA3m 10% s\xE1t th\u01B0\u01A1ng nh\u1EADn v\xE0o khi HP
+    t\u1EE5t xu\u1ED1ng d\u01B0\u1EDBi 50%."
+  passiveSeal2Name: "Kh\xE1t Khao Ti\u1EBFn H\xF3a"
+  passiveSeal2Desc: "T\u0103ng +20% l\u01B0\u1EE3ng EXP nh\u1EADn \u0111\u01B0\u1EE3c
+    khi ti\xEAu di\u1EC7t qu\xE1i v\u1EADt d\xE3 ngo\u1EA1i."
+  passiveSeal3Name: "\xDD Ch\xED B\u1EA5t Di\u1EC7t"
+  passiveSeal3Desc: "T\u1EF1 \u0111\u1ED9ng h\u1ED3i ph\u1EE5c 2% HP t\u1ED1i \u0111a
+    m\u1ED7i 3 gi\xE2y khi \u1EDF ngo\xE0i giao tranh."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 3f1b4a8e2c5d6e7f8091a2b3c4d5e6f1, type: 2}
+  - {fileID: 11400000, guid: 4a2c5b9e3d6e7f8091a2b3c4d5e6f1a2, type: 2}
+  - {fileID: 11400000, guid: 5b3d6c0f4e7f8091a2b3c4d5e6f1a2b3, type: 2}
+  - {fileID: 11400000, guid: 6c4e7d1f5f8091a2b3c4d5e6f1a2b3c4, type: 2}
+  - {fileID: 11400000, guid: 7d5f8e2f6091a2b3c4d5e6f1a2b3c4d5, type: 2}
+  promotionOptions:
+  - {fileID: 11400000, guid: 8dbe8d498002e9d45ab609d2c8d2187f, type: 2}
+  - {fileID: 11400000, guid: d846c363380bb38498ac2bf4df40a552, type: 2}
+  - {fileID: 11400000, guid: 0204c3ed4b9f2b24a9561b9569c111ec, type: 2}
+  difficulty: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38016e11326294e4f91711e2d475bceb, type: 3}
+  m_Name: material_animal_hide
+  itemId: material_animal_hide
+  itemName: "Tấm Da Thú Rừng"
+  itemType: 3
+  rarity: 0
+  description: "Lớp da bền thu hoạch từ Dã Lang hoặc Chuột Chũi. Dùng để may vá mũ, áo giáp và ủng đi rừng."
+  icon: {fileID: 21300000, guid: f8ae1314c7674f8abec02c689f29ab3f, type: 3}
+  buyPrice: 6
+  sellPrice: 3
+  isStackable: 1
+  maxStack: 99

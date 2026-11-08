@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_archer_tumble
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: archer_tumble
+  skillName: "Nh\xE0o L\u1ED9n Tho\xE1t Th\xE2n (Tumble)"
+  description: "L\u1ED9n nhanh v\u1EC1 h\u01B0\u1EDBng ch\u1EC9 \u0111\u1ECBnh, \u0111\u1ED3ng
+    th\u1EDDi c\u01B0\u1EDDng h\xF3a t\u1EA7m \u0111\xE1nh v\xE0 t\u1ED1c \u0111\u1ED9
+    c\u1EE7a \u0111\xF2n \u0111\xE1nh th\u01B0\u1EDDng ti\u1EBFp theo trong v\xF2ng
+    3 gi\xE2y."
+  icon: {fileID: 21300000, guid: f1e8a98ad23f0f445b57c9f1a5f9bd99, type: 3}
+  targetType: 3
+  element: 5
+  damageType: 0
+  manaCost: 12
+  cooldownSeconds: 3.5
+  damageMultiplier: 1
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 4214379324146668556, guid: 35cfd47bc07e036179172a17b4ccbf64, type: 3}

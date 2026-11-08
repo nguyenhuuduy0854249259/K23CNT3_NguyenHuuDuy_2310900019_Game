@@ -1,0 +1,208 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "33ce44dcfc4923fe65d5ae8b756a406cb0ffec2c6c1d82e7e15e40d512fae0ca",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#141824",
+      "r": "#3a3f54",
+      "m": "#5a627a",
+      "h": "#8690a8",
+      "o": "#b85c28",
+      "c": "#e88a38",
+      "w": "#ffd278",
+      "g": "#2e5c3e"
+    },
+    "variants": {
+      "copper": {},
+      "iron": {
+        "o": "#4b5c78",
+        "c": "#8ca4c4",
+        "w": "#e6f2ff"
+      },
+      "crystal": {
+        "o": "#2868b8",
+        "c": "#42c8f5",
+        "w": "#d8ffff"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "copper/frames/ore_vein.png",
+      "sha256": "ebc59b84eb7f460441cd5cb745774aa9da88af5d86843e6d597fc4ac60cd6776",
+      "bytes": 381
+    },
+    {
+      "path": "iron/frames/ore_vein.png",
+      "sha256": "cfabdaf65b0b380d19318a3ad26289cf7add81c29c7fe2fd12a3d5333bfa3ba3",
+      "bytes": 386
+    },
+    {
+      "path": "crystal/frames/ore_vein.png",
+      "sha256": "a3b735d2fe59e90f6db023516c29f657052b18e9d750b043914df8045d1a6518",
+      "bytes": 387
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "7395853d473a3a8a3ede1b958c7b7c1c67df043a5af20e2ed230002162b4f13c",
+      "bytes": 1483
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/ore_vein.pixelspec.json",
+        "sha256": "33ce44dcfc4923fe65d5ae8b756a406cb0ffec2c6c1d82e7e15e40d512fae0ca",
+        "bytes": 1045
+      }
+    ],
+    "outputs": [
+      {
+        "path": "copper/frames/ore_vein.png",
+        "sha256": "ebc59b84eb7f460441cd5cb745774aa9da88af5d86843e6d597fc4ac60cd6776",
+        "bytes": 381
+      },
+      {
+        "path": "iron/frames/ore_vein.png",
+        "sha256": "cfabdaf65b0b380d19318a3ad26289cf7add81c29c7fe2fd12a3d5333bfa3ba3",
+        "bytes": 386
+      },
+      {
+        "path": "crystal/frames/ore_vein.png",
+        "sha256": "a3b735d2fe59e90f6db023516c29f657052b18e9d750b043914df8045d1a6518",
+        "bytes": 387
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "copper/frames/ore_vein.png",
+        "variant": "copper",
+        "frame": "ore_vein",
+        "visible": 152,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 26,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          0,
+          1,
+          16,
+          13
+        ]
+      },
+      {
+        "file": "iron/frames/ore_vein.png",
+        "variant": "iron",
+        "frame": "ore_vein",
+        "visible": 152,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 26,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          0,
+          1,
+          16,
+          13
+        ]
+      },
+      {
+        "file": "crystal/frames/ore_vein.png",
+        "variant": "crystal",
+        "frame": "ore_vein",
+        "visible": 152,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 26,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          0,
+          1,
+          16,
+          13
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "ore_vein",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      16
+    ],
+    "anchor_px": [
+      8,
+      14
+    ],
+    "outline": "solid",
+    "variants": {
+      "copper": "copper",
+      "iron": "iron",
+      "crystal": "crystal"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/ore_vein.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

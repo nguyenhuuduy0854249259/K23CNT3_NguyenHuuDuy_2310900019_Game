@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9215371cbee6da429ae08b281f1d951, type: 3}
+  m_Name: Equip_Unique_PhoenixCloak
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Items.EquipmentData
+  itemId: equip_phoenix_cloak
+  itemName: "\xC1o Cho\xE0ng Ph\u01B0\u1EE3ng Ho\xE0ng [\u0110\u1ED9c B\u1EA3n]"
+  itemType: 0
+  rarity: 5
+  description: 
+  icon: {fileID: 0}
+  buyPrice: 10
+  sellPrice: 5
+  isStackable: 0
+  maxStack: 1
+  equipSlot: 1
+  requiredLevel: 1
+  requiredTier: 1
+  isSpecializedWeapon: 0
+  bonusAtk: 0
+  bonusDef: 14
+  bonusHp: 120
+  bonusMp: 0
+  bonusSpeed: 0
+  bonusCritRate: 0
+  weaponElement: 0
+  isUnique: 1
+  uniqueEffect: 2
+  uniqueEffectName: "Ni\u1EBFt B\xE0n T\xE1i Sinh"
+  uniqueEffectDescription: "Khi l\u01B0\u1EE3ng m\xE1u t\u1EE5t v\u1EC1 0, t\u1EF1
+    \u0111\u1ED9ng h\u1ED3i sinh v\u1EDBi 50% HP (Th\u1EDDi gian h\u1ED3i: 10 ph\xFAt)."

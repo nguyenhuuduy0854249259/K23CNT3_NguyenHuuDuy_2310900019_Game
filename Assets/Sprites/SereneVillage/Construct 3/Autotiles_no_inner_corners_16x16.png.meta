@@ -1,0 +1,1394 @@
+fileFormatVersion: 2
+guid: 5907a7b06f086434686f7ecff3403308
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3381774712059725824
+    second: Autotiles_no_inner_corners_16x16_0
+  - first:
+      213: 945536635295669795
+    second: Autotiles_no_inner_corners_16x16_1
+  - first:
+      213: -815657342431794610
+    second: Autotiles_no_inner_corners_16x16_2
+  - first:
+      213: 1562675667801573286
+    second: Autotiles_no_inner_corners_16x16_3
+  - first:
+      213: 2136846961243569779
+    second: Autotiles_no_inner_corners_16x16_0_0
+  - first:
+      213: -163936103430210625
+    second: Autotiles_no_inner_corners_16x16_0_1
+  - first:
+      213: 4944733314553755868
+    second: Autotiles_no_inner_corners_16x16_0_2
+  - first:
+      213: -1544562244345813363
+    second: Autotiles_no_inner_corners_16x16_0_3
+  - first:
+      213: 6092224960221461265
+    second: Autotiles_no_inner_corners_16x16_0_4
+  - first:
+      213: 1345941558770539930
+    second: Autotiles_no_inner_corners_16x16_0_5
+  - first:
+      213: -3570176804861090360
+    second: Autotiles_no_inner_corners_16x16_0_6
+  - first:
+      213: -3596047856408282367
+    second: Autotiles_no_inner_corners_16x16_0_7
+  - first:
+      213: -4428982130007636902
+    second: Autotiles_no_inner_corners_16x16_0_8
+  - first:
+      213: 6112321824496874701
+    second: Autotiles_no_inner_corners_16x16_0_9
+  - first:
+      213: 6733864271172628588
+    second: Autotiles_no_inner_corners_16x16_0_10
+  - first:
+      213: -6897233684666954064
+    second: Autotiles_no_inner_corners_16x16_0_11
+  - first:
+      213: 6013969104167342660
+    second: Autotiles_no_inner_corners_16x16_1_0
+  - first:
+      213: 5883552891668775790
+    second: Autotiles_no_inner_corners_16x16_1_1
+  - first:
+      213: 4937237339359384972
+    second: Autotiles_no_inner_corners_16x16_1_2
+  - first:
+      213: 7012585584895667698
+    second: Autotiles_no_inner_corners_16x16_1_3
+  - first:
+      213: -4691756009862272684
+    second: Autotiles_no_inner_corners_16x16_1_4
+  - first:
+      213: 4529771259923548428
+    second: Autotiles_no_inner_corners_16x16_1_5
+  - first:
+      213: -7597215718851025975
+    second: Autotiles_no_inner_corners_16x16_1_6
+  - first:
+      213: 1397072535443352695
+    second: Autotiles_no_inner_corners_16x16_1_7
+  - first:
+      213: 3984662604915094464
+    second: Autotiles_no_inner_corners_16x16_1_8
+  - first:
+      213: -929032334749489129
+    second: Autotiles_no_inner_corners_16x16_1_9
+  - first:
+      213: -1189586255735911581
+    second: Autotiles_no_inner_corners_16x16_1_10
+  - first:
+      213: 41802625799225502
+    second: Autotiles_no_inner_corners_16x16_1_11
+  - first:
+      213: 4200773917791251537
+    second: Autotiles_no_inner_corners_16x16_2_0
+  - first:
+      213: 3349594555226395117
+    second: Autotiles_no_inner_corners_16x16_2_1
+  - first:
+      213: -2627862137143736339
+    second: Autotiles_no_inner_corners_16x16_2_2
+  - first:
+      213: -5623327749186857448
+    second: Autotiles_no_inner_corners_16x16_2_3
+  - first:
+      213: -2509059692929273125
+    second: Autotiles_no_inner_corners_16x16_2_4
+  - first:
+      213: -4809802691927235010
+    second: Autotiles_no_inner_corners_16x16_2_5
+  - first:
+      213: 6902064162818478761
+    second: Autotiles_no_inner_corners_16x16_2_6
+  - first:
+      213: 3621434230706564091
+    second: Autotiles_no_inner_corners_16x16_2_7
+  - first:
+      213: 7623127367489892882
+    second: Autotiles_no_inner_corners_16x16_2_8
+  - first:
+      213: 3020317445274836190
+    second: Autotiles_no_inner_corners_16x16_2_9
+  - first:
+      213: 3098268641429377727
+    second: Autotiles_no_inner_corners_16x16_2_10
+  - first:
+      213: 7719417012344129113
+    second: Autotiles_no_inner_corners_16x16_2_11
+  - first:
+      213: -2166491477249062104
+    second: Autotiles_no_inner_corners_16x16_3_0
+  - first:
+      213: 5204224253092196598
+    second: Autotiles_no_inner_corners_16x16_3_1
+  - first:
+      213: -4645817650183488058
+    second: Autotiles_no_inner_corners_16x16_3_2
+  - first:
+      213: 1043210220385322876
+    second: Autotiles_no_inner_corners_16x16_3_3
+  - first:
+      213: -1607107723264314912
+    second: Autotiles_no_inner_corners_16x16_3_4
+  - first:
+      213: -613084935743871541
+    second: Autotiles_no_inner_corners_16x16_3_5
+  - first:
+      213: -6728681098818818576
+    second: Autotiles_no_inner_corners_16x16_3_6
+  - first:
+      213: -8415147099660930449
+    second: Autotiles_no_inner_corners_16x16_3_7
+  - first:
+      213: 1826614613478399511
+    second: Autotiles_no_inner_corners_16x16_3_8
+  - first:
+      213: -3473937075871065292
+    second: Autotiles_no_inner_corners_16x16_3_9
+  - first:
+      213: -4599914615829494132
+    second: Autotiles_no_inner_corners_16x16_3_10
+  - first:
+      213: 6512931444956610342
+    second: Autotiles_no_inner_corners_16x16_3_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ebb406dfa97ad10800000000000000
+      internalID: 2136846961243569779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb3e258bf499bdf0800000000000000
+      internalID: -163936103430210625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8340350c83f9440800000000000000
+      internalID: 4944733314553755868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86a94c72dc909ae0800000000000000
+      internalID: -1544562244345813363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bb4c5c25eeb8450800000000000000
+      internalID: 6092224960221461265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d14f277bebda210800000000000000
+      internalID: 1345941558770539930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56ae09c1f247ec0800000000000000
+      internalID: -3570176804861090360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bba7bf685481ec0800000000000000
+      internalID: -3596047856408282367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a548750f7381982c0800000000000000
+      internalID: -4428982130007636902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4f00e905453d450800000000000000
+      internalID: 6112321824496874701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6070f880ed737d50800000000000000
+      internalID: 6733864271172628588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_0_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be4194c18a1840a0800000000000000
+      internalID: -6897233684666954064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44291107909e57350800000000000000
+      internalID: 6013969104167342660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c32dbe2496a150800000000000000
+      internalID: 5883552891668775790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859f489337948440800000000000000
+      internalID: 4937237339359384972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd2bb86f65b15160800000000000000
+      internalID: 7012585584895667698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459ea5b54c883eeb0800000000000000
+      internalID: -4691756009862272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09448d06fafcde30800000000000000
+      internalID: 4529771259923548428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3eed33e84419690800000000000000
+      internalID: -7597215718851025975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2e88a116636310800000000000000
+      internalID: 1397072535443352695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c33fbb078d5c4730800000000000000
+      internalID: 3984662604915094464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a766830a6b13f0800000000000000
+      internalID: -929032334749489129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8c256a9dbd7fe0800000000000000
+      internalID: -1189586255735911581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_1_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9001754443849000800000000000000
+      internalID: 41802625799225502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c6caf1f952c4a30800000000000000
+      internalID: 4200773917791251537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de11ad540862c7e20800000000000000
+      internalID: 3349594555226395117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de749dc2f45f78bd0800000000000000
+      internalID: -2627862137143736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816de1ea43de5f1b0800000000000000
+      internalID: -5623327749186857448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd233bab0870e2dd0800000000000000
+      internalID: -2509059692929273125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a5f36fe5204db0800000000000000
+      internalID: -4809802691927235010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2dfb199ce09cf50800000000000000
+      internalID: 6902064162818478761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb64b2ee3be14230800000000000000
+      internalID: 3621434230706564091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2123bc0a3f9cac960800000000000000
+      internalID: 7623127367489892882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9582d6b25ae920800000000000000
+      internalID: 3020317445274836190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2512ff9e24ffa20800000000000000
+      internalID: 3098268641429377727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_2_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95601ed9fd0e02b60800000000000000
+      internalID: 7719417012344129113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b88a1ea731fe1e0800000000000000
+      internalID: -2166491477249062104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f07801926e193840800000000000000
+      internalID: 5204224253092196598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb295367db68fb0800000000000000
+      internalID: -4645817650183488058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77cf141b2a3a7e00800000000000000
+      internalID: 1043210220385322876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13b0f5a0862b9e0800000000000000
+      internalID: -1607107723264314912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5e7dbcf72ed77f0800000000000000
+      internalID: -613084935743871541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fde402d03cee92a0800000000000000
+      internalID: -6728681098818818576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623d085c44673b80800000000000000
+      internalID: -8415147099660930449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71edae92050795910800000000000000
+      internalID: 1826614613478399511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b55ac92a81acfc0800000000000000
+      internalID: -3473937075871065292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c860b5e3702d920c0800000000000000
+      internalID: -4599914615829494132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotiles_no_inner_corners_16x16_3_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f3c1764a4926a50800000000000000
+      internalID: 6512931444956610342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Autotiles_no_inner_corners_16x16_0: -3381774712059725824
+      Autotiles_no_inner_corners_16x16_0_0: 2136846961243569779
+      Autotiles_no_inner_corners_16x16_0_1: -163936103430210625
+      Autotiles_no_inner_corners_16x16_0_10: 6733864271172628588
+      Autotiles_no_inner_corners_16x16_0_11: -6897233684666954064
+      Autotiles_no_inner_corners_16x16_0_2: 4944733314553755868
+      Autotiles_no_inner_corners_16x16_0_3: -1544562244345813363
+      Autotiles_no_inner_corners_16x16_0_4: 6092224960221461265
+      Autotiles_no_inner_corners_16x16_0_5: 1345941558770539930
+      Autotiles_no_inner_corners_16x16_0_6: -3570176804861090360
+      Autotiles_no_inner_corners_16x16_0_7: -3596047856408282367
+      Autotiles_no_inner_corners_16x16_0_8: -4428982130007636902
+      Autotiles_no_inner_corners_16x16_0_9: 6112321824496874701
+      Autotiles_no_inner_corners_16x16_1: 945536635295669795
+      Autotiles_no_inner_corners_16x16_1_0: 6013969104167342660
+      Autotiles_no_inner_corners_16x16_1_1: 5883552891668775790
+      Autotiles_no_inner_corners_16x16_1_10: -1189586255735911581
+      Autotiles_no_inner_corners_16x16_1_11: 41802625799225502
+      Autotiles_no_inner_corners_16x16_1_2: 4937237339359384972
+      Autotiles_no_inner_corners_16x16_1_3: 7012585584895667698
+      Autotiles_no_inner_corners_16x16_1_4: -4691756009862272684
+      Autotiles_no_inner_corners_16x16_1_5: 4529771259923548428
+      Autotiles_no_inner_corners_16x16_1_6: -7597215718851025975
+      Autotiles_no_inner_corners_16x16_1_7: 1397072535443352695
+      Autotiles_no_inner_corners_16x16_1_8: 3984662604915094464
+      Autotiles_no_inner_corners_16x16_1_9: -929032334749489129
+      Autotiles_no_inner_corners_16x16_2: -815657342431794610
+      Autotiles_no_inner_corners_16x16_2_0: 4200773917791251537
+      Autotiles_no_inner_corners_16x16_2_1: 3349594555226395117
+      Autotiles_no_inner_corners_16x16_2_10: 3098268641429377727
+      Autotiles_no_inner_corners_16x16_2_11: 7719417012344129113
+      Autotiles_no_inner_corners_16x16_2_2: -2627862137143736339
+      Autotiles_no_inner_corners_16x16_2_3: -5623327749186857448
+      Autotiles_no_inner_corners_16x16_2_4: -2509059692929273125
+      Autotiles_no_inner_corners_16x16_2_5: -4809802691927235010
+      Autotiles_no_inner_corners_16x16_2_6: 6902064162818478761
+      Autotiles_no_inner_corners_16x16_2_7: 3621434230706564091
+      Autotiles_no_inner_corners_16x16_2_8: 7623127367489892882
+      Autotiles_no_inner_corners_16x16_2_9: 3020317445274836190
+      Autotiles_no_inner_corners_16x16_3: 1562675667801573286
+      Autotiles_no_inner_corners_16x16_3_0: -2166491477249062104
+      Autotiles_no_inner_corners_16x16_3_1: 5204224253092196598
+      Autotiles_no_inner_corners_16x16_3_10: -4599914615829494132
+      Autotiles_no_inner_corners_16x16_3_11: 6512931444956610342
+      Autotiles_no_inner_corners_16x16_3_2: -4645817650183488058
+      Autotiles_no_inner_corners_16x16_3_3: 1043210220385322876
+      Autotiles_no_inner_corners_16x16_3_4: -1607107723264314912
+      Autotiles_no_inner_corners_16x16_3_5: -613084935743871541
+      Autotiles_no_inner_corners_16x16_3_6: -6728681098818818576
+      Autotiles_no_inner_corners_16x16_3_7: -8415147099660930449
+      Autotiles_no_inner_corners_16x16_3_8: 1826614613478399511
+      Autotiles_no_inner_corners_16x16_3_9: -3473937075871065292
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

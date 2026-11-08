@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_shadow_smoke_screen
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: shadow_smoke_screen
+  skillName: "M\xE0n Kh\xF3i Vong H\u1ED3n"
+  description: "Th\u1EA3 kh\xF3i m\xF9 gi\u1EA3m \u0111\u1ED9 ch\xEDnh x\xE1c v\xE0
+    l\xE0m ch\u1EADm qu\xE1i."
+  icon: {fileID: 0}
+  targetType: 2
+  element: 6
+  damageType: 0
+  manaCost: 18
+  cooldownSeconds: 8
+  damageMultiplier: 1.4
+  range: 7
+  radius: 3.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

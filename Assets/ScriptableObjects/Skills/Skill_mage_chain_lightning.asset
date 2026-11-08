@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_mage_chain_lightning
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: mage_chain_lightning
+  skillName: "L\xF4i \u0110i\u1EC7n T\u1ECFa (Chain Lightning)"
+  description: "Ph\xF3ng m\u1ED9t tia s\xE9t gi\u1EADt v\xE0o m\u1EE5c ti\xEAu ch\u1EC9
+    \u0111\u1ECBnh, sau \u0111\xF3 n\u1EA3y sang t\u1ED1i \u0111a 3 k\u1EBB \u0111\u1ECBch
+    l\xE2n c\u1EADn, s\xE1t th\u01B0\u01A1ng gi\u1EA3m d\u1EA7n 15% sau m\u1ED7i
+    l\u1EA7n n\u1EA3y."
+  icon: {fileID: 21300000, guid: 7d7dc153463e69d4d8c37c74a80d6b63, type: 3}
+  targetType: 2
+  element: 3
+  damageType: 0
+  manaCost: 26
+  cooldownSeconds: 7.5
+  damageMultiplier: 2.5
+  range: 7
+  radius: 3.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 4214379324146668556, guid: de8d7f57c759f0d56b48c999c280f922, type: 3}

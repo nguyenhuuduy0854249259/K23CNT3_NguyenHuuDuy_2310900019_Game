@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38016e11326294e4f91711e2d475bceb, type: 3}
+  m_Name: material_copper_ore
+  itemId: material_copper_ore
+  itemName: "Mẩu Quặng Đồng Thô"
+  itemType: 3
+  rarity: 0
+  description: "Khoáng thạch đồng đỏ khai thác từ các vách đá thảo nguyên. Mang cho Thợ Rèn Barnaby để chế tạo hợp kim."
+  icon: {fileID: 21300000, guid: 0cb5fbc300ba4a34ab85d11007c80b49, type: 3}
+  buyPrice: 6
+  sellPrice: 3
+  isStackable: 1
+  maxStack: 99

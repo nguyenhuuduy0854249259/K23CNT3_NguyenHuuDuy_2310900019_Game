@@ -1,0 +1,141 @@
+{
+  "schema": "generate2dsprite.animation_clips.v2",
+  "frames": [
+    {
+      "name": "slash_arc-00",
+      "file": "frames/slash_arc-00.png"
+    },
+    {
+      "name": "slash_arc-01",
+      "file": "frames/slash_arc-01.png"
+    },
+    {
+      "name": "slash_arc-02",
+      "file": "frames/slash_arc-02.png"
+    },
+    {
+      "name": "slash_arc-03",
+      "file": "frames/slash_arc-03.png"
+    },
+    {
+      "name": "hit_spark-00",
+      "file": "frames/hit_spark-00.png"
+    },
+    {
+      "name": "hit_spark-01",
+      "file": "frames/hit_spark-01.png"
+    },
+    {
+      "name": "hit_spark-02",
+      "file": "frames/hit_spark-02.png"
+    },
+    {
+      "name": "shock_ring-00",
+      "file": "frames/shock_ring-00.png"
+    },
+    {
+      "name": "shock_ring-01",
+      "file": "frames/shock_ring-01.png"
+    },
+    {
+      "name": "shock_ring-02",
+      "file": "frames/shock_ring-02.png"
+    },
+    {
+      "name": "shock_ring-03",
+      "file": "frames/shock_ring-03.png"
+    },
+    {
+      "name": "shock_ring-04",
+      "file": "frames/shock_ring-04.png"
+    }
+  ],
+  "anchor_px": [
+    16.0,
+    20.0
+  ],
+  "clips": {
+    "slash_arc": {
+      "frames": [
+        "slash_arc-00",
+        "slash_arc-01",
+        "slash_arc-02",
+        "slash_arc-03"
+      ],
+      "duration_ms": [
+        50,
+        50,
+        50,
+        50
+      ],
+      "loop": false,
+      "loop_policy": "oneshot",
+      "role": "fx",
+      "events": [
+        {
+          "at": 2,
+          "name": "hit",
+          "data": {
+            "impactMs": 100
+          }
+        }
+      ]
+    },
+    "hit_spark": {
+      "frames": [
+        "hit_spark-00",
+        "hit_spark-01",
+        "hit_spark-02"
+      ],
+      "duration_ms": [
+        50,
+        50,
+        100
+      ],
+      "loop": false,
+      "loop_policy": "oneshot",
+      "role": "fx",
+      "events": [
+        {
+          "at": 0,
+          "name": "hit",
+          "data": {
+            "impactMs": 0
+          }
+        }
+      ]
+    },
+    "shock_ring": {
+      "frames": [
+        "shock_ring-00",
+        "shock_ring-01",
+        "shock_ring-02",
+        "shock_ring-03",
+        "shock_ring-04"
+      ],
+      "duration_ms": [
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "loop": false,
+      "loop_policy": "oneshot",
+      "role": "fx",
+      "events": [
+        {
+          "at": 0,
+          "name": "hit",
+          "data": {
+            "impactMs": 0
+          }
+        }
+      ]
+    }
+  },
+  "sampling": "nearest",
+  "pixel_art": true,
+  "art_source": "code",
+  "placeholder": false
+}

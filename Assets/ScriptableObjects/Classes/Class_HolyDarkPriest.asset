@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05780b31471e2e54db02eb0d89a26267, type: 3}
+  m_Name: Class_HolyDarkPriest
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.CharacterClassData
+  className: "M\u1EE5c S\u01B0 Th\xE1nh \u2013 Ma (Holy/Dark Priest)"
+  branch: 3
+  role: 4
+  tier: 2
+  requiredLevelForPromotion: 50
+  description: "L\u01B0\u1EE1ng c\u1EF1c \xE1nh s\xE1ng v\xE0 b\xF3ng t\u1ED1i: Angel
+    Form h\u1ED3i m\xE1u b\u1EA3o h\u1ED9 \u2194 Demon Form nguy\u1EC1n r\u1EE7a
+    h\xFAt m\xE1u."
+  mechanicDescription: "B\u1EA5m ph\xEDm [X] chuy\u1EC3n \u0111\u1ED5i Stance t\u1EE9c
+    th\xEC ho\xE1n \u0111\u1ED5i to\xE0n b\u1ED9 5 \xF4 k\u1EF9 n\u0103ng tr\xEAn
+    HUD gi\u1EEFa 2 b\u1ED9 loadout ri\xEAng bi\u1EC7t."
+  classIcon: {fileID: 0}
+  characterSprite: {fileID: 0}
+  baseAtk: 26
+  baseDef: 8
+  baseHp: 120
+  baseMp: 120
+  baseSpeed: 4.6
+  baseCritRate: 0.08
+  defaultElement: 7
+  specialMechanic: 5
+  passiveSeal1Name: "Song Di\u1EC7n Th\u1EA7n Th\xE1nh"
+  passiveSeal1Desc: "Stance switch gi\u1EEFa Angel Form (H\u1ED3i m\xE1u, B\u1EA3o
+    v\u1EC7) v\xE0 Demon Form (Nguy\u1EC1n r\u1EE7a, H\xFAt m\xE1u), ho\xE1n \u0111\u1ED5i
+    t\u1EE9c th\xEC to\xE0n b\u1ED9 5 \xF4 k\u1EF9 n\u0103ng."
+  passiveSeal2Name: "C\xE2n B\u1EB1ng \xC2m D\u01B0\u01A1ng"
+  passiveSeal2Desc: "D\xF9ng chi\xEAu Angel t\u0103ng 15% s\xE1t th\u01B0\u01A1ng
+    cho chi\xEAu Demon k\u1EBF ti\u1EBFp; d\xF9ng chi\xEAu Demon t\u0103ng 25% l\u01B0\u1EE3ng
+    h\u1ED3i ph\u1EE5c cho chi\xEAu Angel k\u1EBF ti\u1EBFp."
+  passiveSeal3Name: "Hi\u1EC7p \u0110\u1ED3ng Linh Th\u1EA7n"
+  passiveSeal3Desc: "Pet k\u1EBF th\u1EEBa h\xE0o quang: Angel t\u0103ng gi\xE1p
+    party +20%, Demon t\u0103ng h\xFAt m\xE1u +10% s\xE1t th\u01B0\u01A1ng g\xE2y
+    ra."
+  unlockedSkills:
+  - {fileID: 11400000, guid: 16190573183bf784dab8dd7e3bc7458a, type: 2}
+  - {fileID: 11400000, guid: 5f157fc3264b1cc4aa23b41a6c5e729c, type: 2}
+  - {fileID: 11400000, guid: fa2341eeec09f364a9027fe21e53c3bd, type: 2}
+  - {fileID: 11400000, guid: 9baaf2854a089a449bd6d47708e889b9, type: 2}
+  - {fileID: 11400000, guid: 6d47166b195d0e54db027d585b1cfce1, type: 2}
+  promotionOptions: []
+  difficulty: 4

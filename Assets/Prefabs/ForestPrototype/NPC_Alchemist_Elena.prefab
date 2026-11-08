@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &112636921775527371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 601843816853764585}
+  - component: {fileID: 4688509065753985923}
+  - component: {fileID: 6276350725612774016}
+  - component: {fileID: 8884919048183283005}
+  - component: {fileID: 5372980102688828703}
+  - component: {fileID: 3552866085419989728}
+  - component: {fileID: 3775620265061010342}
+  - component: {fileID: 4769534279951335988}
+  - component: {fileID: 5576875495180574662}
+  - component: {fileID: 3539669205630072198}
+  m_Layer: 0
+  m_Name: NPC_Alchemist_Elena
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &601843816853764585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7686979579978706917}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &4688509065753985923
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 10
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 9ec38d4ad3fb7cfdfd087765fd9dcc95, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2, y: 2}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!50 &6276350725612774016
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!61 &8884919048183283005
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.35}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.48, y: 0.3}
+  m_EdgeRadius: 0
+--- !u!114 &5372980102688828703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3501e76e041b104fba055a4c9a0931a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Core.World.Interactables.NPCVillageElder
+  npcName: "D\u01B0\u1EE3c S\u0129 Elena"
+  interactDistance: 2.4
+  greetingMessage: "H\u01B0\u01A1ng th\u1EA3o m\u1ED9c quanh l\xE0ng th\u1EADt trong
+    l\xE0nh! N\u1EBFu thu th\u1EADp \u0111\u01B0\u1EE3c Th\u1EA3o M\u1ED9c Xanh hay
+    C\u1ECF \xC1nh Tr\u0103ng ngo\xE0i su\u1ED1i, h\xE3y gh\xE9 D\u01B0\u1EE3c Qu\xE1n
+    c\u1EE7a ta nh\xE9!"
+--- !u!114 &3552866085419989728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c369696b5c781a48aacdda1bfb3540a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Town.ShopNPC
+  npcName: "D\u01B0\u1EE3c S\u0129 Elena"
+  shopType: 4
+  greetingDialogue: "H\u01B0\u01A1ng th\u1EA3o m\u1ED9c quanh l\xE0ng th\u1EADt trong
+    l\xE0nh! N\u1EBFu thu th\u1EADp \u0111\u01B0\u1EE3c Th\u1EA3o M\u1ED9c Xanh hay
+    C\u1ECF \xC1nh Tr\u0103ng ngo\xE0i su\u1ED1i, h\xE3y gh\xE9 D\u01B0\u1EE3c Qu\xE1n
+    c\u1EE7a ta nh\xE9!"
+  shopInventory: []
+--- !u!114 &3775620265061010342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3552dcb5c0d20374e9b0603f9f887c81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Visuals.DirectionalWalkAnimator
+  walkFrontFrames:
+  - {fileID: 21300000, guid: 4959c55936ce40ac6addf556933b449e, type: 3}
+  - {fileID: 21300000, guid: 408c9fcd8b14837537af3b48ec06f665, type: 3}
+  - {fileID: 21300000, guid: 3af2d49e81dc117184c93b2a285240c8, type: 3}
+  - {fileID: 21300000, guid: 729a5c5c5142e32d6baffb7bc33f0c56, type: 3}
+  walkBackFrames:
+  - {fileID: 21300000, guid: 568d0098dc350e63091ecd0200e27a90, type: 3}
+  - {fileID: 21300000, guid: e1315e8e691cd2f7c2a5b642047120a2, type: 3}
+  - {fileID: 21300000, guid: 4a7ca4a35fa94669d13a907b1780f16b, type: 3}
+  - {fileID: 21300000, guid: e3d1e4adbabedec6e6df022acefade60, type: 3}
+  walkSideFrames:
+  - {fileID: 21300000, guid: a9a38c50cb8fd9cf60c88df669dec4d0, type: 3}
+  - {fileID: 21300000, guid: 2dbb8ed77ecb7ec53382c6f5ba89173e, type: 3}
+  - {fileID: 21300000, guid: 3d0d9d6c5302bd9b89e0fa085598e9b1, type: 3}
+  - {fileID: 21300000, guid: f4b19b7223836ccb10da8b0c7e743e8c, type: 3}
+  walkLeftFrames:
+  - {fileID: 21300000, guid: a6c24e32e7494aa6b21021776d194445, type: 3}
+  - {fileID: 21300000, guid: 2658ef72625740b0a3eecde320acb6d2, type: 3}
+  - {fileID: 21300000, guid: 429393f8301a476aad7b04707e5fe335, type: 3}
+  - {fileID: 21300000, guid: 6215ca34882e47be848178c4fc87eebf, type: 3}
+  idleFront: {fileID: 21300000, guid: 9ec38d4ad3fb7cfdfd087765fd9dcc95, type: 3}
+  idleBack: {fileID: 21300000, guid: b4433b9eecf9486a590c374c252650a4, type: 3}
+  idleSide: {fileID: 21300000, guid: 3382c84a409862bfcb6331e6373b1f07, type: 3}
+  idleLeft: {fileID: 21300000, guid: e19eb5326d6f44cb967ddb0cddb2fbc2, type: 3}
+  fps: 6
+  currentFacing: 0
+  isFacingLeft: 0
+  isMoving: 0
+--- !u!114 &4769534279951335988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ec53fcf2026364da3d64f53ab1f0d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Town.NPCWanderController2D
+  homePosition: {x: 0, y: 0}
+  useInitialPositionAsHome: 1
+  wanderRadius: 2.8
+  moveSpeed: 1.15
+  minIdleTime: 1.8
+  maxIdleTime: 4.2
+  minWalkTime: 1.2
+  maxWalkTime: 3
+  pauseWhenPlayerNearby: 1
+  playerStopDistance: 2.2
+--- !u!114 &5576875495180574662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a4c555806920740999bd4d720a4b18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Visuals.YSortOrder2D
+  footOffsetY: -0.35
+  baseSortingOffset: 5000
+  sortFactor: 32
+  isStatic: 0
+  syncChildRenderers: 1
+  childSortingOffset: 1
+--- !u!114 &3539669205630072198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112636921775527371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ae02126dab9409c9ca20858e7da94a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Town.NPCModularCharacter2D
+  props:
+  - {fileID: 4871563090137230208}
+  perchSocket: {fileID: 0}
+  staffTipSocket: {fileID: 0}
+  perchOffsetFront: {x: -0.25, y: 0.08}
+  perchOffsetBack: {x: 0.25, y: 0.08}
+  perchOffsetSide: {x: -0.28, y: 0.06}
+--- !u!1 &3479781670533184807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7686979579978706917}
+  - component: {fileID: 4122944064421675852}
+  - component: {fileID: 4871563090137230208}
+  m_Layer: 0
+  m_Name: Prop_HerbBag
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7686979579978706917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3479781670533184807}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 601843816853764585}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &4122944064421675852
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3479781670533184807}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []
+--- !u!114 &4871563090137230208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3479781670533184807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5398e50af24048b8a522dca79156e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Town.NPCModularProp
+  spriteFront: {fileID: 21300000, guid: 9a292481c8b8d139db402eee8bbc7bb2, type: 3}
+  spriteBack: {fileID: 21300000, guid: 3e54de5b1f65fb764dc1ca4f53815e6c, type: 3}
+  spriteSide: {fileID: 21300000, guid: 685e0d4a8a958384e5553fdba0773e9f, type: 3}
+  spriteLeft: {fileID: 21300000, guid: b9c978c04f414fd6a80fc84245ba57c7, type: 3}
+  sortingOffsetFront: 1
+  sortingOffsetBack: -1
+  sortingOffsetSideRight: 1
+  sortingOffsetSideLeft: -1
+  offsetFront: {x: 0, y: 0}
+  offsetBack: {x: 0, y: 0}
+  offsetSide: {x: 0, y: 0}
+  offsetLeft: {x: 0, y: 0}
+  syncWithWalkStepBob: 1
+  hasSecondaryMotion: 1
+  motionAmplitudeX: 0.015
+  motionAmplitudeY: 0.04
+  motionFrequency: 7
+  bounceOnlyWhenMoving: 1
+  sr: {fileID: 0}

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f00c2bda6bb203b41baec605c1ea2eb2, type: 3}
+  m_Name: Boss_WolfKing
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Enemies.EnemyData
+  enemyId: boss_wolf_king
+  enemyName: "Vua S\xF3i H\u1EAFc \xC1m [Tr\xF9m Khu V\u1EF1c]"
+  level: 12
+  element: 8
+  morphologicalGroup: 0
+  sprite: {fileID: -1874637654267323077, guid: 0cc1e04b67249e948b924b5277ed385a, type: 3}
+  maxHp: 450
+  attackPower: 28
+  defense: 8
+  moveSpeed: 3.8
+  detectionRadius: 6
+  attackRange: 1.3
+  attackCooldown: 1.8
+  isRanged: 0
+  projectileSpeed: 6
+  isCapturable: 1
+  baseCaptureRate: 0.25
+  expReward: 350
+  goldReward: 200
+  dropTable:
+  - item: {fileID: 11400000, guid: 6f69e20dced266544b31da98ca945cf1, type: 2}
+    dropChancePercent: 8.5
+    minQuantity: 1
+    maxQuantity: 1
+  - item: {fileID: 11400000, guid: 32a6fb034f02feb4cab1153ce32dde5a, type: 2}
+    dropChancePercent: 50
+    minQuantity: 1
+    maxQuantity: 2
+  isAreaBoss: 1
+  isWorldBoss: 0

@@ -1,0 +1,55 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "steppe_boar",
+  "canvas": [
+    20,
+    16
+  ],
+  "anchor_px": [
+    10,
+    14
+  ],
+  "palette": {
+    "k": "#18141c",
+    "d": "#4a2c24",
+    "b": "#754432",
+    "l": "#a36549",
+    "p": "#e08d79",
+    "w": "#fff5e4",
+    "e": "#ff2442"
+  },
+  "variants": {
+    "earth": {},
+    "dark": {
+      "d": "#241d2e",
+      "b": "#3b304a",
+      "l": "#5b4c70",
+      "p": "#8f7aa6"
+    }
+  },
+  "outline": {
+    "mode": "solid",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "boar",
+      "z": 0,
+      "origin": [
+        2,
+        2
+      ],
+      "rows": [
+        "....dd..dd......",
+        "...dllbbllbd....",
+        "..dllllllllbbd..",
+        ".wddelblbllbbbd.",
+        "wwpddllllllbbbbd",
+        ".ppddllllllbbbb.",
+        "..ddddbbbbbbddd.",
+        "...dd.dd..dd.dd.",
+        "...dd.dd..dd.dd."
+      ]
+    }
+  ]
+}

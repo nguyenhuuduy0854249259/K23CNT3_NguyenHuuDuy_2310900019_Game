@@ -1,0 +1,136 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "31582d72a8275a87f4a02e00ff408eab2319352e422dda6a7e5d47dee8ea8533",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "s": "#94b0c2",
+      "w": "#8f563b",
+      "l": "#d9a066",
+      "g": "#ffcd75",
+      "e": "#38b764"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/bow.png",
+      "sha256": "977b1f6b0612b7ef2e8a769f635b7093a261693a97b1909f2cf4143d27dc77d3",
+      "bytes": 256
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "fd0856155fdc692371e395d969d420e4fef4098d0f98d41836d62c5f0fb0ae56",
+      "bytes": 460
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/bow.pixelspec.json",
+        "sha256": "31582d72a8275a87f4a02e00ff408eab2319352e422dda6a7e5d47dee8ea8533",
+        "bytes": 685
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/bow.png",
+        "sha256": "977b1f6b0612b7ef2e8a769f635b7093a261693a97b1909f2cf4143d27dc77d3",
+        "bytes": 256
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/bow.png",
+        "variant": "base",
+        "frame": "bow",
+        "visible": 90,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 6,
+        "orphans": 22,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          4,
+          2,
+          13,
+          18
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "bow",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      22
+    ],
+    "anchor_px": [
+      8,
+      11
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/bow.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

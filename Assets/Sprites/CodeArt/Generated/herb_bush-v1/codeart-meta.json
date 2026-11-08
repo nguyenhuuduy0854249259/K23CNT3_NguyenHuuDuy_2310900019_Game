@@ -1,0 +1,210 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "a99a897de053a93bb7b31a148a710ed99b37ca3ec015e7b857bbad96d2332871",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#141824",
+      "d": "#1e4a38",
+      "g": "#2e7d47",
+      "l": "#58b85a",
+      "y": "#a6e86b",
+      "b": "#3de0e6",
+      "w": "#e8ffff",
+      "s": "#5c3c28"
+    },
+    "variants": {
+      "emerald": {},
+      "moonlight": {
+        "b": "#c878ff",
+        "w": "#f8e8ff",
+        "l": "#42a875",
+        "y": "#88f0b8"
+      },
+      "crimson": {
+        "b": "#ff4d6d",
+        "w": "#ffe0e6",
+        "l": "#4fa64e",
+        "y": "#9de06c"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "emerald/frames/herb_bush.png",
+      "sha256": "910a72c0b3fa75bb770e5006d09aac68dad5f2c9dc6a36b2fcd829722ed2a474",
+      "bytes": 406
+    },
+    {
+      "path": "moonlight/frames/herb_bush.png",
+      "sha256": "3485e10e18ef46418ae8783bb29e6c2c3cdc73abb2dcac22f61de4a241720f66",
+      "bytes": 377
+    },
+    {
+      "path": "crimson/frames/herb_bush.png",
+      "sha256": "929900f1e171a78190add30be7af8ed0f473010e5cc8477dc3f8c252000c1724",
+      "bytes": 391
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "73016f8cacd0967e1b59d29d6b0c050fc4731bde9ad6d5e95a6cb68de26bb29d",
+      "bytes": 1437
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/herb_bush.pixelspec.json",
+        "sha256": "a99a897de053a93bb7b31a148a710ed99b37ca3ec015e7b857bbad96d2332871",
+        "bytes": 1096
+      }
+    ],
+    "outputs": [
+      {
+        "path": "emerald/frames/herb_bush.png",
+        "sha256": "910a72c0b3fa75bb770e5006d09aac68dad5f2c9dc6a36b2fcd829722ed2a474",
+        "bytes": 406
+      },
+      {
+        "path": "moonlight/frames/herb_bush.png",
+        "sha256": "3485e10e18ef46418ae8783bb29e6c2c3cdc73abb2dcac22f61de4a241720f66",
+        "bytes": 377
+      },
+      {
+        "path": "crimson/frames/herb_bush.png",
+        "sha256": "929900f1e171a78190add30be7af8ed0f473010e5cc8477dc3f8c252000c1724",
+        "bytes": 391
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "emerald/frames/herb_bush.png",
+        "variant": "emerald",
+        "frame": "herb_bush",
+        "visible": 148,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 36,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          16,
+          13
+        ]
+      },
+      {
+        "file": "moonlight/frames/herb_bush.png",
+        "variant": "moonlight",
+        "frame": "herb_bush",
+        "visible": 148,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 36,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          16,
+          13
+        ]
+      },
+      {
+        "file": "crimson/frames/herb_bush.png",
+        "variant": "crimson",
+        "frame": "herb_bush",
+        "visible": 148,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 8,
+        "orphans": 36,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          16,
+          13
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "herb_bush",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      16
+    ],
+    "anchor_px": [
+      8,
+      14
+    ],
+    "outline": "solid",
+    "variants": {
+      "emerald": "emerald",
+      "moonlight": "moonlight",
+      "crimson": "crimson"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/herb_bush.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

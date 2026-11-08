@@ -1,0 +1,45 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "frost_spike",
+  "canvas": [14, 22],
+  "anchor_px": [7, 20],
+  "palette": {
+    "k": "#1a1c2c",
+    "d": "#29366f",
+    "b": "#3b5dc9",
+    "c": "#41a6f6",
+    "i": "#73eff7",
+    "w": "#ffffff"
+  },
+  "variants": {
+    "ice": {},
+    "rock": {"d": "#332c50", "b": "#566c86", "c": "#8f563b", "i": "#d9a066", "w": "#ffcd75"}
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "spike",
+      "z": 0,
+      "origin": [2, 2],
+      "rows": [
+        "....w.....",
+        "....wc....",
+        "...wic....",
+        "...wicb...",
+        "...wiicb..",
+        "..wwiicb..",
+        "..wiiccb..",
+        "..wiiccbb.",
+        ".wwiiccbb.",
+        ".wiicccbbd",
+        ".wiicccbbd",
+        "wwiicccbbd",
+        "wiiccccbbd",
+        "wicccbbddd",
+        "icccbbbddd",
+        ".ccbbbbdd.",
+        "..bbdddd.."
+      ]
+    }
+  ]
+}

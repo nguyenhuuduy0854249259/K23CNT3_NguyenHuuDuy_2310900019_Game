@@ -1,0 +1,204 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "eda7b4b95c9782d343d45a55bc5c9f42d210fd27a98816c3c08a7ff4d0dc511f",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#182820",
+      "d": "#245836",
+      "g": "#3ca34c",
+      "l": "#78d663",
+      "y": "#d4f77e",
+      "f": "#ffeb57",
+      "p": "#ff7eb6"
+    },
+    "variants": {
+      "tuft": {},
+      "flower_gold": {
+        "y": "#ffeb57"
+      },
+      "flower_pink": {
+        "y": "#ff7eb6"
+      }
+    }
+  },
+  "outputs": [
+    {
+      "path": "tuft/frames/mini_grass.png",
+      "sha256": "cbf0748b2b6d0dfac9e4bada7841851f28cf6e38ff8590d626b4ce57fd75d7be",
+      "bytes": 189
+    },
+    {
+      "path": "flower_gold/frames/mini_grass.png",
+      "sha256": "f384e12cde3c75d56b31fc66bd4887545e02a5420832dda675df3127847fdfa5",
+      "bytes": 189
+    },
+    {
+      "path": "flower_pink/frames/mini_grass.png",
+      "sha256": "053c0396a25eb4ff09425697557efd19c811a8b0a0394fcaa3234c5c3955169b",
+      "bytes": 189
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "cd45cf748ca832c96a6450d1ab200159a8f9366d00a83c8d5aabca966772a80d",
+      "bytes": 640
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec.",
+      "Outline continuity and L-corners: the spec has no outline, so they were not measured."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "skipped",
+        "value": null,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "skipped",
+        "value": null,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/mini_grass.pixelspec.json",
+        "sha256": "eda7b4b95c9782d343d45a55bc5c9f42d210fd27a98816c3c08a7ff4d0dc511f",
+        "bytes": 869
+      }
+    ],
+    "outputs": [
+      {
+        "path": "tuft/frames/mini_grass.png",
+        "sha256": "cbf0748b2b6d0dfac9e4bada7841851f28cf6e38ff8590d626b4ce57fd75d7be",
+        "bytes": 189
+      },
+      {
+        "path": "flower_gold/frames/mini_grass.png",
+        "sha256": "f384e12cde3c75d56b31fc66bd4887545e02a5420832dda675df3127847fdfa5",
+        "bytes": 189
+      },
+      {
+        "path": "flower_pink/frames/mini_grass.png",
+        "sha256": "053c0396a25eb4ff09425697557efd19c811a8b0a0394fcaa3234c5c3955169b",
+        "bytes": 189
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "tuft/frames/mini_grass.png",
+        "variant": "tuft",
+        "frame": "mini_grass",
+        "visible": 54,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 4,
+        "orphans": 7,
+        "l_corners": null,
+        "outline_gaps": null,
+        "bbox": [
+          2,
+          1,
+          13,
+          9
+        ]
+      },
+      {
+        "file": "flower_gold/frames/mini_grass.png",
+        "variant": "flower_gold",
+        "frame": "mini_grass",
+        "visible": 54,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 4,
+        "orphans": 7,
+        "l_corners": null,
+        "outline_gaps": null,
+        "bbox": [
+          2,
+          1,
+          13,
+          9
+        ]
+      },
+      {
+        "file": "flower_pink/frames/mini_grass.png",
+        "variant": "flower_pink",
+        "frame": "mini_grass",
+        "visible": 54,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 4,
+        "orphans": 7,
+        "l_corners": null,
+        "outline_gaps": null,
+        "bbox": [
+          2,
+          1,
+          13,
+          9
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "mini_grass",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      14,
+      12
+    ],
+    "anchor_px": [
+      7,
+      10
+    ],
+    "outline": "none",
+    "variants": {
+      "tuft": "tuft",
+      "flower_gold": "flower_gold",
+      "flower_pink": "flower_pink"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/mini_grass.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

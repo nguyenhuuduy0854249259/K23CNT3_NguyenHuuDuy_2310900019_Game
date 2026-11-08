@@ -1,0 +1,50 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "village_wall",
+  "canvas": [16, 16],
+  "anchor_px": [8, 14],
+  "palette": {
+    "k": "#181a24",
+    "d": "#3d4356",
+    "s": "#646d85",
+    "l": "#97a1b8",
+    "h": "#c7d0e0",
+    "w": "#6e4228",
+    "b": "#9c633b",
+    "g": "#3a7d44"
+  },
+  "variants": {
+    "horizontal": {},
+    "pillar": {
+      "b": "#ba7b48",
+      "h": "#dce4f2"
+    }
+  },
+  "outline": {
+    "mode": "none",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "wall",
+      "z": 0,
+      "origin": [0, 1],
+      "rows": [
+        ".kkk..kkkk..kkk.",
+        "khhskkhhhhkkshhk",
+        "ksslssssssssllsk",
+        "kddddddddddddddk",
+        "kbbbbbbbbbbbbbbk",
+        "kwwwwwwwwwwwwwwk",
+        "ksllsskkkkssllsk",
+        "ksssdkhhhhkdsssk",
+        "kddddksssskddddk",
+        "kllsskddddkssllk",
+        "kssddkbbbbkddssk",
+        "kddddkwwwwkddddk",
+        "gkkkkdkkkkdkkkkg",
+        ".gggg.gggg.gggg."
+      ]
+    }
+  ]
+}

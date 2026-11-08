@@ -1,0 +1,135 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "d75c674f4c56aa8980cff606979f601b52790cdb6990ffd2f84849d7d98d196d",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "r": "#b13e53",
+      "o": "#ef7d57",
+      "g": "#ffcd75",
+      "w": "#ffffff"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/crosshair.png",
+      "sha256": "6e4f3db54b214df77d0778979cb320325eb2d51cd521c5382f1dc41364de15b7",
+      "bytes": 305
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "68fb192000e78169d84f416a474b5697e78763c92056bd5ff72b65a32500012e",
+      "bytes": 617
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 4,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/crosshair.pixelspec.json",
+        "sha256": "d75c674f4c56aa8980cff606979f601b52790cdb6990ffd2f84849d7d98d196d",
+        "bytes": 886
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/crosshair.png",
+        "sha256": "6e4f3db54b214df77d0778979cb320325eb2d51cd521c5382f1dc41364de15b7",
+        "bytes": 305
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/crosshair.png",
+        "variant": "base",
+        "frame": "crosshair",
+        "visible": 139,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 5,
+        "orphans": 31,
+        "l_corners": 4,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          1,
+          20,
+          20
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "crosshair",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      21,
+      21
+    ],
+    "anchor_px": [
+      10,
+      10
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/crosshair.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

@@ -1,0 +1,7114 @@
+fileFormatVersion: 2
+guid: b707039cec01c1242a37d095ead19420
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8277785196587538584
+    second: Outside_Stuff_TILESET_B-C-D-E_0
+  - first:
+      213: 973578038654906817
+    second: Outside_Stuff_TILESET_B-C-D-E_1
+  - first:
+      213: -643842242474932026
+    second: Outside_Stuff_TILESET_B-C-D-E_2
+  - first:
+      213: 2713560075882463865
+    second: Outside_Stuff_TILESET_B-C-D-E_3
+  - first:
+      213: 384785452846396960
+    second: Outside_Stuff_TILESET_B-C-D-E_4
+  - first:
+      213: 1366247840711699526
+    second: Outside_Stuff_TILESET_B-C-D-E_5
+  - first:
+      213: -6821853093928268574
+    second: Outside_Stuff_TILESET_B-C-D-E_6
+  - first:
+      213: 5996336142648432657
+    second: Outside_Stuff_TILESET_B-C-D-E_7
+  - first:
+      213: 372073848692676162
+    second: Outside_Stuff_TILESET_B-C-D-E_8
+  - first:
+      213: -6801142307645883920
+    second: Outside_Stuff_TILESET_B-C-D-E_9
+  - first:
+      213: -8511842142349621249
+    second: Outside_Stuff_TILESET_B-C-D-E_10
+  - first:
+      213: 3234796736832105281
+    second: Outside_Stuff_TILESET_B-C-D-E_11
+  - first:
+      213: 1088277743877879133
+    second: Outside_Stuff_TILESET_B-C-D-E_12
+  - first:
+      213: 5351127430063050281
+    second: Outside_Stuff_TILESET_B-C-D-E_13
+  - first:
+      213: 6310475808328956098
+    second: Outside_Stuff_TILESET_B-C-D-E_14
+  - first:
+      213: 4678160615103962158
+    second: Outside_Stuff_TILESET_B-C-D-E_15
+  - first:
+      213: 8472802262616329449
+    second: Outside_Stuff_TILESET_B-C-D-E_16
+  - first:
+      213: 4364010393945723293
+    second: Outside_Stuff_TILESET_B-C-D-E_17
+  - first:
+      213: -2284799360293872749
+    second: Outside_Stuff_TILESET_B-C-D-E_18
+  - first:
+      213: -7603420668399701708
+    second: Outside_Stuff_TILESET_B-C-D-E_19
+  - first:
+      213: -4649474456574117328
+    second: Outside_Stuff_TILESET_B-C-D-E_20
+  - first:
+      213: -5866220398202955667
+    second: Outside_Stuff_TILESET_B-C-D-E_21
+  - first:
+      213: 5795561594807544907
+    second: Outside_Stuff_TILESET_B-C-D-E_22
+  - first:
+      213: 254564144317467545
+    second: Outside_Stuff_TILESET_B-C-D-E_23
+  - first:
+      213: 857598650450603123
+    second: Outside_Stuff_TILESET_B-C-D-E_24
+  - first:
+      213: -84986770653377146
+    second: Outside_Stuff_TILESET_B-C-D-E_25
+  - first:
+      213: -2026748754327501486
+    second: Outside_Stuff_TILESET_B-C-D-E_26
+  - first:
+      213: 3780631305772294039
+    second: Outside_Stuff_TILESET_B-C-D-E_27
+  - first:
+      213: 3824446629889978432
+    second: Outside_Stuff_TILESET_B-C-D-E_28
+  - first:
+      213: 7250806503659202106
+    second: Outside_Stuff_TILESET_B-C-D-E_29
+  - first:
+      213: 7195299759462251064
+    second: Outside_Stuff_TILESET_B-C-D-E_30
+  - first:
+      213: -1980288823306197352
+    second: Outside_Stuff_TILESET_B-C-D-E_31
+  - first:
+      213: -6097691761981905781
+    second: Outside_Stuff_TILESET_B-C-D-E_32
+  - first:
+      213: -8605201196606282812
+    second: Outside_Stuff_TILESET_B-C-D-E_33
+  - first:
+      213: 5301455966650645618
+    second: Outside_Stuff_TILESET_B-C-D-E_34
+  - first:
+      213: -167777992870795359
+    second: Outside_Stuff_TILESET_B-C-D-E_35
+  - first:
+      213: -1386734109839137197
+    second: Outside_Stuff_TILESET_B-C-D-E_36
+  - first:
+      213: 8027961570087993966
+    second: Outside_Stuff_TILESET_B-C-D-E_37
+  - first:
+      213: -2729832100701884272
+    second: Outside_Stuff_TILESET_B-C-D-E_38
+  - first:
+      213: -5061901983047623663
+    second: Outside_Stuff_TILESET_B-C-D-E_39
+  - first:
+      213: -1590159611396867272
+    second: Outside_Stuff_TILESET_B-C-D-E_40
+  - first:
+      213: 6146458330942368552
+    second: Outside_Stuff_TILESET_B-C-D-E_41
+  - first:
+      213: -4596955955162897887
+    second: Outside_Stuff_TILESET_B-C-D-E_42
+  - first:
+      213: -3546405999794578451
+    second: Outside_Stuff_TILESET_B-C-D-E_43
+  - first:
+      213: -5204320068216793398
+    second: Outside_Stuff_TILESET_B-C-D-E_44
+  - first:
+      213: 5438754836298183756
+    second: Outside_Stuff_TILESET_B-C-D-E_45
+  - first:
+      213: 4761928262354619874
+    second: Outside_Stuff_TILESET_B-C-D-E_46
+  - first:
+      213: 9041708409549649673
+    second: Outside_Stuff_TILESET_B-C-D-E_47
+  - first:
+      213: -1746114553297564502
+    second: Outside_Stuff_TILESET_B-C-D-E_48
+  - first:
+      213: 3440636684774720869
+    second: Outside_Stuff_TILESET_B-C-D-E_49
+  - first:
+      213: 8640502685055933950
+    second: Outside_Stuff_TILESET_B-C-D-E_50
+  - first:
+      213: 3474711719024336449
+    second: Outside_Stuff_TILESET_B-C-D-E_51
+  - first:
+      213: 807008581466819961
+    second: Outside_Stuff_TILESET_B-C-D-E_52
+  - first:
+      213: 5291310420623149489
+    second: Outside_Stuff_TILESET_B-C-D-E_53
+  - first:
+      213: -50448469141845962
+    second: Outside_Stuff_TILESET_B-C-D-E_54
+  - first:
+      213: 2692703978563462644
+    second: Outside_Stuff_TILESET_B-C-D-E_55
+  - first:
+      213: -2705089143318150754
+    second: Outside_Stuff_TILESET_B-C-D-E_56
+  - first:
+      213: -838742782249654642
+    second: Outside_Stuff_TILESET_B-C-D-E_57
+  - first:
+      213: 2494732845602897690
+    second: Outside_Stuff_TILESET_B-C-D-E_58
+  - first:
+      213: -4482769276095940522
+    second: Outside_Stuff_TILESET_B-C-D-E_59
+  - first:
+      213: -1252253512507415238
+    second: Outside_Stuff_TILESET_B-C-D-E_60
+  - first:
+      213: -463396174107571502
+    second: Outside_Stuff_TILESET_B-C-D-E_61
+  - first:
+      213: 4112136008325290254
+    second: Outside_Stuff_TILESET_B-C-D-E_62
+  - first:
+      213: -2575300485729251272
+    second: Outside_Stuff_TILESET_B-C-D-E_63
+  - first:
+      213: 5205410500357121101
+    second: Outside_Stuff_TILESET_B-C-D-E_64
+  - first:
+      213: 5507969391577586064
+    second: Outside_Stuff_TILESET_B-C-D-E_65
+  - first:
+      213: 2588016081373318323
+    second: Outside_Stuff_TILESET_B-C-D-E_66
+  - first:
+      213: -7736673243813367879
+    second: Outside_Stuff_TILESET_B-C-D-E_67
+  - first:
+      213: -7481664745118745687
+    second: Outside_Stuff_TILESET_B-C-D-E_68
+  - first:
+      213: 3696556438381941633
+    second: Outside_Stuff_TILESET_B-C-D-E_69
+  - first:
+      213: 4455813909771482672
+    second: Outside_Stuff_TILESET_B-C-D-E_70
+  - first:
+      213: -8356683312429375676
+    second: Outside_Stuff_TILESET_B-C-D-E_71
+  - first:
+      213: 2705793576575032702
+    second: Outside_Stuff_TILESET_B-C-D-E_72
+  - first:
+      213: -703805287040424991
+    second: Outside_Stuff_TILESET_B-C-D-E_73
+  - first:
+      213: 8685918069395702342
+    second: Outside_Stuff_TILESET_B-C-D-E_74
+  - first:
+      213: 2450386872287647680
+    second: Outside_Stuff_TILESET_B-C-D-E_75
+  - first:
+      213: -7864658519925460837
+    second: Outside_Stuff_TILESET_B-C-D-E_76
+  - first:
+      213: -8755871334518333215
+    second: Outside_Stuff_TILESET_B-C-D-E_77
+  - first:
+      213: -7169382406654313400
+    second: Outside_Stuff_TILESET_B-C-D-E_78
+  - first:
+      213: -4793519695254206237
+    second: Outside_Stuff_TILESET_B-C-D-E_79
+  - first:
+      213: 7783997081272567589
+    second: Outside_Stuff_TILESET_B-C-D-E_80
+  - first:
+      213: 3189233717335780202
+    second: Outside_Stuff_TILESET_B-C-D-E_81
+  - first:
+      213: -900016549839682511
+    second: Outside_Stuff_TILESET_B-C-D-E_0_0
+  - first:
+      213: -1916407358136443
+    second: Outside_Stuff_TILESET_B-C-D-E_0_1
+  - first:
+      213: 8797198308675560026
+    second: Outside_Stuff_TILESET_B-C-D-E_0_2
+  - first:
+      213: 5712679196957197945
+    second: Outside_Stuff_TILESET_B-C-D-E_0_3
+  - first:
+      213: -1037560656234185919
+    second: Outside_Stuff_TILESET_B-C-D-E_0_4
+  - first:
+      213: -1494824125091489576
+    second: Outside_Stuff_TILESET_B-C-D-E_0_5
+  - first:
+      213: 3338028093067936690
+    second: Outside_Stuff_TILESET_B-C-D-E_0_6
+  - first:
+      213: 8103965418197989160
+    second: Outside_Stuff_TILESET_B-C-D-E_0_7
+  - first:
+      213: -1573101394169384497
+    second: Outside_Stuff_TILESET_B-C-D-E_0_8
+  - first:
+      213: 1549361640952463829
+    second: Outside_Stuff_TILESET_B-C-D-E_0_9
+  - first:
+      213: 6102291693030731446
+    second: Outside_Stuff_TILESET_B-C-D-E_0_10
+  - first:
+      213: -2576548583566028496
+    second: Outside_Stuff_TILESET_B-C-D-E_0_11
+  - first:
+      213: 572477548728608650
+    second: Outside_Stuff_TILESET_B-C-D-E_0_12
+  - first:
+      213: 3907976695012801063
+    second: Outside_Stuff_TILESET_B-C-D-E_0_13
+  - first:
+      213: -6246422284818356480
+    second: Outside_Stuff_TILESET_B-C-D-E_0_14
+  - first:
+      213: 4747681556476358035
+    second: Outside_Stuff_TILESET_B-C-D-E_0_15
+  - first:
+      213: -7274431890233604802
+    second: Outside_Stuff_TILESET_B-C-D-E_1_0
+  - first:
+      213: 6171517808553948094
+    second: Outside_Stuff_TILESET_B-C-D-E_1_1
+  - first:
+      213: -7083731807550188102
+    second: Outside_Stuff_TILESET_B-C-D-E_1_2
+  - first:
+      213: -6996587568144855778
+    second: Outside_Stuff_TILESET_B-C-D-E_1_3
+  - first:
+      213: -6368165693272039905
+    second: Outside_Stuff_TILESET_B-C-D-E_1_4
+  - first:
+      213: -5497297139762732692
+    second: Outside_Stuff_TILESET_B-C-D-E_1_5
+  - first:
+      213: -778287744336161737
+    second: Outside_Stuff_TILESET_B-C-D-E_1_6
+  - first:
+      213: 7855255899380370374
+    second: Outside_Stuff_TILESET_B-C-D-E_1_7
+  - first:
+      213: -8324753343320681596
+    second: Outside_Stuff_TILESET_B-C-D-E_1_8
+  - first:
+      213: -7163860407795708973
+    second: Outside_Stuff_TILESET_B-C-D-E_1_9
+  - first:
+      213: 487544109286840846
+    second: Outside_Stuff_TILESET_B-C-D-E_1_10
+  - first:
+      213: 3017562052592570107
+    second: Outside_Stuff_TILESET_B-C-D-E_1_11
+  - first:
+      213: -1307394429426307793
+    second: Outside_Stuff_TILESET_B-C-D-E_1_12
+  - first:
+      213: -658076250850603835
+    second: Outside_Stuff_TILESET_B-C-D-E_1_13
+  - first:
+      213: -305467240646711771
+    second: Outside_Stuff_TILESET_B-C-D-E_1_14
+  - first:
+      213: 6788128272221522220
+    second: Outside_Stuff_TILESET_B-C-D-E_1_15
+  - first:
+      213: 1322545419040832124
+    second: Outside_Stuff_TILESET_B-C-D-E_2_0
+  - first:
+      213: -8713842402193760675
+    second: Outside_Stuff_TILESET_B-C-D-E_2_1
+  - first:
+      213: 8063651076253975273
+    second: Outside_Stuff_TILESET_B-C-D-E_2_2
+  - first:
+      213: -1684374262570280681
+    second: Outside_Stuff_TILESET_B-C-D-E_2_3
+  - first:
+      213: -260238020317005575
+    second: Outside_Stuff_TILESET_B-C-D-E_2_4
+  - first:
+      213: 4249926308745987256
+    second: Outside_Stuff_TILESET_B-C-D-E_2_5
+  - first:
+      213: -9089970257921771528
+    second: Outside_Stuff_TILESET_B-C-D-E_2_6
+  - first:
+      213: -7278097864940747256
+    second: Outside_Stuff_TILESET_B-C-D-E_2_7
+  - first:
+      213: -5118997712289570394
+    second: Outside_Stuff_TILESET_B-C-D-E_2_8
+  - first:
+      213: 8045435878603714295
+    second: Outside_Stuff_TILESET_B-C-D-E_2_9
+  - first:
+      213: 2469199561661547409
+    second: Outside_Stuff_TILESET_B-C-D-E_2_10
+  - first:
+      213: -6825433188422412631
+    second: Outside_Stuff_TILESET_B-C-D-E_2_11
+  - first:
+      213: 2974973084666000023
+    second: Outside_Stuff_TILESET_B-C-D-E_2_12
+  - first:
+      213: 8755709793481761545
+    second: Outside_Stuff_TILESET_B-C-D-E_2_13
+  - first:
+      213: -2086306275265623058
+    second: Outside_Stuff_TILESET_B-C-D-E_2_14
+  - first:
+      213: 7553209693380724062
+    second: Outside_Stuff_TILESET_B-C-D-E_2_15
+  - first:
+      213: 7956910767068886059
+    second: Outside_Stuff_TILESET_B-C-D-E_3_0
+  - first:
+      213: 7936836449969341159
+    second: Outside_Stuff_TILESET_B-C-D-E_3_1
+  - first:
+      213: 4418489049411138062
+    second: Outside_Stuff_TILESET_B-C-D-E_3_2
+  - first:
+      213: -4069682756035573580
+    second: Outside_Stuff_TILESET_B-C-D-E_3_3
+  - first:
+      213: -3579564787730234131
+    second: Outside_Stuff_TILESET_B-C-D-E_3_4
+  - first:
+      213: 7705001533617870119
+    second: Outside_Stuff_TILESET_B-C-D-E_3_5
+  - first:
+      213: -6494709873685931990
+    second: Outside_Stuff_TILESET_B-C-D-E_3_6
+  - first:
+      213: 7664026572680392606
+    second: Outside_Stuff_TILESET_B-C-D-E_3_7
+  - first:
+      213: -7904633670364620294
+    second: Outside_Stuff_TILESET_B-C-D-E_3_8
+  - first:
+      213: 5285429709040712844
+    second: Outside_Stuff_TILESET_B-C-D-E_3_9
+  - first:
+      213: -4924465643044315692
+    second: Outside_Stuff_TILESET_B-C-D-E_3_10
+  - first:
+      213: 961558996416171669
+    second: Outside_Stuff_TILESET_B-C-D-E_3_11
+  - first:
+      213: 7731544139731699625
+    second: Outside_Stuff_TILESET_B-C-D-E_3_12
+  - first:
+      213: -5537851960970956391
+    second: Outside_Stuff_TILESET_B-C-D-E_3_13
+  - first:
+      213: -7001893010950949080
+    second: Outside_Stuff_TILESET_B-C-D-E_3_14
+  - first:
+      213: 1754615569546329839
+    second: Outside_Stuff_TILESET_B-C-D-E_3_15
+  - first:
+      213: 7283137510377493377
+    second: Outside_Stuff_TILESET_B-C-D-E_4_0
+  - first:
+      213: -7549189735775231689
+    second: Outside_Stuff_TILESET_B-C-D-E_4_1
+  - first:
+      213: 4053715868199192188
+    second: Outside_Stuff_TILESET_B-C-D-E_4_2
+  - first:
+      213: -1155125056623728844
+    second: Outside_Stuff_TILESET_B-C-D-E_4_3
+  - first:
+      213: -4652308918643549119
+    second: Outside_Stuff_TILESET_B-C-D-E_4_4
+  - first:
+      213: -765723422309124123
+    second: Outside_Stuff_TILESET_B-C-D-E_4_5
+  - first:
+      213: -8397537334400267300
+    second: Outside_Stuff_TILESET_B-C-D-E_4_6
+  - first:
+      213: -6365223579237068535
+    second: Outside_Stuff_TILESET_B-C-D-E_4_7
+  - first:
+      213: 2684957046476057132
+    second: Outside_Stuff_TILESET_B-C-D-E_4_8
+  - first:
+      213: 7509878920664152369
+    second: Outside_Stuff_TILESET_B-C-D-E_4_9
+  - first:
+      213: -8657414665552717608
+    second: Outside_Stuff_TILESET_B-C-D-E_4_10
+  - first:
+      213: -2636127466803699984
+    second: Outside_Stuff_TILESET_B-C-D-E_4_11
+  - first:
+      213: -3389972875362250828
+    second: Outside_Stuff_TILESET_B-C-D-E_4_12
+  - first:
+      213: 2491611469447276885
+    second: Outside_Stuff_TILESET_B-C-D-E_4_13
+  - first:
+      213: 5357238827890289368
+    second: Outside_Stuff_TILESET_B-C-D-E_4_14
+  - first:
+      213: 4682950297224289761
+    second: Outside_Stuff_TILESET_B-C-D-E_4_15
+  - first:
+      213: 6768420660617208926
+    second: Outside_Stuff_TILESET_B-C-D-E_5_0
+  - first:
+      213: -6180398129832717776
+    second: Outside_Stuff_TILESET_B-C-D-E_5_1
+  - first:
+      213: 8532720031755998983
+    second: Outside_Stuff_TILESET_B-C-D-E_5_2
+  - first:
+      213: -3526994053919143176
+    second: Outside_Stuff_TILESET_B-C-D-E_5_3
+  - first:
+      213: 3251886729365207787
+    second: Outside_Stuff_TILESET_B-C-D-E_5_4
+  - first:
+      213: 24003883558812287
+    second: Outside_Stuff_TILESET_B-C-D-E_5_5
+  - first:
+      213: 1072275298525977323
+    second: Outside_Stuff_TILESET_B-C-D-E_5_6
+  - first:
+      213: -5018617917537231816
+    second: Outside_Stuff_TILESET_B-C-D-E_5_7
+  - first:
+      213: 5297683254205649456
+    second: Outside_Stuff_TILESET_B-C-D-E_5_8
+  - first:
+      213: -3177375644382349591
+    second: Outside_Stuff_TILESET_B-C-D-E_5_9
+  - first:
+      213: -4538662258135572710
+    second: Outside_Stuff_TILESET_B-C-D-E_5_10
+  - first:
+      213: -6933239464795657355
+    second: Outside_Stuff_TILESET_B-C-D-E_5_11
+  - first:
+      213: 5466028361012969283
+    second: Outside_Stuff_TILESET_B-C-D-E_5_12
+  - first:
+      213: -4490072880884081708
+    second: Outside_Stuff_TILESET_B-C-D-E_5_13
+  - first:
+      213: 2352956264889792202
+    second: Outside_Stuff_TILESET_B-C-D-E_5_14
+  - first:
+      213: 153897542378256187
+    second: Outside_Stuff_TILESET_B-C-D-E_5_15
+  - first:
+      213: 7286364038234292018
+    second: Outside_Stuff_TILESET_B-C-D-E_6_0
+  - first:
+      213: -4189632137433281173
+    second: Outside_Stuff_TILESET_B-C-D-E_6_1
+  - first:
+      213: 581097824576363353
+    second: Outside_Stuff_TILESET_B-C-D-E_6_2
+  - first:
+      213: 4748672743786521467
+    second: Outside_Stuff_TILESET_B-C-D-E_6_3
+  - first:
+      213: -6389291206170189288
+    second: Outside_Stuff_TILESET_B-C-D-E_6_4
+  - first:
+      213: 2430389693279281
+    second: Outside_Stuff_TILESET_B-C-D-E_6_5
+  - first:
+      213: -5614447671412847766
+    second: Outside_Stuff_TILESET_B-C-D-E_6_6
+  - first:
+      213: -7845970383484998391
+    second: Outside_Stuff_TILESET_B-C-D-E_6_7
+  - first:
+      213: 2134727619095196854
+    second: Outside_Stuff_TILESET_B-C-D-E_6_8
+  - first:
+      213: 3871532724760428959
+    second: Outside_Stuff_TILESET_B-C-D-E_6_9
+  - first:
+      213: 3374968118270957506
+    second: Outside_Stuff_TILESET_B-C-D-E_6_10
+  - first:
+      213: -5984418400322015575
+    second: Outside_Stuff_TILESET_B-C-D-E_6_11
+  - first:
+      213: 4725476051823258404
+    second: Outside_Stuff_TILESET_B-C-D-E_6_12
+  - first:
+      213: -8376110354911283748
+    second: Outside_Stuff_TILESET_B-C-D-E_6_13
+  - first:
+      213: -6463903168501518494
+    second: Outside_Stuff_TILESET_B-C-D-E_6_14
+  - first:
+      213: 6882516973720237286
+    second: Outside_Stuff_TILESET_B-C-D-E_6_15
+  - first:
+      213: -1819802274666002585
+    second: Outside_Stuff_TILESET_B-C-D-E_7_0
+  - first:
+      213: 3156319211895749566
+    second: Outside_Stuff_TILESET_B-C-D-E_7_1
+  - first:
+      213: -7098887118452500162
+    second: Outside_Stuff_TILESET_B-C-D-E_7_2
+  - first:
+      213: 4281084093853354503
+    second: Outside_Stuff_TILESET_B-C-D-E_7_3
+  - first:
+      213: 7484401334415655725
+    second: Outside_Stuff_TILESET_B-C-D-E_7_4
+  - first:
+      213: 7139836212417623022
+    second: Outside_Stuff_TILESET_B-C-D-E_7_5
+  - first:
+      213: -5998027114781224489
+    second: Outside_Stuff_TILESET_B-C-D-E_7_6
+  - first:
+      213: 8508417958625018109
+    second: Outside_Stuff_TILESET_B-C-D-E_7_7
+  - first:
+      213: -5274519414326501405
+    second: Outside_Stuff_TILESET_B-C-D-E_7_8
+  - first:
+      213: 5429548625606806390
+    second: Outside_Stuff_TILESET_B-C-D-E_7_9
+  - first:
+      213: -5683093181485170253
+    second: Outside_Stuff_TILESET_B-C-D-E_7_10
+  - first:
+      213: 2264142841984223999
+    second: Outside_Stuff_TILESET_B-C-D-E_7_11
+  - first:
+      213: -2067279896905021771
+    second: Outside_Stuff_TILESET_B-C-D-E_7_12
+  - first:
+      213: -427597246194172165
+    second: Outside_Stuff_TILESET_B-C-D-E_7_13
+  - first:
+      213: -5843894035917107229
+    second: Outside_Stuff_TILESET_B-C-D-E_7_14
+  - first:
+      213: -1671598268833468720
+    second: Outside_Stuff_TILESET_B-C-D-E_7_15
+  - first:
+      213: -3863373936899298506
+    second: Outside_Stuff_TILESET_B-C-D-E_8_0
+  - first:
+      213: 5464984261301251555
+    second: Outside_Stuff_TILESET_B-C-D-E_8_1
+  - first:
+      213: 1791399109089532621
+    second: Outside_Stuff_TILESET_B-C-D-E_8_2
+  - first:
+      213: -9039169323744026433
+    second: Outside_Stuff_TILESET_B-C-D-E_8_3
+  - first:
+      213: 6088100303730074688
+    second: Outside_Stuff_TILESET_B-C-D-E_8_4
+  - first:
+      213: 2113015620607794168
+    second: Outside_Stuff_TILESET_B-C-D-E_8_5
+  - first:
+      213: -5354085376349846055
+    second: Outside_Stuff_TILESET_B-C-D-E_8_6
+  - first:
+      213: 8406163675240235726
+    second: Outside_Stuff_TILESET_B-C-D-E_8_7
+  - first:
+      213: -5065971278888032020
+    second: Outside_Stuff_TILESET_B-C-D-E_8_8
+  - first:
+      213: -1805974544531814137
+    second: Outside_Stuff_TILESET_B-C-D-E_8_9
+  - first:
+      213: -4945054469508266539
+    second: Outside_Stuff_TILESET_B-C-D-E_8_10
+  - first:
+      213: 8483298535558812210
+    second: Outside_Stuff_TILESET_B-C-D-E_8_11
+  - first:
+      213: -5706609870698609229
+    second: Outside_Stuff_TILESET_B-C-D-E_8_12
+  - first:
+      213: 4262867357752717269
+    second: Outside_Stuff_TILESET_B-C-D-E_8_13
+  - first:
+      213: 7022861526009583100
+    second: Outside_Stuff_TILESET_B-C-D-E_8_14
+  - first:
+      213: 4798700725388064123
+    second: Outside_Stuff_TILESET_B-C-D-E_8_15
+  - first:
+      213: 6325586527835548763
+    second: Outside_Stuff_TILESET_B-C-D-E_9_0
+  - first:
+      213: 7983711297748337156
+    second: Outside_Stuff_TILESET_B-C-D-E_9_1
+  - first:
+      213: 966283349314768023
+    second: Outside_Stuff_TILESET_B-C-D-E_9_2
+  - first:
+      213: -2475831297506965058
+    second: Outside_Stuff_TILESET_B-C-D-E_9_3
+  - first:
+      213: 5778819029719981829
+    second: Outside_Stuff_TILESET_B-C-D-E_9_4
+  - first:
+      213: -8853869888439993006
+    second: Outside_Stuff_TILESET_B-C-D-E_9_5
+  - first:
+      213: -2767131601276781085
+    second: Outside_Stuff_TILESET_B-C-D-E_9_6
+  - first:
+      213: 2429233519170534668
+    second: Outside_Stuff_TILESET_B-C-D-E_9_7
+  - first:
+      213: 5927431010345198449
+    second: Outside_Stuff_TILESET_B-C-D-E_9_8
+  - first:
+      213: -1082716505952544023
+    second: Outside_Stuff_TILESET_B-C-D-E_9_9
+  - first:
+      213: -245263143218084473
+    second: Outside_Stuff_TILESET_B-C-D-E_9_10
+  - first:
+      213: 3335383923576373440
+    second: Outside_Stuff_TILESET_B-C-D-E_9_11
+  - first:
+      213: 1183907716552704461
+    second: Outside_Stuff_TILESET_B-C-D-E_9_12
+  - first:
+      213: 6843383967543595687
+    second: Outside_Stuff_TILESET_B-C-D-E_9_13
+  - first:
+      213: 2606546399571285193
+    second: Outside_Stuff_TILESET_B-C-D-E_9_14
+  - first:
+      213: 4562313403394290454
+    second: Outside_Stuff_TILESET_B-C-D-E_9_15
+  - first:
+      213: -8859738646589836277
+    second: Outside_Stuff_TILESET_B-C-D-E_10_0
+  - first:
+      213: -2577693957823898539
+    second: Outside_Stuff_TILESET_B-C-D-E_10_1
+  - first:
+      213: 2521848938368663813
+    second: Outside_Stuff_TILESET_B-C-D-E_10_2
+  - first:
+      213: -4849644253048327209
+    second: Outside_Stuff_TILESET_B-C-D-E_10_3
+  - first:
+      213: -3735172442766350961
+    second: Outside_Stuff_TILESET_B-C-D-E_10_4
+  - first:
+      213: -6191545581751869302
+    second: Outside_Stuff_TILESET_B-C-D-E_10_5
+  - first:
+      213: 1098479203466547549
+    second: Outside_Stuff_TILESET_B-C-D-E_10_6
+  - first:
+      213: -4127915751955744611
+    second: Outside_Stuff_TILESET_B-C-D-E_10_7
+  - first:
+      213: 1933689846453412844
+    second: Outside_Stuff_TILESET_B-C-D-E_10_8
+  - first:
+      213: 7241576066637614406
+    second: Outside_Stuff_TILESET_B-C-D-E_10_9
+  - first:
+      213: -9140797082526249593
+    second: Outside_Stuff_TILESET_B-C-D-E_10_10
+  - first:
+      213: -3364968166765368700
+    second: Outside_Stuff_TILESET_B-C-D-E_10_11
+  - first:
+      213: -5903023727808378671
+    second: Outside_Stuff_TILESET_B-C-D-E_10_12
+  - first:
+      213: 4195087886152018769
+    second: Outside_Stuff_TILESET_B-C-D-E_10_13
+  - first:
+      213: 7456095396610666935
+    second: Outside_Stuff_TILESET_B-C-D-E_10_14
+  - first:
+      213: 7708329218262912468
+    second: Outside_Stuff_TILESET_B-C-D-E_10_15
+  - first:
+      213: -7192712527440832395
+    second: Outside_Stuff_TILESET_B-C-D-E_11_0
+  - first:
+      213: 578719432781687234
+    second: Outside_Stuff_TILESET_B-C-D-E_11_1
+  - first:
+      213: -3961714550552815449
+    second: Outside_Stuff_TILESET_B-C-D-E_11_2
+  - first:
+      213: 375313528438098238
+    second: Outside_Stuff_TILESET_B-C-D-E_11_3
+  - first:
+      213: 7970992497274256056
+    second: Outside_Stuff_TILESET_B-C-D-E_11_4
+  - first:
+      213: -5223006629304802931
+    second: Outside_Stuff_TILESET_B-C-D-E_11_5
+  - first:
+      213: 2166331127782421200
+    second: Outside_Stuff_TILESET_B-C-D-E_11_6
+  - first:
+      213: -2375577333918972938
+    second: Outside_Stuff_TILESET_B-C-D-E_11_7
+  - first:
+      213: 5197221538214860903
+    second: Outside_Stuff_TILESET_B-C-D-E_11_8
+  - first:
+      213: -6486442472325131900
+    second: Outside_Stuff_TILESET_B-C-D-E_11_9
+  - first:
+      213: 9136430474154926207
+    second: Outside_Stuff_TILESET_B-C-D-E_11_10
+  - first:
+      213: -4819989346918328293
+    second: Outside_Stuff_TILESET_B-C-D-E_11_11
+  - first:
+      213: 4505887164059007737
+    second: Outside_Stuff_TILESET_B-C-D-E_11_12
+  - first:
+      213: -7730515703428675000
+    second: Outside_Stuff_TILESET_B-C-D-E_11_13
+  - first:
+      213: 3763017367453319525
+    second: Outside_Stuff_TILESET_B-C-D-E_11_14
+  - first:
+      213: 2393314853796098352
+    second: Outside_Stuff_TILESET_B-C-D-E_11_15
+  - first:
+      213: -2389435345020858818
+    second: Outside_Stuff_TILESET_B-C-D-E_12_0
+  - first:
+      213: -514075177289406762
+    second: Outside_Stuff_TILESET_B-C-D-E_12_1
+  - first:
+      213: 2937007405592355062
+    second: Outside_Stuff_TILESET_B-C-D-E_12_2
+  - first:
+      213: 5178385930472571461
+    second: Outside_Stuff_TILESET_B-C-D-E_12_3
+  - first:
+      213: -8279006621674256854
+    second: Outside_Stuff_TILESET_B-C-D-E_12_4
+  - first:
+      213: -8093486935143508571
+    second: Outside_Stuff_TILESET_B-C-D-E_12_5
+  - first:
+      213: 1143782567259839136
+    second: Outside_Stuff_TILESET_B-C-D-E_12_6
+  - first:
+      213: -8482124071942350696
+    second: Outside_Stuff_TILESET_B-C-D-E_12_7
+  - first:
+      213: -5689775439892641423
+    second: Outside_Stuff_TILESET_B-C-D-E_12_8
+  - first:
+      213: 7134374311692018699
+    second: Outside_Stuff_TILESET_B-C-D-E_12_9
+  - first:
+      213: -4370297112346400330
+    second: Outside_Stuff_TILESET_B-C-D-E_12_10
+  - first:
+      213: -7197310439833970821
+    second: Outside_Stuff_TILESET_B-C-D-E_12_11
+  - first:
+      213: 1000839440038863370
+    second: Outside_Stuff_TILESET_B-C-D-E_12_12
+  - first:
+      213: -1186867828503375820
+    second: Outside_Stuff_TILESET_B-C-D-E_12_13
+  - first:
+      213: -3723730881555655373
+    second: Outside_Stuff_TILESET_B-C-D-E_12_14
+  - first:
+      213: 5592341934477267195
+    second: Outside_Stuff_TILESET_B-C-D-E_12_15
+  - first:
+      213: -2084545476955124363
+    second: Outside_Stuff_TILESET_B-C-D-E_13_0
+  - first:
+      213: 1501520880210219932
+    second: Outside_Stuff_TILESET_B-C-D-E_13_1
+  - first:
+      213: 2813683475054259142
+    second: Outside_Stuff_TILESET_B-C-D-E_13_2
+  - first:
+      213: 3172880534952039184
+    second: Outside_Stuff_TILESET_B-C-D-E_13_3
+  - first:
+      213: 6698297808750097684
+    second: Outside_Stuff_TILESET_B-C-D-E_13_4
+  - first:
+      213: -1482562551097028658
+    second: Outside_Stuff_TILESET_B-C-D-E_13_5
+  - first:
+      213: -5268339235432170529
+    second: Outside_Stuff_TILESET_B-C-D-E_13_6
+  - first:
+      213: -1249192990062891990
+    second: Outside_Stuff_TILESET_B-C-D-E_13_7
+  - first:
+      213: -937471333346619466
+    second: Outside_Stuff_TILESET_B-C-D-E_13_8
+  - first:
+      213: -8580813357204048620
+    second: Outside_Stuff_TILESET_B-C-D-E_13_9
+  - first:
+      213: -9157406104159050046
+    second: Outside_Stuff_TILESET_B-C-D-E_13_10
+  - first:
+      213: 2190671661989275892
+    second: Outside_Stuff_TILESET_B-C-D-E_13_11
+  - first:
+      213: 7936805207818326768
+    second: Outside_Stuff_TILESET_B-C-D-E_13_12
+  - first:
+      213: 7195665349531333678
+    second: Outside_Stuff_TILESET_B-C-D-E_13_13
+  - first:
+      213: 8001839337359896411
+    second: Outside_Stuff_TILESET_B-C-D-E_13_14
+  - first:
+      213: -2952113934457689738
+    second: Outside_Stuff_TILESET_B-C-D-E_13_15
+  - first:
+      213: 7509739214786842325
+    second: Outside_Stuff_TILESET_B-C-D-E_14_0
+  - first:
+      213: -2370989074409726511
+    second: Outside_Stuff_TILESET_B-C-D-E_14_1
+  - first:
+      213: 3419847052333025941
+    second: Outside_Stuff_TILESET_B-C-D-E_14_2
+  - first:
+      213: 7111125018168566019
+    second: Outside_Stuff_TILESET_B-C-D-E_14_3
+  - first:
+      213: -8168010846434555536
+    second: Outside_Stuff_TILESET_B-C-D-E_14_4
+  - first:
+      213: -8998310915282895135
+    second: Outside_Stuff_TILESET_B-C-D-E_14_5
+  - first:
+      213: -8471238300190797897
+    second: Outside_Stuff_TILESET_B-C-D-E_14_6
+  - first:
+      213: 4536253863732788554
+    second: Outside_Stuff_TILESET_B-C-D-E_14_7
+  - first:
+      213: -7006083214716987952
+    second: Outside_Stuff_TILESET_B-C-D-E_14_8
+  - first:
+      213: -1177326876814516729
+    second: Outside_Stuff_TILESET_B-C-D-E_14_9
+  - first:
+      213: -1229415276190792020
+    second: Outside_Stuff_TILESET_B-C-D-E_14_10
+  - first:
+      213: 6937158108030258088
+    second: Outside_Stuff_TILESET_B-C-D-E_14_11
+  - first:
+      213: 7712534844902229273
+    second: Outside_Stuff_TILESET_B-C-D-E_14_12
+  - first:
+      213: 5658582816605557927
+    second: Outside_Stuff_TILESET_B-C-D-E_14_13
+  - first:
+      213: -8658210180345793387
+    second: Outside_Stuff_TILESET_B-C-D-E_14_14
+  - first:
+      213: -5895240915974372533
+    second: Outside_Stuff_TILESET_B-C-D-E_14_15
+  - first:
+      213: -5877518303360682424
+    second: Outside_Stuff_TILESET_B-C-D-E_15_0
+  - first:
+      213: -8361482388158741708
+    second: Outside_Stuff_TILESET_B-C-D-E_15_1
+  - first:
+      213: -7431181867704414615
+    second: Outside_Stuff_TILESET_B-C-D-E_15_2
+  - first:
+      213: 2640389411364113026
+    second: Outside_Stuff_TILESET_B-C-D-E_15_3
+  - first:
+      213: 424176572641268330
+    second: Outside_Stuff_TILESET_B-C-D-E_15_4
+  - first:
+      213: 6192033494784930706
+    second: Outside_Stuff_TILESET_B-C-D-E_15_5
+  - first:
+      213: 7678641723792897993
+    second: Outside_Stuff_TILESET_B-C-D-E_15_6
+  - first:
+      213: -8253950937903182968
+    second: Outside_Stuff_TILESET_B-C-D-E_15_7
+  - first:
+      213: -6859003106464750945
+    second: Outside_Stuff_TILESET_B-C-D-E_15_8
+  - first:
+      213: -4335545589789894805
+    second: Outside_Stuff_TILESET_B-C-D-E_15_9
+  - first:
+      213: 8329600110559438344
+    second: Outside_Stuff_TILESET_B-C-D-E_15_10
+  - first:
+      213: -41482829370418625
+    second: Outside_Stuff_TILESET_B-C-D-E_15_11
+  - first:
+      213: -6796232480190497325
+    second: Outside_Stuff_TILESET_B-C-D-E_15_12
+  - first:
+      213: -2748959395437047626
+    second: Outside_Stuff_TILESET_B-C-D-E_15_13
+  - first:
+      213: -3889474662241222146
+    second: Outside_Stuff_TILESET_B-C-D-E_15_14
+  - first:
+      213: -1801018057493645485
+    second: Outside_Stuff_TILESET_B-C-D-E_15_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13445d667bf7283f0800000000000000
+      internalID: -900016549839682511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f5c24a90139fff0800000000000000
+      internalID: -1916407358136443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52264f804de51a70800000000000000
+      internalID: 8797198308675560026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976c56a6673874f40800000000000000
+      internalID: 5712679196957197945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7d349418d991f0800000000000000
+      internalID: -1037560656234185919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8dc3ec061514be0800000000000000
+      internalID: -1494824125091489576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c6917dde035e20800000000000000
+      internalID: 3338028093067936690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827bdb77c91177070800000000000000
+      internalID: 8103965418197989160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1bcdcdd983b2ae0800000000000000
+      internalID: -1573101394169384497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1869d1430708510800000000000000
+      internalID: 1549361640952463829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee9e6a6f1bfa450800000000000000
+      internalID: 6102291693030731446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031d202e6b24e3cd0800000000000000
+      internalID: -2576548583566028496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ead52c49d1f700800000000000000
+      internalID: 572477548728608650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3eb8491ceb3630800000000000000
+      internalID: 3907976695012801063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0076154e6004059a0800000000000000
+      internalID: -6246422284818356480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_0_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6278a83723e140800000000000000
+      internalID: 4747681556476358035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e354ad7ccb60c0b90800000000000000
+      internalID: -7274431890233604802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3fadfafb2a5a550800000000000000
+      internalID: 6171517808553948094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d5d6c37781bd90800000000000000
+      internalID: -7083731807550188102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dcfc02da027ee90800000000000000
+      internalID: -6996587568144855778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed0bdba0bbf97a0800000000000000
+      internalID: -6368165693272039905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61eba7906da5b3b0800000000000000
+      internalID: -5497297139762732692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349dc98b67f235f0800000000000000
+      internalID: -778287744336161737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbcb5e1f99730d60800000000000000
+      internalID: 7855255899380370374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48310a0d0f8887c80800000000000000
+      internalID: -8324753343320681596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0ad43aead49c90800000000000000
+      internalID: -7163860407795708973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a5066c8ca14c600800000000000000
+      internalID: 487544109286840846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe8a78f2b880e920800000000000000
+      internalID: 3017562052592570107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d68bc71b33bdde0800000000000000
+      internalID: -1307394429426307793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cccde0f22b0ed6f0800000000000000
+      internalID: -658076250850603835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526ebbeb923c2cbf0800000000000000
+      internalID: -305467240646711771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_1_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29cc83d2b6443e50800000000000000
+      internalID: 6788128272221522220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7abf3d2d00aa5210800000000000000
+      internalID: 1322545419040832124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e118cc086321780800000000000000
+      internalID: -8713842402193760675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e280d84ee7d7ef60800000000000000
+      internalID: 8063651076253975273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71910ba4886ef98e0800000000000000
+      internalID: -1684374262570280681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f834f936e2736cf0800000000000000
+      internalID: -260238020317005575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44462f575cafa30800000000000000
+      internalID: 4249926308745987256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7f4bd0630f9d180800000000000000
+      internalID: -9089970257921771528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068da78d800ffa90800000000000000
+      internalID: -7278097864940747256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a161f8c3baa5f8b0800000000000000
+      internalID: -5118997712289570394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe6b571e4127af60800000000000000
+      internalID: 8045435878603714295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19303604beb544220800000000000000
+      internalID: 2469199561661547409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a69be58da03741a0800000000000000
+      internalID: -6825433188422412631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7927dd7224a394920800000000000000
+      internalID: 2974973084666000023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903a3ecdaa7828970800000000000000
+      internalID: 8755709793481761545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcf121f73fb03e0800000000000000
+      internalID: -2086306275265623058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_2_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55ceff823462d860800000000000000
+      internalID: 7553209693380724062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243f946f20ac6e60800000000000000
+      internalID: 7956910767068886059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28bc833be452e60800000000000000
+      internalID: 7936836449969341159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02ba1a5160a15d30800000000000000
+      internalID: 4418489049411138062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b887f178159587c0800000000000000
+      internalID: -4069682756035573580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c7d87ac4d25ec0800000000000000
+      internalID: -3579564787730234131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725122d621aadea60800000000000000
+      internalID: 7705001533617870119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a285ab3c7c72ed5a0800000000000000
+      internalID: -6494709873685931990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fe4c5ef871c5a60800000000000000
+      internalID: 7664026572680392606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9135eae891d4290800000000000000
+      internalID: -7904633670364620294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cfaa4215e995940800000000000000
+      internalID: 5285429709040712844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd5abda698c8abb0800000000000000
+      internalID: -4924465643044315692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e87fb00d4285d00800000000000000
+      internalID: 961558996416171669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a706fd7e66fb4b60800000000000000
+      internalID: 7731544139731699625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99130a77bf89523b0800000000000000
+      internalID: -5537851960970956391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8277af6776744de90800000000000000
+      internalID: -7001893010950949080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_3_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feebd2c6095a95810800000000000000
+      internalID: 1754615569546329839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1839f5c5af6e21560800000000000000
+      internalID: 7283137510377493377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a711cee3eb3790800000000000000
+      internalID: -7549189735775231689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c768068ca11b14830800000000000000
+      internalID: 4053715868199192188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4372ac091eb28ffe0800000000000000
+      internalID: -1155125056623728844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9edeffadaf6fb0800000000000000
+      internalID: -4652308918643549119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e77119ba9a9f55f0800000000000000
+      internalID: -765723422309124123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbcdf25944f57b80800000000000000
+      internalID: -8397537334400267300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90152ab01ee2aa7a0800000000000000
+      internalID: -6365223579237068535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a23605532e24520800000000000000
+      internalID: 2684957046476057132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139716cd613783860800000000000000
+      internalID: 7509878920664152369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8197a0b3faad780800000000000000
+      internalID: -8657414665552717608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fed38629089a6bd0800000000000000
+      internalID: -2636127466803699984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfc2d571a564f0d0800000000000000
+      internalID: -3389972875362250828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a1ba2e6bf39220800000000000000
+      internalID: 2491611469447276885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa451845cb85a40800000000000000
+      internalID: 5357238827890289368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_4_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1dd6eb7e2df040800000000000000
+      internalID: 4682950297224289761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54e08eeab24eed50800000000000000
+      internalID: 6768420660617208926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03215d465a0da3aa0800000000000000
+      internalID: -6180398129832717776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071dac19af4a6670800000000000000
+      internalID: 8532720031755998983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa0c3348999d0fc0800000000000000
+      internalID: -3526994053919143176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beabe9940c5012d20800000000000000
+      internalID: 3251886729365207787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ab0c8a767455000800000000000000
+      internalID: 24003883558812287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea111ee3bc71ee00800000000000000
+      internalID: 1072275298525977323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c58c108994a5ab0800000000000000
+      internalID: -5018617917537231816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0329673f9d6258940800000000000000
+      internalID: 5297683254205649456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6bc969fa1b7e3d0800000000000000
+      internalID: -3177375644382349591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f5b5c19be6301c0800000000000000
+      internalID: -4538662258135572710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ba22ec07f28cf90800000000000000
+      internalID: -6933239464795657355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f736685db3bdb40800000000000000
+      internalID: 5466028361012969283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db1a47118e00b1c0800000000000000
+      internalID: -4490072880884081708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac639c4a14167a020800000000000000
+      internalID: 2352956264889792202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_5_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f249dff0c22200800000000000000
+      internalID: 153897542378256187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb22bec7d5e1560800000000000000
+      internalID: 7286364038234292018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d8ab4c4cf6bd5c0800000000000000
+      internalID: -4189632137433281173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b50a58469701800800000000000000
+      internalID: 581097824576363353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a9ff63bca6e140800000000000000
+      internalID: 4748672743786521467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e2b9ff7da457a0800000000000000
+      internalID: -6389291206170189288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c65523d62a80000800000000000000
+      internalID: 2430389693279281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0b67e6997512b0800000000000000
+      internalID: -5614447671412847766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d242681838d1390800000000000000
+      internalID: -7845970383484998391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47264957310ad10800000000000000
+      internalID: 2134727619095196854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9145ab30827ab530800000000000000
+      internalID: 3871532724760428959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c71fc94f9b46de20800000000000000
+      internalID: 3374968118270957506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aeae75fb2313fca0800000000000000
+      internalID: -5984418400322015575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6a87be63449140800000000000000
+      internalID: 4725476051823258404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ba00c20412cb80800000000000000
+      internalID: -8376110354911283748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe1f2c05a9b46a0800000000000000
+      internalID: -6463903168501518494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_6_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4f033f8bc938f50800000000000000
+      internalID: 6882516973720237286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c5111973ceb6e0800000000000000
+      internalID: -1819802274666002585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb79cea99f7dcb20800000000000000
+      internalID: 3156319211895749566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39da0cf6cfab7d90800000000000000
+      internalID: -7098887118452500162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a44bb1d47796b30800000000000000
+      internalID: 4281084093853354503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d230e4e0c5fedd760800000000000000
+      internalID: 7484401334415655725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee37f9be43bc51360800000000000000
+      internalID: 7139836212417623022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1dd463e1ab2cca0800000000000000
+      internalID: -5998027114781224489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df00668cd09f31670800000000000000
+      internalID: 8508417958625018109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efda2cc9842dc6b0800000000000000
+      internalID: -5274519414326501405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b010045b1a95b40800000000000000
+      internalID: 5429548625606806390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1c12c9cd89121b0800000000000000
+      internalID: -5683093181485170253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa86393be9db6f10800000000000000
+      internalID: 2264142841984223999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b68badf2eb8f43e0800000000000000
+      internalID: -2067279896905021771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe39a1f19ed01af0800000000000000
+      internalID: -427597246194172165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef032c265156eea0800000000000000
+      internalID: -5843894035917107229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_7_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dee5032b3a4dc8e0800000000000000
+      internalID: -1671598268833468720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6d989fd9826ac0800000000000000
+      internalID: -3863373936899298506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed26fd1b3687db40800000000000000
+      internalID: 5464984261301251555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca9b3c9ff35cd810800000000000000
+      internalID: 1791399109089532621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb021a1446b6e8280800000000000000
+      internalID: -9039169323744026433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04467c858f64d7450800000000000000
+      internalID: 6088100303730074688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbdd2ff280f25d10800000000000000
+      internalID: 2113015620607794168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5cd85a7b772b5b0800000000000000
+      internalID: -5354085376349846055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28c7a2351b8a470800000000000000
+      internalID: 8406163675240235726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82c8766fd02b9b0800000000000000
+      internalID: -5065971278888032020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70988cf58b3efe6e0800000000000000
+      internalID: -1805974544531814137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d58006f823af5bb0800000000000000
+      internalID: -4945054469508266539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2321397521bbab570800000000000000
+      internalID: 8483298535558812210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b58549be8c0ec0b0800000000000000
+      internalID: -5706609870698609229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6577b64fb82b30800000000000000
+      internalID: 4262867357752717269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51f846957367160800000000000000
+      internalID: 7022861526009583100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_8_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753a2892e8689240800000000000000
+      internalID: 4798700725388064123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c62a3ce6ff8c750800000000000000
+      internalID: 6325586527835548763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40200933027dbce60800000000000000
+      internalID: 7983711297748337156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c084c269de86d00800000000000000
+      internalID: 966283349314768023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98d4c6d8414add0800000000000000
+      internalID: -2475831297506965058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f1abf3a4d723050800000000000000
+      internalID: 5778819029719981829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25db10c0f3cb02580800000000000000
+      internalID: -8853869888439993006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edb323387c2999d0800000000000000
+      internalID: -2767131601276781085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0db1aad30f56b120800000000000000
+      internalID: 2429233519170534668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173a24a5917724250800000000000000
+      internalID: 5927431010345198449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1f36031b69f0f0800000000000000
+      internalID: -1082716505952544023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7858dff7876a89cf0800000000000000
+      internalID: -245263143218084473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c08152c10aa94e20800000000000000
+      internalID: 3335383923576373440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1c7fbabc51e6010800000000000000
+      internalID: 1183907716552704461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a21a0fe57598fe50800000000000000
+      internalID: 6843383967543595687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4150de3205c2420800000000000000
+      internalID: 2606546399571285193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_9_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f1534ed7905f30800000000000000
+      internalID: 4562313403394290454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04763f44a2eb0580800000000000000
+      internalID: -8859738646589836277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5c38a0013a3cd0800000000000000
+      internalID: -2577693957823898539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50109a48f386ff220800000000000000
+      internalID: 2521848938368663813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d33a021f3a92bcb0800000000000000
+      internalID: -4849644253048327209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85651ef3700a2cc0800000000000000
+      internalID: -3735172442766350961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a806a0df816331aa0800000000000000
+      internalID: -6191545581751869302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5117cbf3059e3f00800000000000000
+      internalID: 1098479203466547549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9830f58e72b6b6c0800000000000000
+      internalID: -4127915751955744611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a2a39ba8d5da10800000000000000
+      internalID: 1933689846453412844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc7e9a01f3f7460800000000000000
+      internalID: 7241576066637614406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d8814cb7d552180800000000000000
+      internalID: -9140797082526249593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ae37bd74b3d41d0800000000000000
+      internalID: -3364968166765368700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88743f13f341ea0800000000000000
+      internalID: -5903023727808378671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba2a7b432f73a30800000000000000
+      internalID: 4195087886152018769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17766524f597760800000000000000
+      internalID: 7456095396610666935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_10_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4352659c79fa60800000000000000
+      internalID: 7708329218262912468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578136e901a5e2c90800000000000000
+      internalID: -7192712527440832395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c961970246080800800000000000000
+      internalID: 578719432781687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a89dc83b992509c0800000000000000
+      internalID: -3961714550552815449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3983f56aa1653500800000000000000
+      internalID: 375313528438098238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf553b177ae9e60800000000000000
+      internalID: 7970992497274256056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e6c0b4272487b0800000000000000
+      internalID: -5223006629304802931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2b759deaa501e10800000000000000
+      internalID: 2166331127782421200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34a4b4001480fd0800000000000000
+      internalID: -2375577333918972938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7685e44f37d302840800000000000000
+      internalID: 5197221538214860903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481dd0520f68bf5a0800000000000000
+      internalID: -6486442472325131900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ee0ffb1f1bce70800000000000000
+      internalID: 9136430474154926207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1814c3f935fb1db0800000000000000
+      internalID: -4819989346918328293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fabab3a080288e30800000000000000
+      internalID: 4505887164059007737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0e8efce0b7b490800000000000000
+      internalID: -7730515703428675000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5614eaebb5ce83430800000000000000
+      internalID: 3763017367453319525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_11_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031be20ed23c63120800000000000000
+      internalID: 2393314853796098352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec446a63507ded0800000000000000
+      internalID: -2389435345020858818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a1d59953add8f0800000000000000
+      internalID: -514075177289406762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02609aca852c820800000000000000
+      internalID: 2937007405592355062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c2b741925dd740800000000000000
+      internalID: 5178385930472571461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26cff5775f0b1d80800000000000000
+      internalID: -8279006621674256854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5918c73882eaf80800000000000000
+      internalID: -8093486935143508571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9ec55f288fdf00800000000000000
+      internalID: 1143782567259839136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8981617c811794a80800000000000000
+      internalID: -8482124071942350696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1790575126bd901b0800000000000000
+      internalID: -5689775439892641423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04231f03a3620360800000000000000
+      internalID: 7134374311692018699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96daf5ee59953c0800000000000000
+      internalID: -4370297112346400330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b775c77b9440e1c90800000000000000
+      internalID: -7197310439833970821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02a7b40b22b3ed00800000000000000
+      internalID: 1000839440038863370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43097be8ff5678fe0800000000000000
+      internalID: -1186867828503375820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33519bd0e76a25cc0800000000000000
+      internalID: -3723730881555655373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_12_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d9032c5dfb9d40800000000000000
+      internalID: 5592341934477267195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d41ffdee43213e0800000000000000
+      internalID: -2084545476955124363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9313cff84976d410800000000000000
+      internalID: 1501520880210219932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbeef886363c0720800000000000000
+      internalID: 2813683475054259142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01351903906580c20800000000000000
+      internalID: 3172880534952039184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415b3523e5225fc50800000000000000
+      internalID: 6698297808750097684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf8098f631ec6be0800000000000000
+      internalID: -1482562551097028658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbffc3d06913e6b0800000000000000
+      internalID: -5268339235432170529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca4631899f9aee0800000000000000
+      internalID: -1249192990062891990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf43cc0ace6df2f0800000000000000
+      internalID: -937471333346619466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415fce7f6b3dae880800000000000000
+      internalID: -8580813357204048620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c62b919aab5ae080800000000000000
+      internalID: -9157406104159050046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a2681544d66e10800000000000000
+      internalID: 2190671661989275892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25b771942352e60800000000000000
+      internalID: 7936805207818326768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24f669d2832cd360800000000000000
+      internalID: 7195665349531333678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f65155b7e3c0f60800000000000000
+      internalID: 8001839337359896411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_13_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6792b20840cf707d0800000000000000
+      internalID: -2952113934457689738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec03d0704f73860800000000000000
+      internalID: 7509739214786842325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd975bffd881fd0800000000000000
+      internalID: -2370989074409726511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a0a7466ccb57f20800000000000000
+      internalID: 3419847052333025941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a455178acfa260800000000000000
+      internalID: 7111125018168566019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790bb0496565ae80800000000000000
+      internalID: -8168010846434555536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eefa0cc5e39f1380800000000000000
+      internalID: -8998310915282895135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf817506ad107a80800000000000000
+      internalID: -8471238300190797897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d39cedad204fe30800000000000000
+      internalID: 4536253863732788554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d597ff9f6465ce90800000000000000
+      internalID: -7006083214716987952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e53fa717b49afe0800000000000000
+      internalID: -1177326876814516729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6853de15d30fee0800000000000000
+      internalID: -1229415276190792020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab4ddb6b8cb54060800000000000000
+      internalID: 6937158108030258088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9154834249d680b60800000000000000
+      internalID: 7712534844902229273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a457eb5713578e40800000000000000
+      internalID: 5658582816605557927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59471d1d6bbd7d780800000000000000
+      internalID: -8658210180345793387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_14_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43cff90f95ef2ea0800000000000000
+      internalID: -5895240915974372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84674575e3cde6ea0800000000000000
+      internalID: -5877518303360682424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330d1aa11c06fb80800000000000000
+      internalID: -8361482388158741708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e8722a6732fd890800000000000000
+      internalID: -7431181867704414615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a8f052e2c84a420800000000000000
+      internalID: 2640389411364113026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62535e685af2e500800000000000000
+      internalID: 424176572641268330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f9fd18a58ee550800000000000000
+      internalID: 6192033494784930706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c73b20f6f3009a60800000000000000
+      internalID: 7678641723792897993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b47c07a53147d80800000000000000
+      internalID: -8253950937903182968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922ed5e30defc0a0800000000000000
+      internalID: -6859003106464750945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67df0db14c05d3c0800000000000000
+      internalID: -4335545589789894805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80623fe1b2fa89370800000000000000
+      internalID: 8329600110559438344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a1913269f9c6ff0800000000000000
+      internalID: -41482829370418625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf547319eeea1a0800000000000000
+      internalID: -6796232480190497325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b090059efbb9d9d0800000000000000
+      internalID: -2748959395437047626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1ca3ae66fc50ac0800000000000000
+      internalID: -3889474662241222146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside_Stuff_TILESET_B-C-D-E_15_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f6017e9f7107e0800000000000000
+      internalID: -1801018057493645485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Outside_Stuff_TILESET_B-C-D-E_0: -8277785196587538584
+      Outside_Stuff_TILESET_B-C-D-E_0_0: -900016549839682511
+      Outside_Stuff_TILESET_B-C-D-E_0_1: -1916407358136443
+      Outside_Stuff_TILESET_B-C-D-E_0_10: 6102291693030731446
+      Outside_Stuff_TILESET_B-C-D-E_0_11: -2576548583566028496
+      Outside_Stuff_TILESET_B-C-D-E_0_12: 572477548728608650
+      Outside_Stuff_TILESET_B-C-D-E_0_13: 3907976695012801063
+      Outside_Stuff_TILESET_B-C-D-E_0_14: -6246422284818356480
+      Outside_Stuff_TILESET_B-C-D-E_0_15: 4747681556476358035
+      Outside_Stuff_TILESET_B-C-D-E_0_2: 8797198308675560026
+      Outside_Stuff_TILESET_B-C-D-E_0_3: 5712679196957197945
+      Outside_Stuff_TILESET_B-C-D-E_0_4: -1037560656234185919
+      Outside_Stuff_TILESET_B-C-D-E_0_5: -1494824125091489576
+      Outside_Stuff_TILESET_B-C-D-E_0_6: 3338028093067936690
+      Outside_Stuff_TILESET_B-C-D-E_0_7: 8103965418197989160
+      Outside_Stuff_TILESET_B-C-D-E_0_8: -1573101394169384497
+      Outside_Stuff_TILESET_B-C-D-E_0_9: 1549361640952463829
+      Outside_Stuff_TILESET_B-C-D-E_1: 973578038654906817
+      Outside_Stuff_TILESET_B-C-D-E_10: -8511842142349621249
+      Outside_Stuff_TILESET_B-C-D-E_10_0: -8859738646589836277
+      Outside_Stuff_TILESET_B-C-D-E_10_1: -2577693957823898539
+      Outside_Stuff_TILESET_B-C-D-E_10_10: -9140797082526249593
+      Outside_Stuff_TILESET_B-C-D-E_10_11: -3364968166765368700
+      Outside_Stuff_TILESET_B-C-D-E_10_12: -5903023727808378671
+      Outside_Stuff_TILESET_B-C-D-E_10_13: 4195087886152018769
+      Outside_Stuff_TILESET_B-C-D-E_10_14: 7456095396610666935
+      Outside_Stuff_TILESET_B-C-D-E_10_15: 7708329218262912468
+      Outside_Stuff_TILESET_B-C-D-E_10_2: 2521848938368663813
+      Outside_Stuff_TILESET_B-C-D-E_10_3: -4849644253048327209
+      Outside_Stuff_TILESET_B-C-D-E_10_4: -3735172442766350961
+      Outside_Stuff_TILESET_B-C-D-E_10_5: -6191545581751869302
+      Outside_Stuff_TILESET_B-C-D-E_10_6: 1098479203466547549
+      Outside_Stuff_TILESET_B-C-D-E_10_7: -4127915751955744611
+      Outside_Stuff_TILESET_B-C-D-E_10_8: 1933689846453412844
+      Outside_Stuff_TILESET_B-C-D-E_10_9: 7241576066637614406
+      Outside_Stuff_TILESET_B-C-D-E_11: 3234796736832105281
+      Outside_Stuff_TILESET_B-C-D-E_11_0: -7192712527440832395
+      Outside_Stuff_TILESET_B-C-D-E_11_1: 578719432781687234
+      Outside_Stuff_TILESET_B-C-D-E_11_10: 9136430474154926207
+      Outside_Stuff_TILESET_B-C-D-E_11_11: -4819989346918328293
+      Outside_Stuff_TILESET_B-C-D-E_11_12: 4505887164059007737
+      Outside_Stuff_TILESET_B-C-D-E_11_13: -7730515703428675000
+      Outside_Stuff_TILESET_B-C-D-E_11_14: 3763017367453319525
+      Outside_Stuff_TILESET_B-C-D-E_11_15: 2393314853796098352
+      Outside_Stuff_TILESET_B-C-D-E_11_2: -3961714550552815449
+      Outside_Stuff_TILESET_B-C-D-E_11_3: 375313528438098238
+      Outside_Stuff_TILESET_B-C-D-E_11_4: 7970992497274256056
+      Outside_Stuff_TILESET_B-C-D-E_11_5: -5223006629304802931
+      Outside_Stuff_TILESET_B-C-D-E_11_6: 2166331127782421200
+      Outside_Stuff_TILESET_B-C-D-E_11_7: -2375577333918972938
+      Outside_Stuff_TILESET_B-C-D-E_11_8: 5197221538214860903
+      Outside_Stuff_TILESET_B-C-D-E_11_9: -6486442472325131900
+      Outside_Stuff_TILESET_B-C-D-E_12: 1088277743877879133
+      Outside_Stuff_TILESET_B-C-D-E_12_0: -2389435345020858818
+      Outside_Stuff_TILESET_B-C-D-E_12_1: -514075177289406762
+      Outside_Stuff_TILESET_B-C-D-E_12_10: -4370297112346400330
+      Outside_Stuff_TILESET_B-C-D-E_12_11: -7197310439833970821
+      Outside_Stuff_TILESET_B-C-D-E_12_12: 1000839440038863370
+      Outside_Stuff_TILESET_B-C-D-E_12_13: -1186867828503375820
+      Outside_Stuff_TILESET_B-C-D-E_12_14: -3723730881555655373
+      Outside_Stuff_TILESET_B-C-D-E_12_15: 5592341934477267195
+      Outside_Stuff_TILESET_B-C-D-E_12_2: 2937007405592355062
+      Outside_Stuff_TILESET_B-C-D-E_12_3: 5178385930472571461
+      Outside_Stuff_TILESET_B-C-D-E_12_4: -8279006621674256854
+      Outside_Stuff_TILESET_B-C-D-E_12_5: -8093486935143508571
+      Outside_Stuff_TILESET_B-C-D-E_12_6: 1143782567259839136
+      Outside_Stuff_TILESET_B-C-D-E_12_7: -8482124071942350696
+      Outside_Stuff_TILESET_B-C-D-E_12_8: -5689775439892641423
+      Outside_Stuff_TILESET_B-C-D-E_12_9: 7134374311692018699
+      Outside_Stuff_TILESET_B-C-D-E_13: 5351127430063050281
+      Outside_Stuff_TILESET_B-C-D-E_13_0: -2084545476955124363
+      Outside_Stuff_TILESET_B-C-D-E_13_1: 1501520880210219932
+      Outside_Stuff_TILESET_B-C-D-E_13_10: -9157406104159050046
+      Outside_Stuff_TILESET_B-C-D-E_13_11: 2190671661989275892
+      Outside_Stuff_TILESET_B-C-D-E_13_12: 7936805207818326768
+      Outside_Stuff_TILESET_B-C-D-E_13_13: 7195665349531333678
+      Outside_Stuff_TILESET_B-C-D-E_13_14: 8001839337359896411
+      Outside_Stuff_TILESET_B-C-D-E_13_15: -2952113934457689738
+      Outside_Stuff_TILESET_B-C-D-E_13_2: 2813683475054259142
+      Outside_Stuff_TILESET_B-C-D-E_13_3: 3172880534952039184
+      Outside_Stuff_TILESET_B-C-D-E_13_4: 6698297808750097684
+      Outside_Stuff_TILESET_B-C-D-E_13_5: -1482562551097028658
+      Outside_Stuff_TILESET_B-C-D-E_13_6: -5268339235432170529
+      Outside_Stuff_TILESET_B-C-D-E_13_7: -1249192990062891990
+      Outside_Stuff_TILESET_B-C-D-E_13_8: -937471333346619466
+      Outside_Stuff_TILESET_B-C-D-E_13_9: -8580813357204048620
+      Outside_Stuff_TILESET_B-C-D-E_14: 6310475808328956098
+      Outside_Stuff_TILESET_B-C-D-E_14_0: 7509739214786842325
+      Outside_Stuff_TILESET_B-C-D-E_14_1: -2370989074409726511
+      Outside_Stuff_TILESET_B-C-D-E_14_10: -1229415276190792020
+      Outside_Stuff_TILESET_B-C-D-E_14_11: 6937158108030258088
+      Outside_Stuff_TILESET_B-C-D-E_14_12: 7712534844902229273
+      Outside_Stuff_TILESET_B-C-D-E_14_13: 5658582816605557927
+      Outside_Stuff_TILESET_B-C-D-E_14_14: -8658210180345793387
+      Outside_Stuff_TILESET_B-C-D-E_14_15: -5895240915974372533
+      Outside_Stuff_TILESET_B-C-D-E_14_2: 3419847052333025941
+      Outside_Stuff_TILESET_B-C-D-E_14_3: 7111125018168566019
+      Outside_Stuff_TILESET_B-C-D-E_14_4: -8168010846434555536
+      Outside_Stuff_TILESET_B-C-D-E_14_5: -8998310915282895135
+      Outside_Stuff_TILESET_B-C-D-E_14_6: -8471238300190797897
+      Outside_Stuff_TILESET_B-C-D-E_14_7: 4536253863732788554
+      Outside_Stuff_TILESET_B-C-D-E_14_8: -7006083214716987952
+      Outside_Stuff_TILESET_B-C-D-E_14_9: -1177326876814516729
+      Outside_Stuff_TILESET_B-C-D-E_15: 4678160615103962158
+      Outside_Stuff_TILESET_B-C-D-E_15_0: -5877518303360682424
+      Outside_Stuff_TILESET_B-C-D-E_15_1: -8361482388158741708
+      Outside_Stuff_TILESET_B-C-D-E_15_10: 8329600110559438344
+      Outside_Stuff_TILESET_B-C-D-E_15_11: -41482829370418625
+      Outside_Stuff_TILESET_B-C-D-E_15_12: -6796232480190497325
+      Outside_Stuff_TILESET_B-C-D-E_15_13: -2748959395437047626
+      Outside_Stuff_TILESET_B-C-D-E_15_14: -3889474662241222146
+      Outside_Stuff_TILESET_B-C-D-E_15_15: -1801018057493645485
+      Outside_Stuff_TILESET_B-C-D-E_15_2: -7431181867704414615
+      Outside_Stuff_TILESET_B-C-D-E_15_3: 2640389411364113026
+      Outside_Stuff_TILESET_B-C-D-E_15_4: 424176572641268330
+      Outside_Stuff_TILESET_B-C-D-E_15_5: 6192033494784930706
+      Outside_Stuff_TILESET_B-C-D-E_15_6: 7678641723792897993
+      Outside_Stuff_TILESET_B-C-D-E_15_7: -8253950937903182968
+      Outside_Stuff_TILESET_B-C-D-E_15_8: -6859003106464750945
+      Outside_Stuff_TILESET_B-C-D-E_15_9: -4335545589789894805
+      Outside_Stuff_TILESET_B-C-D-E_16: 8472802262616329449
+      Outside_Stuff_TILESET_B-C-D-E_17: 4364010393945723293
+      Outside_Stuff_TILESET_B-C-D-E_18: -2284799360293872749
+      Outside_Stuff_TILESET_B-C-D-E_19: -7603420668399701708
+      Outside_Stuff_TILESET_B-C-D-E_1_0: -7274431890233604802
+      Outside_Stuff_TILESET_B-C-D-E_1_1: 6171517808553948094
+      Outside_Stuff_TILESET_B-C-D-E_1_10: 487544109286840846
+      Outside_Stuff_TILESET_B-C-D-E_1_11: 3017562052592570107
+      Outside_Stuff_TILESET_B-C-D-E_1_12: -1307394429426307793
+      Outside_Stuff_TILESET_B-C-D-E_1_13: -658076250850603835
+      Outside_Stuff_TILESET_B-C-D-E_1_14: -305467240646711771
+      Outside_Stuff_TILESET_B-C-D-E_1_15: 6788128272221522220
+      Outside_Stuff_TILESET_B-C-D-E_1_2: -7083731807550188102
+      Outside_Stuff_TILESET_B-C-D-E_1_3: -6996587568144855778
+      Outside_Stuff_TILESET_B-C-D-E_1_4: -6368165693272039905
+      Outside_Stuff_TILESET_B-C-D-E_1_5: -5497297139762732692
+      Outside_Stuff_TILESET_B-C-D-E_1_6: -778287744336161737
+      Outside_Stuff_TILESET_B-C-D-E_1_7: 7855255899380370374
+      Outside_Stuff_TILESET_B-C-D-E_1_8: -8324753343320681596
+      Outside_Stuff_TILESET_B-C-D-E_1_9: -7163860407795708973
+      Outside_Stuff_TILESET_B-C-D-E_2: -643842242474932026
+      Outside_Stuff_TILESET_B-C-D-E_20: -4649474456574117328
+      Outside_Stuff_TILESET_B-C-D-E_21: -5866220398202955667
+      Outside_Stuff_TILESET_B-C-D-E_22: 5795561594807544907
+      Outside_Stuff_TILESET_B-C-D-E_23: 254564144317467545
+      Outside_Stuff_TILESET_B-C-D-E_24: 857598650450603123
+      Outside_Stuff_TILESET_B-C-D-E_25: -84986770653377146
+      Outside_Stuff_TILESET_B-C-D-E_26: -2026748754327501486
+      Outside_Stuff_TILESET_B-C-D-E_27: 3780631305772294039
+      Outside_Stuff_TILESET_B-C-D-E_28: 3824446629889978432
+      Outside_Stuff_TILESET_B-C-D-E_29: 7250806503659202106
+      Outside_Stuff_TILESET_B-C-D-E_2_0: 1322545419040832124
+      Outside_Stuff_TILESET_B-C-D-E_2_1: -8713842402193760675
+      Outside_Stuff_TILESET_B-C-D-E_2_10: 2469199561661547409
+      Outside_Stuff_TILESET_B-C-D-E_2_11: -6825433188422412631
+      Outside_Stuff_TILESET_B-C-D-E_2_12: 2974973084666000023
+      Outside_Stuff_TILESET_B-C-D-E_2_13: 8755709793481761545
+      Outside_Stuff_TILESET_B-C-D-E_2_14: -2086306275265623058
+      Outside_Stuff_TILESET_B-C-D-E_2_15: 7553209693380724062
+      Outside_Stuff_TILESET_B-C-D-E_2_2: 8063651076253975273
+      Outside_Stuff_TILESET_B-C-D-E_2_3: -1684374262570280681
+      Outside_Stuff_TILESET_B-C-D-E_2_4: -260238020317005575
+      Outside_Stuff_TILESET_B-C-D-E_2_5: 4249926308745987256
+      Outside_Stuff_TILESET_B-C-D-E_2_6: -9089970257921771528
+      Outside_Stuff_TILESET_B-C-D-E_2_7: -7278097864940747256
+      Outside_Stuff_TILESET_B-C-D-E_2_8: -5118997712289570394
+      Outside_Stuff_TILESET_B-C-D-E_2_9: 8045435878603714295
+      Outside_Stuff_TILESET_B-C-D-E_3: 2713560075882463865
+      Outside_Stuff_TILESET_B-C-D-E_30: 7195299759462251064
+      Outside_Stuff_TILESET_B-C-D-E_31: -1980288823306197352
+      Outside_Stuff_TILESET_B-C-D-E_32: -6097691761981905781
+      Outside_Stuff_TILESET_B-C-D-E_33: -8605201196606282812
+      Outside_Stuff_TILESET_B-C-D-E_34: 5301455966650645618
+      Outside_Stuff_TILESET_B-C-D-E_35: -167777992870795359
+      Outside_Stuff_TILESET_B-C-D-E_36: -1386734109839137197
+      Outside_Stuff_TILESET_B-C-D-E_37: 8027961570087993966
+      Outside_Stuff_TILESET_B-C-D-E_38: -2729832100701884272
+      Outside_Stuff_TILESET_B-C-D-E_39: -5061901983047623663
+      Outside_Stuff_TILESET_B-C-D-E_3_0: 7956910767068886059
+      Outside_Stuff_TILESET_B-C-D-E_3_1: 7936836449969341159
+      Outside_Stuff_TILESET_B-C-D-E_3_10: -4924465643044315692
+      Outside_Stuff_TILESET_B-C-D-E_3_11: 961558996416171669
+      Outside_Stuff_TILESET_B-C-D-E_3_12: 7731544139731699625
+      Outside_Stuff_TILESET_B-C-D-E_3_13: -5537851960970956391
+      Outside_Stuff_TILESET_B-C-D-E_3_14: -7001893010950949080
+      Outside_Stuff_TILESET_B-C-D-E_3_15: 1754615569546329839
+      Outside_Stuff_TILESET_B-C-D-E_3_2: 4418489049411138062
+      Outside_Stuff_TILESET_B-C-D-E_3_3: -4069682756035573580
+      Outside_Stuff_TILESET_B-C-D-E_3_4: -3579564787730234131
+      Outside_Stuff_TILESET_B-C-D-E_3_5: 7705001533617870119
+      Outside_Stuff_TILESET_B-C-D-E_3_6: -6494709873685931990
+      Outside_Stuff_TILESET_B-C-D-E_3_7: 7664026572680392606
+      Outside_Stuff_TILESET_B-C-D-E_3_8: -7904633670364620294
+      Outside_Stuff_TILESET_B-C-D-E_3_9: 5285429709040712844
+      Outside_Stuff_TILESET_B-C-D-E_4: 384785452846396960
+      Outside_Stuff_TILESET_B-C-D-E_40: -1590159611396867272
+      Outside_Stuff_TILESET_B-C-D-E_41: 6146458330942368552
+      Outside_Stuff_TILESET_B-C-D-E_42: -4596955955162897887
+      Outside_Stuff_TILESET_B-C-D-E_43: -3546405999794578451
+      Outside_Stuff_TILESET_B-C-D-E_44: -5204320068216793398
+      Outside_Stuff_TILESET_B-C-D-E_45: 5438754836298183756
+      Outside_Stuff_TILESET_B-C-D-E_46: 4761928262354619874
+      Outside_Stuff_TILESET_B-C-D-E_47: 9041708409549649673
+      Outside_Stuff_TILESET_B-C-D-E_48: -1746114553297564502
+      Outside_Stuff_TILESET_B-C-D-E_49: 3440636684774720869
+      Outside_Stuff_TILESET_B-C-D-E_4_0: 7283137510377493377
+      Outside_Stuff_TILESET_B-C-D-E_4_1: -7549189735775231689
+      Outside_Stuff_TILESET_B-C-D-E_4_10: -8657414665552717608
+      Outside_Stuff_TILESET_B-C-D-E_4_11: -2636127466803699984
+      Outside_Stuff_TILESET_B-C-D-E_4_12: -3389972875362250828
+      Outside_Stuff_TILESET_B-C-D-E_4_13: 2491611469447276885
+      Outside_Stuff_TILESET_B-C-D-E_4_14: 5357238827890289368
+      Outside_Stuff_TILESET_B-C-D-E_4_15: 4682950297224289761
+      Outside_Stuff_TILESET_B-C-D-E_4_2: 4053715868199192188
+      Outside_Stuff_TILESET_B-C-D-E_4_3: -1155125056623728844
+      Outside_Stuff_TILESET_B-C-D-E_4_4: -4652308918643549119
+      Outside_Stuff_TILESET_B-C-D-E_4_5: -765723422309124123
+      Outside_Stuff_TILESET_B-C-D-E_4_6: -8397537334400267300
+      Outside_Stuff_TILESET_B-C-D-E_4_7: -6365223579237068535
+      Outside_Stuff_TILESET_B-C-D-E_4_8: 2684957046476057132
+      Outside_Stuff_TILESET_B-C-D-E_4_9: 7509878920664152369
+      Outside_Stuff_TILESET_B-C-D-E_5: 1366247840711699526
+      Outside_Stuff_TILESET_B-C-D-E_50: 8640502685055933950
+      Outside_Stuff_TILESET_B-C-D-E_51: 3474711719024336449
+      Outside_Stuff_TILESET_B-C-D-E_52: 807008581466819961
+      Outside_Stuff_TILESET_B-C-D-E_53: 5291310420623149489
+      Outside_Stuff_TILESET_B-C-D-E_54: -50448469141845962
+      Outside_Stuff_TILESET_B-C-D-E_55: 2692703978563462644
+      Outside_Stuff_TILESET_B-C-D-E_56: -2705089143318150754
+      Outside_Stuff_TILESET_B-C-D-E_57: -838742782249654642
+      Outside_Stuff_TILESET_B-C-D-E_58: 2494732845602897690
+      Outside_Stuff_TILESET_B-C-D-E_59: -4482769276095940522
+      Outside_Stuff_TILESET_B-C-D-E_5_0: 6768420660617208926
+      Outside_Stuff_TILESET_B-C-D-E_5_1: -6180398129832717776
+      Outside_Stuff_TILESET_B-C-D-E_5_10: -4538662258135572710
+      Outside_Stuff_TILESET_B-C-D-E_5_11: -6933239464795657355
+      Outside_Stuff_TILESET_B-C-D-E_5_12: 5466028361012969283
+      Outside_Stuff_TILESET_B-C-D-E_5_13: -4490072880884081708
+      Outside_Stuff_TILESET_B-C-D-E_5_14: 2352956264889792202
+      Outside_Stuff_TILESET_B-C-D-E_5_15: 153897542378256187
+      Outside_Stuff_TILESET_B-C-D-E_5_2: 8532720031755998983
+      Outside_Stuff_TILESET_B-C-D-E_5_3: -3526994053919143176
+      Outside_Stuff_TILESET_B-C-D-E_5_4: 3251886729365207787
+      Outside_Stuff_TILESET_B-C-D-E_5_5: 24003883558812287
+      Outside_Stuff_TILESET_B-C-D-E_5_6: 1072275298525977323
+      Outside_Stuff_TILESET_B-C-D-E_5_7: -5018617917537231816
+      Outside_Stuff_TILESET_B-C-D-E_5_8: 5297683254205649456
+      Outside_Stuff_TILESET_B-C-D-E_5_9: -3177375644382349591
+      Outside_Stuff_TILESET_B-C-D-E_6: -6821853093928268574
+      Outside_Stuff_TILESET_B-C-D-E_60: -1252253512507415238
+      Outside_Stuff_TILESET_B-C-D-E_61: -463396174107571502
+      Outside_Stuff_TILESET_B-C-D-E_62: 4112136008325290254
+      Outside_Stuff_TILESET_B-C-D-E_63: -2575300485729251272
+      Outside_Stuff_TILESET_B-C-D-E_64: 5205410500357121101
+      Outside_Stuff_TILESET_B-C-D-E_65: 5507969391577586064
+      Outside_Stuff_TILESET_B-C-D-E_66: 2588016081373318323
+      Outside_Stuff_TILESET_B-C-D-E_67: -7736673243813367879
+      Outside_Stuff_TILESET_B-C-D-E_68: -7481664745118745687
+      Outside_Stuff_TILESET_B-C-D-E_69: 3696556438381941633
+      Outside_Stuff_TILESET_B-C-D-E_6_0: 7286364038234292018
+      Outside_Stuff_TILESET_B-C-D-E_6_1: -4189632137433281173
+      Outside_Stuff_TILESET_B-C-D-E_6_10: 3374968118270957506
+      Outside_Stuff_TILESET_B-C-D-E_6_11: -5984418400322015575
+      Outside_Stuff_TILESET_B-C-D-E_6_12: 4725476051823258404
+      Outside_Stuff_TILESET_B-C-D-E_6_13: -8376110354911283748
+      Outside_Stuff_TILESET_B-C-D-E_6_14: -6463903168501518494
+      Outside_Stuff_TILESET_B-C-D-E_6_15: 6882516973720237286
+      Outside_Stuff_TILESET_B-C-D-E_6_2: 581097824576363353
+      Outside_Stuff_TILESET_B-C-D-E_6_3: 4748672743786521467
+      Outside_Stuff_TILESET_B-C-D-E_6_4: -6389291206170189288
+      Outside_Stuff_TILESET_B-C-D-E_6_5: 2430389693279281
+      Outside_Stuff_TILESET_B-C-D-E_6_6: -5614447671412847766
+      Outside_Stuff_TILESET_B-C-D-E_6_7: -7845970383484998391
+      Outside_Stuff_TILESET_B-C-D-E_6_8: 2134727619095196854
+      Outside_Stuff_TILESET_B-C-D-E_6_9: 3871532724760428959
+      Outside_Stuff_TILESET_B-C-D-E_7: 5996336142648432657
+      Outside_Stuff_TILESET_B-C-D-E_70: 4455813909771482672
+      Outside_Stuff_TILESET_B-C-D-E_71: -8356683312429375676
+      Outside_Stuff_TILESET_B-C-D-E_72: 2705793576575032702
+      Outside_Stuff_TILESET_B-C-D-E_73: -703805287040424991
+      Outside_Stuff_TILESET_B-C-D-E_74: 8685918069395702342
+      Outside_Stuff_TILESET_B-C-D-E_75: 2450386872287647680
+      Outside_Stuff_TILESET_B-C-D-E_76: -7864658519925460837
+      Outside_Stuff_TILESET_B-C-D-E_77: -8755871334518333215
+      Outside_Stuff_TILESET_B-C-D-E_78: -7169382406654313400
+      Outside_Stuff_TILESET_B-C-D-E_79: -4793519695254206237
+      Outside_Stuff_TILESET_B-C-D-E_7_0: -1819802274666002585
+      Outside_Stuff_TILESET_B-C-D-E_7_1: 3156319211895749566
+      Outside_Stuff_TILESET_B-C-D-E_7_10: -5683093181485170253
+      Outside_Stuff_TILESET_B-C-D-E_7_11: 2264142841984223999
+      Outside_Stuff_TILESET_B-C-D-E_7_12: -2067279896905021771
+      Outside_Stuff_TILESET_B-C-D-E_7_13: -427597246194172165
+      Outside_Stuff_TILESET_B-C-D-E_7_14: -5843894035917107229
+      Outside_Stuff_TILESET_B-C-D-E_7_15: -1671598268833468720
+      Outside_Stuff_TILESET_B-C-D-E_7_2: -7098887118452500162
+      Outside_Stuff_TILESET_B-C-D-E_7_3: 4281084093853354503
+      Outside_Stuff_TILESET_B-C-D-E_7_4: 7484401334415655725
+      Outside_Stuff_TILESET_B-C-D-E_7_5: 7139836212417623022
+      Outside_Stuff_TILESET_B-C-D-E_7_6: -5998027114781224489
+      Outside_Stuff_TILESET_B-C-D-E_7_7: 8508417958625018109
+      Outside_Stuff_TILESET_B-C-D-E_7_8: -5274519414326501405
+      Outside_Stuff_TILESET_B-C-D-E_7_9: 5429548625606806390
+      Outside_Stuff_TILESET_B-C-D-E_8: 372073848692676162
+      Outside_Stuff_TILESET_B-C-D-E_80: 7783997081272567589
+      Outside_Stuff_TILESET_B-C-D-E_81: 3189233717335780202
+      Outside_Stuff_TILESET_B-C-D-E_8_0: -3863373936899298506
+      Outside_Stuff_TILESET_B-C-D-E_8_1: 5464984261301251555
+      Outside_Stuff_TILESET_B-C-D-E_8_10: -4945054469508266539
+      Outside_Stuff_TILESET_B-C-D-E_8_11: 8483298535558812210
+      Outside_Stuff_TILESET_B-C-D-E_8_12: -5706609870698609229
+      Outside_Stuff_TILESET_B-C-D-E_8_13: 4262867357752717269
+      Outside_Stuff_TILESET_B-C-D-E_8_14: 7022861526009583100
+      Outside_Stuff_TILESET_B-C-D-E_8_15: 4798700725388064123
+      Outside_Stuff_TILESET_B-C-D-E_8_2: 1791399109089532621
+      Outside_Stuff_TILESET_B-C-D-E_8_3: -9039169323744026433
+      Outside_Stuff_TILESET_B-C-D-E_8_4: 6088100303730074688
+      Outside_Stuff_TILESET_B-C-D-E_8_5: 2113015620607794168
+      Outside_Stuff_TILESET_B-C-D-E_8_6: -5354085376349846055
+      Outside_Stuff_TILESET_B-C-D-E_8_7: 8406163675240235726
+      Outside_Stuff_TILESET_B-C-D-E_8_8: -5065971278888032020
+      Outside_Stuff_TILESET_B-C-D-E_8_9: -1805974544531814137
+      Outside_Stuff_TILESET_B-C-D-E_9: -6801142307645883920
+      Outside_Stuff_TILESET_B-C-D-E_9_0: 6325586527835548763
+      Outside_Stuff_TILESET_B-C-D-E_9_1: 7983711297748337156
+      Outside_Stuff_TILESET_B-C-D-E_9_10: -245263143218084473
+      Outside_Stuff_TILESET_B-C-D-E_9_11: 3335383923576373440
+      Outside_Stuff_TILESET_B-C-D-E_9_12: 1183907716552704461
+      Outside_Stuff_TILESET_B-C-D-E_9_13: 6843383967543595687
+      Outside_Stuff_TILESET_B-C-D-E_9_14: 2606546399571285193
+      Outside_Stuff_TILESET_B-C-D-E_9_15: 4562313403394290454
+      Outside_Stuff_TILESET_B-C-D-E_9_2: 966283349314768023
+      Outside_Stuff_TILESET_B-C-D-E_9_3: -2475831297506965058
+      Outside_Stuff_TILESET_B-C-D-E_9_4: 5778819029719981829
+      Outside_Stuff_TILESET_B-C-D-E_9_5: -8853869888439993006
+      Outside_Stuff_TILESET_B-C-D-E_9_6: -2767131601276781085
+      Outside_Stuff_TILESET_B-C-D-E_9_7: 2429233519170534668
+      Outside_Stuff_TILESET_B-C-D-E_9_8: 5927431010345198449
+      Outside_Stuff_TILESET_B-C-D-E_9_9: -1082716505952544023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

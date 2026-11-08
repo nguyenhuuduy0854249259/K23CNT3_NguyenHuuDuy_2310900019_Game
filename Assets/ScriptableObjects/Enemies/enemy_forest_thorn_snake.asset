@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f00c2bda6bb203b41baec605c1ea2eb2, type: 3}
+  m_Name: enemy_forest_thorn_snake
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Enemies.EnemyData
+  enemyId: enemy_forest_thorn_snake
+  enemyName: "R\u1EAFn Gai"
+  level: 13
+  element: 6
+  morphologicalGroup: 3
+  sprite: {fileID: 0}
+  maxHp: 150
+  attackPower: 24
+  defense: 6
+  moveSpeed: 3
+  detectionRadius: 6
+  attackRange: 1.3
+  attackCooldown: 1.8
+  isRanged: 0
+  projectileSpeed: 6
+  isCapturable: 1
+  baseCaptureRate: 0.3
+  expReward: 65
+  goldReward: 35
+  dropTable:
+  - item: {fileID: 11400000, guid: e390d63380c612c48aa311f488f28287, type: 2}
+    dropChancePercent: 50
+    minQuantity: 1
+    maxQuantity: 2
+  isAreaBoss: 0
+  isWorldBoss: 0

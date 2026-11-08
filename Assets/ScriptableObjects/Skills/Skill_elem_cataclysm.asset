@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_elem_cataclysm
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: elem_cataclysm
+  skillName: "Thi\xEAn Tai Di\u1EC7t Th\u1EBF (Cataclysm)"
+  description: "Thi\xEAn Tai b\xF9ng n\u1ED5 di\u1EC7n r\u1ED9ng sau 3 combo h\u1EE3p
+    th\xE0nh."
+  icon: {fileID: 0}
+  targetType: 2
+  element: 1
+  damageType: 0
+  manaCost: 50
+  cooldownSeconds: 12
+  damageMultiplier: 5
+  range: 7
+  radius: 3.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 0}

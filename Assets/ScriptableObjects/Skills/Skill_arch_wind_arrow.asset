@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_arch_wind_arrow
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: arch_wind_arrow
+  skillName: "Cu\u1ED3ng Phong Xuy\xEAn Ph\xE1"
+  description: "M\u0169i t\xEAn x\xE9 gi\xF3 xuy\xEAn th\u1EA5u v\xE0 \u0111\u1EA9y
+    l\xF9i m\u1EE5c ti\xEAu."
+  icon: {fileID: 0}
+  targetType: 1
+  element: 5
+  damageType: 0
+  manaCost: 18
+  cooldownSeconds: 3
+  damageMultiplier: 2.2
+  range: 7
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 3274860500779130891, guid: bcfec2cc994ffdd4fa7231c9613efd19, type: 3}
+  hitVfxPrefab: {fileID: 0}

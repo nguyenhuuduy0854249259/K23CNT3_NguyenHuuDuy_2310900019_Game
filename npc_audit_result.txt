@@ -1,0 +1,41 @@
+=== MODULAR NPC AUDIT REPORT ===
+[OK] Prefab: NPC_VillageElder | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 1 modular prop(s):
+     * Prop_OakStaff: Front=prop_eldrin_staff_front, Back=prop_eldrin_staff_back, Side=prop_eldrin_staff_side, 2ndMotion=False
+[OK] Prefab: NPC_Blacksmith_Barnaby | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 1 modular prop(s):
+     * Prop_SteelHammer: Front=prop_boris_hammer_front, Back=prop_boris_hammer_back, Side=prop_boris_hammer_side, 2ndMotion=True
+[OK] Prefab: NPC_Alchemist_Elena | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 1 modular prop(s):
+     * Prop_PotionSatchel: Front=prop_elena_pouch_front, Back=prop_elena_pouch_back, Side=prop_elena_pouch_side, 2ndMotion=True
+[OK] Prefab: NPC_GuildMaster_Carlos | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 2 modular prop(s):
+     * Prop_CrimsonCape: Front=prop_carlos_cape_front, Back=prop_carlos_cape_back, Side=prop_carlos_cape_side, 2ndMotion=True
+     * Prop_KnightSword: Front=prop_carlos_sword_front, Back=prop_carlos_sword_back, Side=prop_carlos_sword_side, 2ndMotion=False
+[OK] Prefab: NPC_PetMaster_Kaelen | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 0 modular prop(s):
+   - Perch Socket: FOUND at (-0.25, 0.08, 0.00)
+[OK] Prefab: NPC_Merchant_Lina | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 2 modular prop(s):
+     * Prop_WickerBasket: Front=prop_lina_basket_front, Back=prop_lina_basket_back, Side=prop_lina_basket_side, 2ndMotion=True
+     * Prop_CoinPouch: Front=prop_lina_pouch_front, Back=prop_lina_pouch_back, Side=prop_lina_pouch_side, 2ndMotion=False
+[OK] Prefab: NPC_Villager_Wanderer | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - NPCModularCharacter2D attached. Found 2 modular prop(s):
+     * Prop_StrawHat: Front=prop_villager_hat_front, Back=prop_villager_hat_back, Side=prop_villager_hat_side, 2ndMotion=False
+     * Prop_FruitBasket: Front=prop_villager_basket_front, Back=prop_villager_basket_back, Side=prop_villager_basket_side, 2ndMotion=True
+   - VillagerPropHandler: FOUND (HatProp=True, BasketProp=True)
+[OK] Prefab: Pet_Falcon | Scale: (1.50, 1.50, 1.00) | PPU: 16
+   - FalconPetController2D: FOUND (PerchFrames=2, FlyFrames=4)
+[OK] Prefab: WorldProp_StrawHat | Scale: (1.50, 1.50, 1.00) | PPU: 16
+[OK] Prefab: WorldProp_FruitBasket | Scale: (1.50, 1.50, 1.00) | PPU: 16
+
+=== SCENE AUDIT: MainGame ===
+[OK] Found in scene: NPC_TruongLang_Eldrin at (-21.20, -0.80, 0.00)
+[OK] Found in scene: NPC_ThoRen_Boris at (-47.80, 7.20, 0.00)
+[OK] Found in scene: NPC_DuocSi_Elena at (-48.50, -10.80, 0.00)
+[OK] Found in scene: NPC_HoiTruong_Carlos at (-26.80, 7.20, 0.00)
+[OK] Found in scene: NPC_QuanThu_Kaelen at (-39.00, 7.50, 0.00)
+[OK] Found in scene: Pet_Falcon_Companion at (-39.25, 7.58, 0.00)
+[OK] Found in scene: NPC_ThuongNhan_Lina at (-27.20, -10.80, 0.00)
+[OK] Found in scene: NPC_CuDan_Oakhaven_01 at (-36.50, 1.50, 0.00)
+[OK] Found in scene: NPC_CuDan_Oakhaven_02 at (-42.00, -3.50, 0.00)

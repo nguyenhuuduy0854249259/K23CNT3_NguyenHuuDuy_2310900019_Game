@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59a2dc444b6930e43b82d2777624e300, type: 3}
+  m_Name: Skill_warrior_cleave
+  m_EditorClassIdentifier: Assembly-CSharp::ActionRPG.Classes.SkillData
+  skillId: warrior_cleave
+  skillName: "Tr\u1EA3m K\xEDch (Cleave)"
+  description: "Vung v\u0169 kh\xED theo h\xECnh b\xE1n nguy\u1EC7t ph\xEDa tr\u01B0\u1EDBc,
+    g\xE2y s\xE1t th\u01B0\u01A1ng v\u1EADt l\xFD l\xEAn to\xE0n b\u1ED9 m\u1EE5c
+    ti\xEAu tr\xFAng \u0111\xF2n."
+  icon: {fileID: 21300000, guid: 260574aa0252473448c8f9d94f8c36c3, type: 3}
+  targetType: 0
+  element: 0
+  damageType: 0
+  manaCost: 12
+  cooldownSeconds: 2.5
+  damageMultiplier: 1.8
+  range: 2
+  radius: 1.5
+  knockback: 4
+  statusEffect: 0
+  statusDuration: 2
+  projectilePrefab: {fileID: 0}
+  hitVfxPrefab: {fileID: 4214379324146668556, guid: 42006edbcf3c5299d65bc611a4cf7135, type: 3}

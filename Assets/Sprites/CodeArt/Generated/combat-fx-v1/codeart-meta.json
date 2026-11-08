@@ -1,0 +1,262 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "codeart2d/fx_build.py",
+  "spec_sha256": "164758658d6d64787301bc99512dc2f02e46b14db1b5d338ca9948d9b9614ee3",
+  "renderer": {
+    "backend": "resvg_py",
+    "name": "resvg-py",
+    "version": "0.5.0",
+    "engine": "resvg 0.48.1",
+    "zoom": 1,
+    "size": [
+      40,
+      40
+    ],
+    "route": "pixel",
+    "coverage_ss": 8,
+    "coverage": 0.5,
+    "finish": "codeart_core.pixel_finish route D"
+  },
+  "palette": {
+    "colors": {
+      "white": "#ffffff",
+      "ice": "#73eff7",
+      "cyan": "#41a6f6",
+      "blue": "#3b5dc9",
+      "gold": "#ffcd75",
+      "ember": "#ef7d57",
+      "red": "#b13e53",
+      "lime": "#a7f070",
+      "green": "#38b764",
+      "ink": "#1a1c2c"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "frames/slash_arc-00.png",
+      "sha256": "aafdc8ff46595fcc2c7e74dd8f71077b9e9479475e5857ffe20339700772e658",
+      "bytes": 206
+    },
+    {
+      "path": "frames/slash_arc-01.png",
+      "sha256": "14b110d81219e2104904129255e9d1f6199c204aa2cddab074e402344ef0623f",
+      "bytes": 252
+    },
+    {
+      "path": "frames/slash_arc-02.png",
+      "sha256": "cc2dcb32ce35aaadd631ad915db095c16719eb32a6ed8beae6ec03d0c73e7996",
+      "bytes": 260
+    },
+    {
+      "path": "frames/slash_arc-03.png",
+      "sha256": "c8b6302864739ad18f04c027885f6712a449a08f9fed3ad1b5a040b2e160c61e",
+      "bytes": 209
+    },
+    {
+      "path": "frames/hit_spark-00.png",
+      "sha256": "c783f9ad245392fdfa7ec9a30cb4a587d8b7ec0ca085f9f44b62c46f20d87a12",
+      "bytes": 146
+    },
+    {
+      "path": "frames/hit_spark-01.png",
+      "sha256": "a577aef08f63335bb93f1e1d5f329213f1ba59abe2035422d47e17d9548e9477",
+      "bytes": 255
+    },
+    {
+      "path": "frames/hit_spark-02.png",
+      "sha256": "252bc2d3dd30fc002354be6c73afd605d31d70ba29a658e0bcf3134052f5a16f",
+      "bytes": 160
+    },
+    {
+      "path": "frames/shock_ring-00.png",
+      "sha256": "93c3743a017d0fe7fb4fd01e8544bf83c98d74a7f79183b774c4ebd72bc13948",
+      "bytes": 239
+    },
+    {
+      "path": "frames/shock_ring-01.png",
+      "sha256": "15a0303054365f58aa23d236bc4626321d0183b45830cef9f0dcfc5988d01a8f",
+      "bytes": 273
+    },
+    {
+      "path": "frames/shock_ring-02.png",
+      "sha256": "054aa367b151a988950a79046e8b288582b1ddcfdcb2d17de490df00f6c1197f",
+      "bytes": 307
+    },
+    {
+      "path": "frames/shock_ring-03.png",
+      "sha256": "b474429dc39a9f989b13a47901f2781f4f1e7074ef4fabc26130fcebc67862dc",
+      "bytes": 310
+    },
+    {
+      "path": "frames/shock_ring-04.png",
+      "sha256": "12f3978e2f0941d86e3574d1ac69f712962571dc01f0bfe5ea9b01d8e97ff7bc",
+      "bytes": 298
+    },
+    {
+      "path": "clips.json",
+      "sha256": "32e6cbfaabe7e6a892beae0a96a622cc43c9765bfa6484f03db81a2310bafcae",
+      "bytes": 2583
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "fx_build: frames cut at impactMs and sampled mid-frame; codeart_core.qa_pixels per frame against the spec palette (pixel route); slash head progress at each frame; forge_core.seam_report on loops; transparent margin; optional build_animation_clips and fx_verify.mjs runs",
+    "notProven": [
+      "Readability and impact at game scale and in motion: look at review/*.png and play the clips.",
+      "That the effect suits the move it accompanies; the checks prove timing and palette only.",
+      "build_animation_clips was not run (--build-clips not given)."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 7,
+        "threshold": 10
+      },
+      {
+        "id": "arc_on_hit",
+        "status": "pass",
+        "value": [],
+        "threshold": "slash head completes on the hit frame"
+      },
+      {
+        "id": "margins",
+        "status": "pass",
+        "value": 0,
+        "threshold": 1
+      },
+      {
+        "id": "timing",
+        "status": "pass",
+        "value": {
+          "slash_arc": 200,
+          "hit_spark": 200,
+          "shock_ring": 250
+        },
+        "threshold": {
+          "slash_arc": 200,
+          "hit_spark": 200,
+          "shock_ring": 250
+        }
+      },
+      {
+        "id": "build_clips",
+        "status": "skipped",
+        "value": null,
+        "threshold": 0
+      },
+      {
+        "id": "runtime_verify",
+        "status": "skipped",
+        "value": null,
+        "threshold": "pass"
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/combat_fx.fx.json",
+        "sha256": "164758658d6d64787301bc99512dc2f02e46b14db1b5d338ca9948d9b9614ee3",
+        "bytes": 1901
+      }
+    ],
+    "outputs": [
+      {
+        "path": "frames/slash_arc-00.png",
+        "sha256": "aafdc8ff46595fcc2c7e74dd8f71077b9e9479475e5857ffe20339700772e658",
+        "bytes": 206
+      },
+      {
+        "path": "frames/slash_arc-01.png",
+        "sha256": "14b110d81219e2104904129255e9d1f6199c204aa2cddab074e402344ef0623f",
+        "bytes": 252
+      },
+      {
+        "path": "frames/slash_arc-02.png",
+        "sha256": "cc2dcb32ce35aaadd631ad915db095c16719eb32a6ed8beae6ec03d0c73e7996",
+        "bytes": 260
+      },
+      {
+        "path": "frames/slash_arc-03.png",
+        "sha256": "c8b6302864739ad18f04c027885f6712a449a08f9fed3ad1b5a040b2e160c61e",
+        "bytes": 209
+      },
+      {
+        "path": "frames/hit_spark-00.png",
+        "sha256": "c783f9ad245392fdfa7ec9a30cb4a587d8b7ec0ca085f9f44b62c46f20d87a12",
+        "bytes": 146
+      },
+      {
+        "path": "frames/hit_spark-01.png",
+        "sha256": "a577aef08f63335bb93f1e1d5f329213f1ba59abe2035422d47e17d9548e9477",
+        "bytes": 255
+      },
+      {
+        "path": "frames/hit_spark-02.png",
+        "sha256": "252bc2d3dd30fc002354be6c73afd605d31d70ba29a658e0bcf3134052f5a16f",
+        "bytes": 160
+      },
+      {
+        "path": "frames/shock_ring-00.png",
+        "sha256": "93c3743a017d0fe7fb4fd01e8544bf83c98d74a7f79183b774c4ebd72bc13948",
+        "bytes": 239
+      },
+      {
+        "path": "frames/shock_ring-01.png",
+        "sha256": "15a0303054365f58aa23d236bc4626321d0183b45830cef9f0dcfc5988d01a8f",
+        "bytes": 273
+      },
+      {
+        "path": "frames/shock_ring-02.png",
+        "sha256": "054aa367b151a988950a79046e8b288582b1ddcfdcb2d17de490df00f6c1197f",
+        "bytes": 307
+      },
+      {
+        "path": "frames/shock_ring-03.png",
+        "sha256": "b474429dc39a9f989b13a47901f2781f4f1e7074ef4fabc26130fcebc67862dc",
+        "bytes": 310
+      },
+      {
+        "path": "frames/shock_ring-04.png",
+        "sha256": "12f3978e2f0941d86e3574d1ac69f712962571dc01f0bfe5ea9b01d8e97ff7bc",
+        "bytes": 298
+      },
+      {
+        "path": "clips.json",
+        "sha256": "32e6cbfaabe7e6a892beae0a96a622cc43c9765bfa6484f03db81a2310bafcae",
+        "bytes": 2583
+      }
+    ],
+    "tool": {
+      "name": "codeart2d/fx_build.py",
+      "version": "0.4.0"
+    }
+  },
+  "route": "pixel",
+  "spec": {
+    "path": "../../Specs/combat_fx.fx.json",
+    "sha256": "164758658d6d64787301bc99512dc2f02e46b14db1b5d338ca9948d9b9614ee3",
+    "bytes": 1901
+  }
+}

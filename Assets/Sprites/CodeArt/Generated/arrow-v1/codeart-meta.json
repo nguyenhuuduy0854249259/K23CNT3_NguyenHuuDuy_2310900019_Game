@@ -1,0 +1,136 @@
+{
+  "schema": "codeart2d.codeart_meta.v1",
+  "art_source": "code",
+  "placeholder": false,
+  "disclosure": "code-drawn, no image model",
+  "generator": "render_pixelspec.py",
+  "spec_sha256": "34c35e289db18c6b3e732c837558301cba0dc1cb530b6853451a1d35104b79eb",
+  "renderer": {
+    "name": "codeart_core.render_pixelspec",
+    "version": "1.1"
+  },
+  "palette": {
+    "colors": {
+      "k": "#1a1c2c",
+      "f": "#38b764",
+      "l": "#a7f070",
+      "g": "#ffcd75",
+      "c": "#73eff7",
+      "h": "#ffffff"
+    },
+    "variants": {}
+  },
+  "outputs": [
+    {
+      "path": "base/frames/arrow.png",
+      "sha256": "14281b5d4d258df354222de2b9e032b6750a78eeb1d48fbabd4657f50eeb842a",
+      "bytes": 166
+    },
+    {
+      "path": "preview-x6.png",
+      "sha256": "44aab481bc89b0083eea0b41e4396f2c7bbf6dfee8d913bde9cd13bcd6677d65",
+      "bytes": 271
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "render_pixelspec.py: every published frame PNG is read back and measured with codeart_core.qa_pixels against the resolved palette of its variant (alpha census, exact palette lookup and, with an outline, 4-neighbour outline gaps and L-corners); each check is the worst frame against its gate in codeart_core.QA_PIXEL_GATES",
+    "notProven": [
+      "Readability, silhouette and appeal at game scale; check them on a review sheet (pixel_qa.py --review).",
+      "Motion, timing and spacing between frames; numbers do not judge animation quality.",
+      "That the art matches the brief and the intent of the spec."
+    ],
+    "checks": [
+      {
+        "id": "partial_alpha",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "off_palette",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "outline_gaps",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "l_corners",
+        "status": "pass",
+        "value": 0,
+        "threshold": 10
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../../Specs/arrow.pixelspec.json",
+        "sha256": "34c35e289db18c6b3e732c837558301cba0dc1cb530b6853451a1d35104b79eb",
+        "bytes": 481
+      }
+    ],
+    "outputs": [
+      {
+        "path": "base/frames/arrow.png",
+        "sha256": "14281b5d4d258df354222de2b9e032b6750a78eeb1d48fbabd4657f50eeb842a",
+        "bytes": 166
+      }
+    ],
+    "tool": {
+      "name": "render_pixelspec.py",
+      "version": "0.4.0"
+    },
+    "frames": [
+      {
+        "file": "base/frames/arrow.png",
+        "variant": "base",
+        "frame": "arrow",
+        "visible": 42,
+        "partial_alpha": 0,
+        "off_palette": 0,
+        "colors": 6,
+        "orphans": 11,
+        "l_corners": 0,
+        "outline_gaps": 0,
+        "bbox": [
+          1,
+          2,
+          14,
+          7
+        ]
+      }
+    ]
+  },
+  "pixelspec": {
+    "name": "arrow",
+    "schema": "codeart2d.pixelspec.v1",
+    "canvas": [
+      16,
+      9
+    ],
+    "anchor_px": [
+      8,
+      4
+    ],
+    "outline": "solid",
+    "variants": {
+      "base": "base"
+    },
+    "frames": [
+      {
+        "index": null,
+        "name": null,
+        "file": "frames/arrow.png"
+      }
+    ],
+    "preview": {
+      "file": "preview-x6.png",
+      "scale": 6,
+      "layout": "rows are variants, columns are distinct frames"
+    }
+  }
+}

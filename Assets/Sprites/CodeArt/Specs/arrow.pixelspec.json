@@ -1,0 +1,27 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "arrow",
+  "canvas": [16, 9],
+  "anchor_px": [8, 4],
+  "palette": {
+    "k": "#1a1c2c",
+    "f": "#38b764",
+    "l": "#a7f070",
+    "g": "#ffcd75",
+    "c": "#73eff7",
+    "h": "#ffffff"
+  },
+  "outline": {"mode": "solid", "color": "k"},
+  "layers": [
+    {
+      "name": "projectile",
+      "z": 0,
+      "origin": [2, 3],
+      "rows": [
+        "ll.......c..",
+        ".gggggggchh.",
+        "ff.......c.."
+      ]
+    }
+  ]
+}

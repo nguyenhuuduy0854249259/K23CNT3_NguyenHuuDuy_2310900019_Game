@@ -1,0 +1,61 @@
+{
+  "schema": "codeart2d.pixelspec.v1",
+  "name": "ore_vein",
+  "canvas": [
+    16,
+    16
+  ],
+  "anchor_px": [
+    8,
+    14
+  ],
+  "palette": {
+    "k": "#141824",
+    "r": "#3a3f54",
+    "m": "#5a627a",
+    "h": "#8690a8",
+    "o": "#b85c28",
+    "c": "#e88a38",
+    "w": "#ffd278",
+    "g": "#2e5c3e"
+  },
+  "variants": {
+    "copper": {},
+    "iron": {
+      "o": "#4b5c78",
+      "c": "#8ca4c4",
+      "w": "#e6f2ff"
+    },
+    "crystal": {
+      "o": "#2868b8",
+      "c": "#42c8f5",
+      "w": "#d8ffff"
+    }
+  },
+  "outline": {
+    "mode": "solid",
+    "color": "k"
+  },
+  "layers": [
+    {
+      "name": "rock_vein",
+      "z": 0,
+      "origin": [
+        1,
+        2
+      ],
+      "rows": [
+        ".....cw..hm...",
+        "....ccwmhhmm..",
+        "...occwmmhrmm.",
+        "..rmoccmhrcwmr",
+        ".hmrmoomrcwwmr",
+        ".mhhrmmmrccooc",
+        "rmcwmmrrmrroor",
+        "rrcwwmrrrmrrrr",
+        "grroorrrrrrrrr",
+        ".gggrrrrrrrgg."
+      ]
+    }
+  ]
+}

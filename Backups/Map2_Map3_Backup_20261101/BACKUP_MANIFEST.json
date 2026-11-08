@@ -1,0 +1,342 @@
+[
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\EditorScripts\\Map2ProceduralGenerator.cs",
+        "Size":  38113,
+        "SHA256":  "3A6BED5CB7ED53D8A87A2964EB50993821D47F7BFFB8C1A63C04E031C87DFF7F"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\EditorScripts\\Map3DoiThuongHelper.cs",
+        "Size":  5836,
+        "SHA256":  "51999C8B6C7E941E0E921F84E263365A3B9336CBC5C9BDB8CD19D50ADA5D67BA"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\EditorScripts\\SceneBackupGuard.cs",
+        "Size":  28862,
+        "SHA256":  "AF9E8E8051CD6BF20CAA2255CCAAEA2F8283790F2FAAB09867C513549C3AF068"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette.meta",
+        "Size":  172,
+        "SHA256":  "955D490D38C8F6574B6C1CE010B53411EE8E5D9CFBBA1C99B07CA642B448231A"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\Map_Zone_3.prefab",
+        "Size":  47422,
+        "SHA256":  "4E45376418289032840FF910105AB6DFE5D62EC550AB16A1C2D652DF200C511E"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\Map_Zone_3.prefab.meta",
+        "Size":  161,
+        "SHA256":  "A0762C6A5F30389715FD21E0672FABFF7D0E190DD2ADA6A8565358CF7BE4AD80"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\01_Cay_Soi_Co_Thu_Lon.prefab",
+        "Size":  3673,
+        "SHA256":  "410B99DFE1911DA1814ED9C5AC120697BF1A8CAE95C55F756A03029635BA682F"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\01_Cay_Soi_Co_Thu_Lon.prefab.meta",
+        "Size":  154,
+        "SHA256":  "A3F9964040FAFF5D5EA05EACA2668C73AC76BADD0168F54A6DCB453531E5A900"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\02_Cay_Soi_Vua.prefab",
+        "Size":  3674,
+        "SHA256":  "2ACD7E7B385280A6DAFC8BC3E445ADB70A5F27AF5F3842CF5BA3633F452B9231"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\02_Cay_Soi_Vua.prefab.meta",
+        "Size":  154,
+        "SHA256":  "C93AF5BD6125276CA55DB939A6742C3E5C3C54A972FA9C72337D8447F09AECD6"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\03_Cay_Soi_Nho.prefab",
+        "Size":  3671,
+        "SHA256":  "536FB03355C41128FD7295606B88D2A4C749C1D1E5EE90C2C0331B1A6CAF69ED"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\03_Cay_Soi_Nho.prefab.meta",
+        "Size":  154,
+        "SHA256":  "2D5A1655E87B39342E32930DAF3342FCFA84A2C8A0F6D918314E725A84466E6E"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\04_Cay_Tao_Do_Lon.prefab",
+        "Size":  3677,
+        "SHA256":  "19A23CC86D8DB93296C7E30BA2D4DF3265D4975FEF86B76CCB9A9BCB1B1F61B7"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\04_Cay_Tao_Do_Lon.prefab.meta",
+        "Size":  154,
+        "SHA256":  "3DA46BE145240E6159C039A7DFA3D8A6C8B502E523C4F8314F96866D77A6DF2A"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\05_Cay_Tao_Do_Vua.prefab",
+        "Size":  3666,
+        "SHA256":  "F5C7C0290E556F79E6E5BB8CB73B18A490BB19908BE33B71DE2424674556CB37"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\05_Cay_Tao_Do_Vua.prefab.meta",
+        "Size":  154,
+        "SHA256":  "EC8CC517E5F0E41C5AB8431B70D373552A7A485C9CCB312152FC49CB591FBA40"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\06_Cay_Tao_Do_Nho.prefab",
+        "Size":  3665,
+        "SHA256":  "996DCAF0D1965F9AFCE91309EB04437B19098A363E23C797A7F9402FC306D7AD"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\06_Cay_Tao_Do_Nho.prefab.meta",
+        "Size":  154,
+        "SHA256":  "AB054CA0734645CD03613213241CDE104846E1D0596D894C78EEA8CBCB335A4C"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\07_Cay_Tan_Tron_Lon.prefab",
+        "Size":  3674,
+        "SHA256":  "8F7D0DB93E691376AC7AC4C9F0037A39166296866D322ABB712D445EF9910C08"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\07_Cay_Tan_Tron_Lon.prefab.meta",
+        "Size":  154,
+        "SHA256":  "D55CDEC62D8CB0290E0EEE99868FFE9E44510931ED22CAFA8A37A047BB26446C"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\08_Cay_Tan_Tron_Vua.prefab",
+        "Size":  3677,
+        "SHA256":  "116BCC94FCA641C3F562C2B5F16E1DBBB533C58C5FF59E851065AACD1E477A68"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\08_Cay_Tan_Tron_Vua.prefab.meta",
+        "Size":  154,
+        "SHA256":  "00A808BEEC8EF90757BFE9BF5326497D93BE70C3CC0592BC61C59D2076479FE8"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\09_Cay_Tan_Tron_Nho.prefab",
+        "Size":  3679,
+        "SHA256":  "874D9A462C1AFE33934CDBC236D4DBB805B2E1170CE2FE9447C4019AB1E4F6CC"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\09_Cay_Tan_Tron_Nho.prefab.meta",
+        "Size":  154,
+        "SHA256":  "0EB11BDDCCAFC5184552671342BF404B0232A43CBBECD32ADED8779911B6E854"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\10_Cay_Thong_Xanh_Lon.prefab",
+        "Size":  3681,
+        "SHA256":  "D0AC0ECBCD5036990CAFCD685DC213BE934712EFFCDE7B92C5F34FEB3A13CBEF"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\10_Cay_Thong_Xanh_Lon.prefab.meta",
+        "Size":  154,
+        "SHA256":  "1B8D388B690D593B270FEEA3EF6E9BF83FAACCB484598F74FC7B085CC6F20A67"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\11_Cay_Thong_Xanh_Nho.prefab",
+        "Size":  2535,
+        "SHA256":  "98A92FCE8AA0325B5E18CD0538AB80EDE579BCEA9578275FAA80DE36E88AA2D6"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\11_Cay_Thong_Xanh_Nho.prefab.meta",
+        "Size":  154,
+        "SHA256":  "48D836E3FDA6EAF42DE0A5A8D9746A531303CF301FF55E25417BB38E0AF85077"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\12_Ngoi_Nha_Mai_Do.prefab",
+        "Size":  3668,
+        "SHA256":  "F0486C8EB25DC4DBAC95345966C88B15491CD831A950E866F5EC145459F84915"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\12_Ngoi_Nha_Mai_Do.prefab.meta",
+        "Size":  154,
+        "SHA256":  "E715F62FABEBD62F3C5145CFD932DAFB1951A91E5DB0914BB0DF7B8E6C91223E"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\13_Gieng_Nuoc_Da.prefab",
+        "Size":  3670,
+        "SHA256":  "0FE487302D9BD8D199C65DA3B78E987E685E3426E9886ADCA989A9D51CE2BA57"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\13_Gieng_Nuoc_Da.prefab.meta",
+        "Size":  154,
+        "SHA256":  "03BC131E3FBCDD8E12008DD315173F518090678A5A6DCFC716C62CCCF7D80607"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\14_Bu_Nhin_Bi_Ngo.prefab",
+        "Size":  3663,
+        "SHA256":  "5160097F397FD59B4104BCF09CC075C94F37FA7AE7E87750A71951909FD3AAC8"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\14_Bu_Nhin_Bi_Ngo.prefab.meta",
+        "Size":  154,
+        "SHA256":  "B4C03EE72DA1140470CBF440888FA1DE6B11E5BB09CECC6FEF6875EDE134A745"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\15_Thung_Go_Doi.prefab",
+        "Size":  3676,
+        "SHA256":  "F260A00EBD11078FFFD153E6EE25916E20AF8F89DF75B060650482A90718457F"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\15_Thung_Go_Doi.prefab.meta",
+        "Size":  154,
+        "SHA256":  "4F4B569173EFA74315086F1BC08D2F233EC7EAE8A0139CF5163007B28DA606E4"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\16_Thung_Ruou_Go.prefab",
+        "Size":  3659,
+        "SHA256":  "199457E734718F0E74D470789A3A002BF787148A9C7DE9EC72A2141ADF9A0793"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\16_Thung_Ruou_Go.prefab.meta",
+        "Size":  154,
+        "SHA256":  "4731D8CF0773A2656C905E62D84358DB71899C7623CCF0FA38D6A8D54C4F0267"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\17_Tang_Da_Lon_Tren_Co.prefab",
+        "Size":  3680,
+        "SHA256":  "FB5CD5C7BF4AE5FA1AC08DAF1C70877E3120BC2286BDD894F222F9532AD617C8"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\17_Tang_Da_Lon_Tren_Co.prefab.meta",
+        "Size":  154,
+        "SHA256":  "187B29490C1D3A986B7F073625CEDE704CFCC84801216E5FE652909608E8C62B"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\18_Tang_Da_Vua_Tren_Co.prefab",
+        "Size":  3673,
+        "SHA256":  "35DBEB4DF5A87EB6BB9CA12032044068C4FBF1ACEF44F8631EF1C705511C3C96"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\18_Tang_Da_Vua_Tren_Co.prefab.meta",
+        "Size":  154,
+        "SHA256":  "6F23CED710E24427DB44BDFF49D6B7487B20FDACA029A753C9420DAE19FCEF18"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\19_Tang_Da_Nho_Tren_Co.prefab",
+        "Size":  3671,
+        "SHA256":  "2417870FEF60FBAD5FCA775C71B0B38AB6CC11B3E472EDC5D69CC60F80D049ED"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\19_Tang_Da_Nho_Tren_Co.prefab.meta",
+        "Size":  154,
+        "SHA256":  "17DB077AE45E23E92AC4D1DD54601537572AD340A36E1EC66600D7BA140769F6"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\20_Da_Xep_Chong_Xam.prefab",
+        "Size":  3680,
+        "SHA256":  "62F9680101BB2B9010982EE8C65297C68E624AF8999F7F2C8A9E760E7CA2175A"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\20_Da_Xep_Chong_Xam.prefab.meta",
+        "Size":  154,
+        "SHA256":  "165177DE50CDFA32DBA46F59544783C284A5C8DE41E2D9C0FDF4708EBDEF61F0"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\21_Goc_Cay_Co_Thu.prefab",
+        "Size":  3671,
+        "SHA256":  "6EC8EFC9B9DE11268F158A6DA721C81FEE1D9E206E171ADA1284F752CE3EA96D"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\21_Goc_Cay_Co_Thu.prefab.meta",
+        "Size":  154,
+        "SHA256":  "CB2590A7D1F408BFA5CF3500A5E9A866CCD1251E18A6C2F60C549056779453B7"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\22_Than_Go_Muc_Reu.prefab",
+        "Size":  3669,
+        "SHA256":  "144AB69DF83AC64A94202C397E22F7DC1C29014E2CCF8F8611F5612D72A9536E"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\22_Than_Go_Muc_Reu.prefab.meta",
+        "Size":  154,
+        "SHA256":  "66C42C23FDBF2E063477B195091D3694DBBECFBA8097C865F57E9F3C68951DD7"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\23_Bui_Cay_Xanh_Lon.prefab",
+        "Size":  2531,
+        "SHA256":  "718ADCAEF3F906DB120DD18FE587E06C224AC8FBE5E060A497FDBEEE5E3C6AE3"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\23_Bui_Cay_Xanh_Lon.prefab.meta",
+        "Size":  154,
+        "SHA256":  "5AFC5213F9C89851921E91AA76CA26C82D4ADD75B63514B3766E0CCCD2EE8C84"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\24_Bui_Cay_Xanh_Tron.prefab",
+        "Size":  2534,
+        "SHA256":  "F97777F7A911C6C2DC3338CB53FEA79CB9465D0309E794621044C0E3EE8CEA4F"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\24_Bui_Cay_Xanh_Tron.prefab.meta",
+        "Size":  154,
+        "SHA256":  "3D35304F09A0F74180713CD0678AD75B2AF634B6171885D54CE8D3D4D7901F19"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\25_Bui_Duong_Xi.prefab",
+        "Size":  2527,
+        "SHA256":  "70AFC04BAC760C928FFA4E1FEB56999385DF042871556C5D1B75D80C48784418"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\25_Bui_Duong_Xi.prefab.meta",
+        "Size":  154,
+        "SHA256":  "BF63368A2F8AD5AC928BFB652727A98FE9CF82ACCFF0710740108BD9CD14C8E1"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\26_Nam_Do_Khong_Lo.prefab",
+        "Size":  2530,
+        "SHA256":  "103A6837B5A226DE446A482B840CFD4E80FA3770D0758ABCD66949E33A6FA71A"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\26_Nam_Do_Khong_Lo.prefab.meta",
+        "Size":  154,
+        "SHA256":  "2F2A33CA62216E42CD5E14136ADC94E1239723B14DEC6047841483C54445DE8B"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\27_Cum_3_Nam_Do.prefab",
+        "Size":  2526,
+        "SHA256":  "026EE4E9BC87A038B884E3D000EE2EB8C612ED4805639B1C9AD24A3F1487AF58"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\27_Cum_3_Nam_Do.prefab.meta",
+        "Size":  154,
+        "SHA256":  "AD1E198E0A574983BFBC061B36F8448DE2E439959251A915766718EC988E35F6"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\28_Duong_Da_Cuoi_Ngang.prefab",
+        "Size":  2533,
+        "SHA256":  "91E623EE2725E4E2BC17003DF0085A583927C5F9DD84A4270AAD9E1A83A80916"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\28_Duong_Da_Cuoi_Ngang.prefab.meta",
+        "Size":  154,
+        "SHA256":  "BCDB61DB04D60FB15124C454D7949750CA07148F64FCFD07C6A3C4752C8EF696"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\29_Duong_Da_Cuoi_Doc.prefab",
+        "Size":  2530,
+        "SHA256":  "48E2FFD0025437C0BF4D6A0F00FDB0DF57D1BCA34F106DF65175F34585268E32"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\29_Duong_Da_Cuoi_Doc.prefab.meta",
+        "Size":  154,
+        "SHA256":  "C078F48566FB9451CE8023292754C760557392C5586A490745E57A38EA098460"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\30_Tham_Co_Xanh_Tron.prefab",
+        "Size":  2534,
+        "SHA256":  "0BCB192D1B735FD884FEB675D8ECD9D3B8011460A41032FE95313B444D3986D3"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Prefabs\\Map3\\DoiThuong_Palette\\30_Tham_Co_Xanh_Tron.prefab.meta",
+        "Size":  154,
+        "SHA256":  "E7F9706E126F5F95553A0EC0BF6FDAC9231E9387693DA23A84BD0DA58D7862A7"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Scenes\\MainGame_With_Map2.unity",
+        "Size":  18465775,
+        "SHA256":  "3D6A66625B07C785FE9B08B1F84A87812293D2497E545ED9BB613625D4D39695"
+    },
+    {
+        "RelativePath":  "Backups\\Map2_Map3_Backup_20261101\\Scenes\\Map3.unity",
+        "Size":  56825,
+        "SHA256":  "B29A3A46AC3E2D0D93321A44D496D3609DD6ADAE90258B28957977311629EB20"
+    }
+]
